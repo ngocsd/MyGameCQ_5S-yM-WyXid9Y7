@@ -84,7 +84,7 @@ int get_use_effect_callout( object who,object gift)
 	{
 		int ran = 100000+random(100000);
 		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " lượng");
-		who->add_cash(rdCash) ;
+		who->add_cash(ran) ;
 	}
 	gift->add_amount(-1);
 	if ( item )
