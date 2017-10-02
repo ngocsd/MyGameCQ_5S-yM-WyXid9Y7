@@ -627,7 +627,7 @@ private int *Exp = ({
 int get_exp_bonus( int level )    // NPC 专用
 {
         level = range_value(level, 0, 150);
-		return Exp[level]*6;
+		return Exp[level]*60;
 }
 
 string * get_npc_attrib (int type)
