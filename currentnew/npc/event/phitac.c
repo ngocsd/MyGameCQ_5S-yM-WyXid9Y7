@@ -35,12 +35,12 @@ int can_fight( object who )
 { 
 	if ( !objectp(this_object()->get_enemy()) )
 		return 0;
-	if ( who->is_user() && this_object()->get_level()+10 < who->get_level() ) {
-	return 0;
-	}
-	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
-	return 0;
-	}	
+//	if ( who->is_user() && this_object()->get_level()+10 < who->get_level() ) {
+//	return 0;
+//	}
+//	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
+//	return 0;
+//	}	
 	return 1;
 }
 int can_be_fighted( object who ) 
@@ -52,14 +52,14 @@ int can_be_fighted( object who )
 	{
 		return 0;
 	}
-	if ( who->is_user() && this_object()->get_level()+10 < who->get_level() ) {
-	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Đẳng cấp cao vậy rồi mà vẫn tới bắt nạt ta. Hãy tới nơi khác đi !" );
-	return 0;
-	}
-	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
-	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Ngươi không nhìn thấy ta! Ngươi không nhìn thấy ta! \nHa ha ha ! Ha ha ha !" );
-	return 0;
-	}
+//	if ( who->is_user() && this_object()->get_level()+10 < who->get_level() ) {
+//	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Đẳng cấp cao vậy rồi mà vẫn tới bắt nạt ta. Hãy tới nơi khác đi !" );
+//	return 0;
+//	}
+//	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
+//	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Ngươi không nhìn thấy ta! Ngươi không nhìn thấy ta! \nHa ha ha ! Ha ha ha !" );
+//	return 0;
+//	}
 	return 1;
 }
 

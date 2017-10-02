@@ -45,28 +45,28 @@ int get_use_effect_callout( object who,object gift)
 	{
 		item = new("item/sell/0034");
 		if ( !item )
-			return 0;
+			send_user(who,"%c%s",'!',"có gì đó sai sai <10");
 	}
 	else if ( rate < 20 )	//Cao Cấp đoạn thạch
 	{
 		// mặc định rate 1
 		item = new("item/sell/2032");
 		if ( !item )
-			return 0;
+			send_user(who,"%c%s",'!',"có gì đó sai sai <20");
 	}
 	else if ( rate < 30 )	//Trung Cấp đoạn thạch
 	// mặc định rate 31
 	{		
 		item = new("item/sell/1032");
 		if ( !item )
-			return 0;
+			send_user(who,"%c%s",'!',"có gì đó sai sai <30");
 	}
 	else if ( rate < 50 )	//Sơ Cấp đoạn thạch 
 	// mặc định rate 51
 	{
 		item = new("item/sell/0032");
 		if ( !item )
-			return 0;
+			send_user(who,"%c%s",'!',"có gì đó sai sai <50");
 	}
 	else if ( rate < 90 )	//法力石
 	{
@@ -78,7 +78,9 @@ int get_use_effect_callout( object who,object gift)
 	}
 	else 			//乾坤袋
 	{
-		who->add_cash(100000+random(100000)) ;
+		int rdCash = 100000+random(100000);
+		who->add_cash(rdCash) ;
+		send_user(who,"%c%s",'!',"có gì đó sai sai nên bạn nhận được " + rdCash + " lượng");
 	}
 	gift->add_amount(-1);
 	if ( item )
