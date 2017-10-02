@@ -1,0 +1,10 @@
+#/sys/sys/id.c
+Id 1
+ItemId 4
+UserCount 2
+CountTime 2
+MaxUser 1
+Buyer 3
+BuyCount 3
+BuyPoint 1600
+TransId 10000

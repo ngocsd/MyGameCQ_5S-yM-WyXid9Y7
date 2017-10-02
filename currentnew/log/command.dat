@@ -1,0 +1,93 @@
+2017-10-02 00:00:00 531/24
+go: 525/23 tips: 6/1 
+2017-10-02 00:05:00 1005/44
+go: 992/42 tips: 13/2 
+2017-10-02 00:10:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:15:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:20:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:25:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:30:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:35:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:40:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:45:01 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:50:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 00:55:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:00:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:05:01 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:10:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:15:01 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:20:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:25:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:30:00 0/0
+go: 0/0 tips: 0/0 
+2017-10-02 01:35:00 1320/80
+go: 741/31 tips: 0/0 family: 30/3 desc: 115/11 look: 44/5
+talk: 120/6 use: 9/1 gmdrop: 7/1 get: 110/10 say: 4/1
+csmm: 126/9 无效: 14/2 
+2017-10-02 01:40:00 312/28
+go: 0/0 tips: 0/0 family: 0/0 desc: 27/3 look: 81/9
+talk: 85/5 use: 0/0 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 59/4 无效: 7/1 buyitem: 53/6 
+2017-10-02 01:45:00 184/11
+go: 94/4 tips: 0/0 family: 0/0 desc: 0/0 look: 18/2
+talk: 34/2 use: 0/0 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 30/2 无效: 0/0 buyitem: 0/0 NY5000: 8/1 
+2017-10-02 01:50:00 175/13
+go: 47/2 tips: 0/0 family: 0/0 desc: 7/1 look: 27/3
+talk: 34/2 use: 0/0 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 45/3 无效: 7/1 buyitem: 8/1 NY5000: 0/0 
+2017-10-02 01:55:00 351/24
+go: 71/3 tips: 0/0 family: 0/0 desc: 14/2 look: 9/1
+talk: 17/1 use: 0/0 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 178/10 无效: 0/0 buyitem: 62/7 NY5000: 0/0 
+2017-10-02 02:00:00 2090/143
+go: 859/36 tips: 6/1 family: 0/0 desc: 278/29 look: 54/6
+talk: 102/6 use: 243/27 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 259/14 无效: 49/7 buyitem: 96/8 NY5000: 0/0 pf2: 12/2
+savings: 112/5 pawn: 20/2 
+2017-10-02 02:05:00 6270/304
+go: 5396/232 tips: 6/1 family: 30/3 desc: 119/12 look: 63/7
+talk: 165/8 use: 18/2 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 0/0 无效: 0/0 buyitem: 0/0 NY5000: 0/0 pf2: 0/0
+savings: 0/0 pawn: 0/0 key: 22/2 无指令: 26/1 remove: 8/1
+party: 39/5 pf: 96/12 kill: 120/12 suathuoctinh: 138/4 drop: 24/2
+
+2017-10-02 02:10:00 3459/178
+go: 2592/112 tips: 0/0 family: 0/0 desc: 260/25 look: 19/2
+talk: 0/0 use: 36/4 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 0/0 无效: 0/0 buyitem: 0/0 NY5000: 0/0 pf2: 30/5
+savings: 0/0 pawn: 0/0 key: 0/0 无指令: 0/0 remove: 8/1
+party: 0/0 pf: 68/8 kill: 60/6 suathuoctinh: 259/6 drop: 0/0
+move: 39/3 SCS: 17/1 buy: 71/5 
+2017-10-02 02:15:00 1656/136
+go: 387/17 tips: 0/0 family: 0/0 desc: 273/28 look: 0/0
+talk: 0/0 use: 130/14 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 0/0 无效: 21/3 buyitem: 303/28 NY5000: 0/0 pf2: 18/3
+savings: 0/0 pawn: 10/1 key: 27/1 无指令: 0/0 remove: 0/0
+party: 0/0 pf: 0/0 kill: 0/0 suathuoctinh: 0/0 drop: 411/35
+move: 0/0 SCS: 0/0 buy: 9/1 gmmap: 12/1 pet: 33/2
+pf5: 9/1 truyentong: 13/1 
+2017-10-02 15:00:01 0/0
+go: 0/0 tips: 0/0 family: 0/0 desc: 0/0 look: 0/0
+talk: 0/0 use: 0/0 gmdrop: 0/0 get: 0/0 say: 0/0
+csmm: 0/0 无效: 0/0 buyitem: 0/0 NY5000: 0/0 pf2: 0/0
+savings: 0/0 pawn: 0/0 key: 0/0 无指令: 0/0 remove: 0/0
+party: 0/0 pf: 0/0 kill: 0/0 suathuoctinh: 0/0 drop: 0/0
+move: 0/0 SCS: 0/0 buy: 0/0 gmmap: 0/0 pet: 0/0
+pf5: 0/0 
