@@ -37,11 +37,11 @@ void do_look(object who) {
             ESC "Nhận Túi Quà May Mắn\ntalk %x# gift.11\n"
             ESC "Tham gia Con số may mắn\ntalk %x# gift.12\n"
             ESC "Đổi thưởng Tích luỹ Cứu thế\ntalk %x# gift.13\n"
-            //	ESC "Đổi Phi Phong và Cánh\ntalk %x# gift.20\n"				
-            //	ESC "Gói quà Quốc Tế Phụ Nữ\ntalk %x# gift.50\n"	
+            ESC "Đổi Phi Phong và Cánh\ntalk %x# gift.20\n"				
+            ESC "Gói quà Quốc Tế Phụ Nữ\ntalk %x# gift.50\n"	
             ESC "Đổi Sổ Xố Đặc Biệt\ntalk %x# gift.30\n"
             ESC HIY"Ghép Chìa Khóa và Hộp\ntalk %x# gift.60\n"
-            //	ESC HIY"Đổi chữ 30 tháng 4\ntalk %x# gift.40\n"
+            ESC HIY"Đổi chữ 30 tháng 4\ntalk %x# gift.40\n"
             ESC"Rời khỏi", get_name(), id, id, id, id, id, id, id));
 }
 
@@ -159,7 +159,7 @@ void do_gift2(object me, string arg) {
                     ESC"20 điểm tích lấy Túi Hoàng Kim ( tỷ lệ đổi thành công là 70%% )\ntalk %x# gift.14\n" // Tỉ lệ thành công trước là 10
                     ESC"15 điểm tích lấy Túi Kim Bảo ( tỷ lệ đổi thành công là 70%% )\ntalk %x# gift.15\n" // Tỉ lệ thành công trước là 20
                     ESC"10 điểm tích lấy Túi Ngân Lượng ( tỷ lệ đổi thành công là 70%% )\ntalk %x# gift.16\n" // Tỉ lệ thành công trước là 20
-                    //	ESC"20 điểm tích lấy Mảnh ghép Vương Giả ( tỷ lệ đổi thành công là 15%% )\ntalk %x# gift.17\n"
+                    ESC"20 điểm tích lấy Mảnh ghép Vương Giả ( tỷ lệ đổi thành công là 15%% )\ntalk %x# gift.17\n"
                     ESC"Rời khỏi", me->get_name(), who->get_save("diemcuudoi"), id, id, id, id, id));
             break;
         case 14:
