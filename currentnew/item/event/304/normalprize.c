@@ -70,17 +70,21 @@ int get_use_effect_callout( object who,object gift)
 	}
 	else if ( rate < 90 )	//法力石
 	{
-		who->add_save("tienxu",1+random(3));
+		int ran = 1+random(3);
+		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " Tiễnu");
+		who->add_save("tienxu",ran);
 	}
 	else if ( rate < 95 )	//法力石
 	{
-		"sys/sys/test_db"->add_yuanbao(who,2+random(20)*10);	
+		int ran = 2+random(20)*10;
+		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " KNB");
+		"sys/sys/test_db"->add_yuanbao(who,ran);	
 	}
 	else 			//乾坤袋
 	{
-		int rdCash = 100000+random(100000);
+		int ran = 100000+random(100000);
+		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " lượng");
 		who->add_cash(rdCash) ;
-		send_user(who,"%c%s",'!',"có gì đó sai sai nên bạn nhận được " + rdCash + " lượng");
 	}
 	gift->add_amount(-1);
 	if ( item )
