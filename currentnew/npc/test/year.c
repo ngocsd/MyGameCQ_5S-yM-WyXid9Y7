@@ -36,13 +36,13 @@ void do_look(object who) {
     send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf(" %s :\n Hãy đến với ta ngươi sẽ nhận được những phần quà hấp dẫn... \n"
             ESC "Nhận Túi Quà May Mắn\ntalk %x# gift.11\n"
             ESC "Tham gia Con số may mắn\ntalk %x# gift.12\n"
-            ESC "Đổi thưởng Tích luỹ Cứu thế\ntalk %x# gift.13\n"
-            ESC "Đổi Phi Phong và Cánh\ntalk %x# gift.20\n"				
+        //    ESC "Đổi thưởng Tích luỹ Cứu thế\ntalk %x# gift.13\n"
+        //    ESC "Đổi Phi Phong và Cánh\ntalk %x# gift.20\n"				
             ESC "Gói quà Quốc Tế Phụ Nữ\ntalk %x# gift.50\n"	
             ESC "Đổi Sổ Xố Đặc Biệt\ntalk %x# gift.30\n"
-            // ESC HIY"Ghép Chìa Khóa và Hộp\ntalk %x# gift.60\n"
+            ESC HIY"Ghép Chìa Khóa và Hộp\ntalk %x# gift.60\n"
             ESC HIY"Đổi chữ 30 tháng 4\ntalk %x# gift.40\n"
-            ESC"Rời khỏi", get_name(), id, id, id, id, id, id, id));
+            ESC"Rời khỏi", get_name(), id, id, id, id, id, id, id, id));
 }
 
 void do_gift(string arg) {
