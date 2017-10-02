@@ -210,7 +210,7 @@ void make_feizei() {
 			level_keys = keys(feizei_info[num]);
 			if(sizeof(level_keys)>0) {
 				foreach(level in level_keys) {
-					for(i=0;i<10;i++) {						
+					for(i=0;i<100;i++) {						
 						z = feizei_info[num][level][random(sizeof(feizei_info[num][level]))];
 						if( !( p = get_xy_point(z, IS_CHAR_BLOCK) ) ) {
 							continue;

@@ -40,7 +40,7 @@ void do_look(object who) {
             ESC "Đổi Phi Phong và Cánh\ntalk %x# gift.20\n"				
             ESC "Gói quà Quốc Tế Phụ Nữ\ntalk %x# gift.50\n"	
             ESC "Đổi Sổ Xố Đặc Biệt\ntalk %x# gift.30\n"
-            ESC HIY"Ghép Chìa Khóa và Hộp\ntalk %x# gift.60\n"
+            // ESC HIY"Ghép Chìa Khóa và Hộp\ntalk %x# gift.60\n"
             ESC HIY"Đổi chữ 30 tháng 4\ntalk %x# gift.40\n"
             ESC"Rời khỏi", get_name(), id, id, id, id, id, id, id));
 }
