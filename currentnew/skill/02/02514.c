@@ -114,7 +114,7 @@ int perform_done_npc( object me, object who )
 		        if ( who && !who->is_die() )
 		        	CHAR_FIGHT_D->set_enmity(me,who,80);	
                 }
-	me->delete_perform(PF_FLAG);
+		me->delete_perform(PF_FLAG);
         return 2;    // 执行成功
 }
 

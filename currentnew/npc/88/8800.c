@@ -319,19 +319,19 @@ void do_welcome2( object me, string arg )
 				);         	
         	break;
 		case 1:
-		send_user(who,"%c%s",':',sprintf( "PretKuzl:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
+		send_user(who,"%c%s",':',sprintf( "Gờ Mờ:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
 				);         	
         	break;
 		case 2:
-		send_user(who,"%c%s",':',sprintf( "PretKuzl:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
+		send_user(who,"%c%s",':',sprintf( "Gờ Mờ:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
 				);         	
         	break;
 		case 3:
-		send_user(who,"%c%s",':',sprintf( "PretKuzl:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
+		send_user(who,"%c%s",':',sprintf( "Gờ Mờ:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
 				);         	
         	break;
 		case 17:
-		send_user(who,"%c%s",':',sprintf( "PretKuzl:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
+		send_user(who,"%c%s",':',sprintf( "Gờ Mờ:\n Nghe đồn mấy cưng Auto ghê lắm! Giờ thử Auto xem? Hí hí.\n" ) 
 				);         	
         	break;
 	/*	 case 19:
@@ -411,8 +411,8 @@ void player_sign_up(object me,object who)
 		level = 60;
 	else if ( level <= 80 )
 		level = 80;
-//	else if ( level <= 100 )
-//		level = 100;
+	else if ( level <= 100 )
+		level = 100;
 	else if ( level <= 120 )
 		level = 120;
 	else if ( level <= 150 )
@@ -498,11 +498,11 @@ void team_sign_up(object me, object who)
 		level1 = 61;
 		level2 = 80;
 	}
-//	else if ( level <= 100 )
-//	{
-//		level1 = 81;
-//		level2 = 100;
-//	}
+	else if ( level <= 100 )
+	{
+		level1 = 81;
+		level2 = 100;
+	}
 	else if ( level <= 120 )
 	{
 		level1 = 81;
