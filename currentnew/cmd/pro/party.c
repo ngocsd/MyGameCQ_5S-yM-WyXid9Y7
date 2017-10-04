@@ -21,16 +21,7 @@ int main( object me, string arg )
 	default:
 		send_user(me, "%c%c%w%s", ':',3,0,
 			"Mời lựa chọn:\n"
-			+ sprintf(ESC"Trang kế tiếp\nparty 6666\n")
-	    + sprintf(ESC"Lễ tình nhân\nparty 1\n")
-			+ sprintf(ESC"Mùa xuân\nparty 4\n")
-			+ sprintf(ESC"Hoạt động số lần đăng nhập của bạn\nparty 100\n")
-			+ sprintf(ESC"Hoàng thành thủ vệ chiến\nparty 7\n")
-			+ sprintf(ESC"Hoạt động chiến quốc vương\nparty 11\n")
-			+ sprintf(ESC"Hệ thống bảo rương\nparty 20\n")
-      		+ sprintf(ESC"321 Gấp đôi kinh nghiệm sv\nparty 23\n")
-			+ sprintf(ESC"Hoạt động điều hành online\nparty 33\n")
-			+ sprintf(ESC"Phần thưởng bang phái đồng tâm\nparty 30\n")
+			+ sprintf(ESC"Trang kế tiếp\nparty 6666\n")			
 			+ sprintf(ESC"Hoạt động 51\nparty 39\n")
 			+ sprintf(ESC"Phiêu vương tranh bá\nparty 43\n")
 			+ sprintf(ESC"Hoạt động quả cầu 4 màu\nparty 54\n")
@@ -50,7 +41,6 @@ int main( object me, string arg )
 			+ sprintf(ESC"Dịch vụ bồi thường\nparty 200\n")
 			+ sprintf(ESC"Vô Song Thành\nparty 9999\n")
 			+ sprintf(ESC"4 Boss Thế Giới\nparty 789789\n")
-		
 			+ ESC"Thoát"
 		);
 		break;
@@ -62,6 +52,15 @@ int main( object me, string arg )
 			+ sprintf(ESC"Truy tìm duyên phận\nparty 26\n")
 			+ sprintf(ESC"Phần thưởng người mới\nparty 16\n")
 			+ sprintf(ESC"Vô song thành chiến\nparty 7000\n")
+			+ sprintf(ESC"Lễ tình nhân\nparty 1\n")
+			+ sprintf(ESC"Mùa xuân\nparty 4\n")
+			+ sprintf(ESC"Hoạt động số lần đăng nhập của bạn\nparty 100\n")
+			+ sprintf(ESC"Hoàng thành thủ vệ chiến\nparty 7\n")
+			+ sprintf(ESC"Hoạt động chiến quốc vương\nparty 11\n")
+			+ sprintf(ESC"Hệ thống bảo rương\nparty 20\n")
+      		+ sprintf(ESC"321 Gấp đôi kinh nghiệm sv\nparty 23\n")
+			+ sprintf(ESC"Hoạt động điều hành online\nparty 33\n")
+			+ sprintf(ESC"Phần thưởng bang phái đồng tâm\nparty 30\n")
 			+ ESC"Thoát"
 		);		
 		break;

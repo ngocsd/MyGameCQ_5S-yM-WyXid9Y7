@@ -22,7 +22,7 @@ void create()
         set("hp+", 50);
         set("!%+", 100);
         set("?%+", 100);
- 	set_item_color(3);	//紫色
+		set_item_color(3);	//紫色
         setup();
 
         set_weapon_type(BLADE);

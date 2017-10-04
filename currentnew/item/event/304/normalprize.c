@@ -71,7 +71,7 @@ int get_use_effect_callout( object who,object gift)
 	else if ( rate < 90 )	//法力石
 	{
 		int ran = 1+random(3);
-		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " Tiễnu");
+		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " Tiền xu");
 		who->add_save("tienxu",ran);
 	}
 	else if ( rate < 95 )	//法力石
