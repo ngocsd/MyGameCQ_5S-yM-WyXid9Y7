@@ -11,7 +11,7 @@
 
 int iStart_qixi,iFinish_qixi;
 object Niulang,Zhinv,Wangmu;
-string *qixi_rose=({"七夕蓝玫瑰","七夕白玫瑰","七夕红玫瑰","七夕紫玫瑰",});
+string *qixi_rose=({"Hoa Hồng Xanh","Hoa Hồng Trắng","Hoa Hồng Đỏ","Hoa Hồng Tím",});
 void get_qixi_npc();
 void destruct_qixi_npc();
 // 函数：生成二进制码
@@ -20,7 +20,7 @@ void SAVE_BINARY() { }
 void create()
 {
 	iStart_qixi = mktime(2007,8,19,7,50,0);	
-	iFinish_qixi = mktime(2007,8,19,22,0,0);
+	iFinish_qixi = mktime(2020,8,19,22,0,0);
 
 	call_out("check_time",3);
 }
@@ -39,7 +39,7 @@ void check_time()
 		return ;
 	}
 	call_out("check_time2",600);
-	CHAT_D->sys_channel(0,HIY"牛郎织女将在10分钟后降临人间繁华地——周国，寻求有缘人的帮助，大家赶快去周国啊！");
+	CHAT_D->sys_channel(0,HIY"Người chăn bò và thợ dệt sẽ ở trong 10 phút sau sự ra đời của con người nhộn nhịp - Zhou Guo，Tìm kiếm sự giúp đỡ của người dân, chúng tôi nhanh chóng đi đến Chu Quốc！");
 }
 
 void check_time2()
@@ -54,15 +54,15 @@ void check_time2()
 		return ;
 	}
 	get_qixi_npc();
-	CHAT_D->sys_channel(0,HIY"牛郎织女七夕降临人间，为了能够长相守，他们正在周国天坛寻求有缘人的帮助。为了有情人能够终成眷属，大家赶快找自己的有缘人去帮助他们啊！");
+	CHAT_D->sys_channel(0,HIY"Thợ dệt cao bồi Tanabata đến thế gian, để có thể giữ được một thời gian dài, họ đang ở Đền Chu Thiên để tìm kiếm sự giúp đỡ. Để có những người yêu có thể kết hôn, chúng tôi nhanh chóng tìm thấy những người của mình để giúp họ!");
 	call_out("check_time2",1800);
 }
 void check_time3()
 {
 	destruct_qixi_npc();
-	CHAT_D->sys_channel(0,HIY"经过大家的热情帮助，牛郎和织女终于摆脱了天河，找到一个风景秀丽的地方，幸福地生活在了一起。真诚祝愿帮助过他们的有缘人‘有情人能终成眷属’。");
-	CHAT_D->sys_channel(0,HIY"经过大家的热情帮助，牛郎和织女终于摆脱了天河，找到一个风景秀丽的地方，幸福地生活在了一起。真诚祝愿帮助过他们的有缘人‘有情人能终成眷属’。");
-	CHAT_D->sys_channel(0,HIY"经过大家的热情帮助，牛郎和织女终于摆脱了天河，找到一个风景秀丽的地方，幸福地生活在了一起。真诚祝愿帮助过他们的有缘人‘有情人能终成眷属’。");
+	CHAT_D->sys_channel(0,HIY"Sau khi tất cả sự trợ giúp ấm áp, Ngưu Lang và Chức Nữ cuối cùng đã thoát khỏi Dải Ngân hà, để tìm một nơi tuyệt đẹp, vui vẻ sống cùng nhau. Trân trọng muốn giúp đỡ mọi người có một 'người yêu có thể kết hôn'.");
+	//CHAT_D->sys_channel(0,HIY"经过大家的热情帮助，牛郎和织女终于摆脱了天河，找到一个风景秀丽的地方，幸福地生活在了一起。真诚祝愿帮助过他们的有缘人‘有情人能终成眷属’。");
+	//CHAT_D->sys_channel(0,HIY"经过大家的热情帮助，牛郎和织女终于摆脱了天河，找到一个风景秀丽的地方，幸福地生活在了一起。真诚祝愿帮助过他们的有缘人‘有情人能终成眷属’。");
 }
 // 函数：放入活动NPC
 void get_qixi_npc()

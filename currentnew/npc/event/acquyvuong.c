@@ -22,10 +22,10 @@ void create()
 }
 int can_fight(object player)
 {
-	return 0;
+	return 1;
 }
 
 int can_be_fighted(object player)
 {
-	return 0;
+	return 1;
 }
