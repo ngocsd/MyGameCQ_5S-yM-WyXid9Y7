@@ -1,1 +1,8 @@
 2017-10-02 01:44:46 : Tâm_Diện (1) đã nạp 84000 Kim Bảo cho người chơi Tâm_Diện có số id 1 trị giá 5tr
+2017-10-03 22:19:18 : Tâm_Diện (1) đã nạp 1600 Kim Bảo cho người chơi CLD có số id 4 trị giá 100k
+2017-10-04 09:53:18 : Tâm_Diện (1) đã nạp 16500 Kim Bảo cho người chơi Nghịch có số id 5 trị giá 1tr
+2017-10-04 23:59:39 : Tâm_Diện (1) đã nạp 16500 Kim Bảo cho người chơi Fun có số id 11 trị giá 1tr
+2017-10-05 23:45:24 : Tâm_Diện (1) đã nạp 33500 Kim Bảo cho người chơi Nghịch có số id 5 trị giá 2tr
+2017-10-07 16:30:36 : Tâm_Diện (1) đã nạp 84000 Kim Bảo cho người chơi CLD có số id 4 trị giá 5tr
+2017-10-07 16:36:50 : Tâm_Diện (1) đã nạp 84000 Kim Bảo cho người chơi TrungĐz có số id 3 trị giá 5tr
+2017-10-07 20:12:39 : Tâm_Diện (1) đã nạp 33500 Kim Bảo cho người chơi Mr-Lonely có số id 14 trị giá 2tr

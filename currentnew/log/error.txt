@@ -30,11 +30,6 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
-2017-10-08 02:02:42 cmd/std/mix10.c line 149: parse error
-2017-10-08 02:02:42 cmd/std/mix10.c line 150: Illegal LHS
-2017-10-08 02:02:42 cmd/std/mix10.c line 246: parse error
-2017-10-08 02:02:42 cmd/std/mix10.c line 248: Illegal LHS
-2017-10-08 02:02:42 cmd/std/mix10.c line 335: parse error
 错误: /quest/tips.txt 第 1 行提示定义错。
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
@@ -63,6 +58,14 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-02 23:22:51 item/event/304/normalprize.c line 87: Undefined variable 'rdCash'
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-04 20:17:10 npc/party/0014.c line 91: Undefined variable 'iFinish2'
+2017-10-04 20:17:10 npc/party/0014.c line 98: Undefined variable 'mpXinrenwang'
+2017-10-04 20:17:10 npc/party/0014.c line 154: Undefined variable 'mpXinrenwang'
 错误: /quest/tips.txt 第 1 行提示定义错。
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
@@ -75,13 +78,96 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
-2017-10-08 03:37:37 inh/user/user.c line 2100: parse error
-2017-10-08 03:38:23 inh/user/user.c line 2100: parse error
 错误: /quest/tips.txt 第 1 行提示定义错。
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
-2017-10-08 03:40:06 inh/user/user.c line 2100: parse error
+2017-10-05 23:21:29 npc/party/0014.c line 91: Undefined variable 'iFinish2'
+2017-10-05 23:21:29 npc/party/0014.c line 98: Undefined variable 'mpXinrenwang'
+2017-10-05 23:21:29 npc/party/0014.c line 154: Undefined variable 'mpXinrenwang'
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-07 19:00:58 cmd/std/mix10.c line 82: parse error
+2017-10-07 19:00:58 cmd/std/mix10.c line 85: Illegal LHS
+2017-10-07 19:00:58 cmd/std/mix10.c line 89: parse error
+2017-10-07 19:00:58 cmd/std/mix10.c line 91: Illegal LHS
+2017-10-07 19:00:58 cmd/std/mix10.c line 91: parse error
+2017-10-07 19:00:58 cmd/std/mix10.c line 92: Illegal LHS
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-07 20:31:42 cmd/std/mix10.c line 82: parse error
+2017-10-07 20:31:42 cmd/std/mix10.c line 85: Illegal LHS
+2017-10-07 20:31:42 cmd/std/mix10.c line 89: parse error
+2017-10-07 20:31:42 cmd/std/mix10.c line 91: Illegal LHS
+2017-10-07 20:31:42 cmd/std/mix10.c line 91: parse error
+2017-10-07 20:31:42 cmd/std/mix10.c line 92: Illegal LHS
+2017-10-07 20:31:45 cmd/std/mix10.c line 82: parse error
+2017-10-07 20:31:45 cmd/std/mix10.c line 85: Illegal LHS
+2017-10-07 20:31:45 cmd/std/mix10.c line 89: parse error
+2017-10-07 20:31:45 cmd/std/mix10.c line 91: Illegal LHS
+2017-10-07 20:31:45 cmd/std/mix10.c line 91: parse error
+2017-10-07 20:31:45 cmd/std/mix10.c line 92: Illegal LHS
+2017-10-07 21:30:07 cmd/std/mix10.c line 82: parse error
+2017-10-07 21:30:07 cmd/std/mix10.c line 85: Illegal LHS
+2017-10-07 21:30:07 cmd/std/mix10.c line 89: parse error
+2017-10-07 21:30:07 cmd/std/mix10.c line 91: Illegal LHS
+2017-10-07 21:30:07 cmd/std/mix10.c line 91: parse error
+2017-10-07 21:30:07 cmd/std/mix10.c line 92: Illegal LHS
+2017-10-08 01:20:54 cmd/std/mix10.c line 82: parse error
+2017-10-08 01:20:54 cmd/std/mix10.c line 85: Illegal LHS
+2017-10-08 01:20:54 cmd/std/mix10.c line 89: parse error
+2017-10-08 01:20:54 cmd/std/mix10.c line 91: Illegal LHS
+2017-10-08 01:20:54 cmd/std/mix10.c line 91: parse error
+2017-10-08 01:20:54 cmd/std/mix10.c line 92: Illegal LHS
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-08 01:41:59 cmd/std/mix10.c line 149: parse error
+2017-10-08 01:41:59 cmd/std/mix10.c line 150: Illegal LHS
+2017-10-08 01:41:59 cmd/std/mix10.c line 246: parse error
+2017-10-08 01:41:59 cmd/std/mix10.c line 248: Illegal LHS
+2017-10-08 01:41:59 cmd/std/mix10.c line 335: parse error
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
 错误: /quest/tips.txt 第 1 行提示定义错。
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
