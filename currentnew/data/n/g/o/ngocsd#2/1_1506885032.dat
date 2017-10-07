@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_fuse":1,"no_give":1,"shenshou":1,])
+SaveDatabase (["no_fuse":1,"shenshou":1,"no_give":1,])
 SaveDbase2 ([])
 Con 31
 Spi 11
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74209":(/1,0,/),"74104":(/1,0,/),"74206":(/1,0,/),"74227":(/1,0,/),"74001":(/1,0,/),])
+Skills (["74104":(/1,0,/),"74001":(/1,0,/),"74227":(/1,0,/),"74206":(/1,0,/),"74209":(/1,0,/),])
 WeaponCode 60
 Name "Song Tử"
 PicId 3023

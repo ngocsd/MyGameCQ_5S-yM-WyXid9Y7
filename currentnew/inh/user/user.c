@@ -1953,10 +1953,10 @@ void apex_kickout( int action )
 
 int kicknguoichoi(object who, int giay)
 {
-	giay = giay -1;
+	giay = giay - 1;
 	if( giay > 0 )
 	{
-		call_out("kicknguoichoi",1,who,giay);
+		call_out("kicknguoichoi",giay,who,1);
 	}
 	else
 	{
