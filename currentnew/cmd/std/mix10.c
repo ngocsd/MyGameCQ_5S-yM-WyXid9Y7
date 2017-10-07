@@ -18,15 +18,16 @@ int main(object me, string arg) {
     item = ({0, 0,});
     id = ({0, 0,});
 
-    if (sscanf(arg, "? %s %x# %x#", name, id[0], id[1]) == 3) flag = 1;
-    else if (sscanf(arg, "%s %x# %x#", name,
-            id[0], id[1]) == 3) flag = 2;
+    if (sscanf(arg, "? %s %x# %x#", name, id[0], id[1]) == 3) 
+		flag = 1;
+    else if (sscanf(arg, "%s %x# %x#", name, id[0], id[1]) == 3) 
+		flag = 2;
     else {
         notify("Bạn muốn tinh luyện đồ vật gì?");
         return 1;
     }
 
-    if (flag == 1) //精炼成功率
+    if (flag == 1) //Tinh chỉnh tỉ lệ thành công
     {
         for (i = 0; i < 2; i++) {
             if (!objectp(item[i] = present(sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4))) // 物品是否存在？
@@ -78,12 +79,12 @@ int main(object me, string arg) {
             rate = 100;
         } else//Dưới đây là tỷ lệ thành công thiết bị tính toán spar giả mạo.
         {
-			rate = 100
+            rate = 100
         }
         //	if(level!=1 && me->get_vip() && !me->get_save_2("vip_package.trial"))
         if (level > 15 && me->get_vip() && !me->get_save_2("vip_package.trial"))
             rate += 5;
-		notify("test 1");
+        notify("test 1");
         send_user(me, "%c%c%c%d", 0x25, 0, rate, 0);
         return 1;
     } else //精炼装备
@@ -91,7 +92,7 @@ int main(object me, string arg) {
         for (i = 0; i < 2; i++) {
             if (!objectp(item[i] = present(sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4))) // 物品是否存在？
             {
-				notify("test 2");
+                notify("test 2");
                 return 1;
             }
         }
@@ -146,10 +147,10 @@ int main(object me, string arg) {
             destruct(item[1]);
             write_user(me, ECHO "%s tinh luyện không thành công！", item[0]->get_name());
         }
-		notify("test 3");
+        notify("test 3");
         return 1;
     }
-	notify("test 4");
+    notify("test 4");
     return 1;
 }
 
@@ -188,11 +189,14 @@ int mix1(object me, object *item) {
     string forge, result, index;
     if (!(i = item[0]->get_equip_type())
             || (i != WEAPON_TYPE && i != ARMOR_TYPE && i != HEAD_TYPE && i != BOOTS_TYPE && i != WAIST_TYPE && i != NECK_TYPE))
-		notify("test 5");
-        return 0;
+        notify("test 5");
+    return 0;
     forge = item[0]->get("forge");
     index = item[1]->get_forge_index();
-    if (index < "1" || index > "4"){ notify("test 6"); return 0};
+    if (index < "1" || index > "4") {
+        notify("test 6");
+        return 0
+    };
     if (forge == 0) forge = "";
     level = strlen(forge);
     if (item[1]->get_level() != 1) {
