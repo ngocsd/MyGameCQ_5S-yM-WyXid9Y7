@@ -98,7 +98,7 @@ int main(object me, string arg)
         }
         else //Dưới đây là tỷ lệ thành công thiết bị tính toán spar giả mạo.
         {
-            rate = 100
+            rate = 100;
         }
         //	if(level!=1 && me->get_vip() && !me->get_save_2("vip_package.trial"))
         if (level > 15 && me->get_vip() && !me->get_save_2("vip_package.trial"))
@@ -114,6 +114,7 @@ int main(object me, string arg)
             if (!objectp(item[i] = present(sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4))) // Mục này có phải là món hàng không?
             {
                 notify("test 2");
+				send_user(me, "%c%c%c%d", 0x25, 0, 0, 0);
                 return 1;
             }
         }
