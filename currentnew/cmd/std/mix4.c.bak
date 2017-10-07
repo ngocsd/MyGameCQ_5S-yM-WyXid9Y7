@@ -38,7 +38,7 @@ int main( object me, string arg )
 
         me->to_front_eachother(who);
 */
-        if( flag == 1 )	//精炼成功率
+        if( flag == 1 )	//Tinh chỉnh tỉ lệ thành công
         {
                 for( i = 0; i < 2; i ++ )
                 {

@@ -25,7 +25,7 @@ int main( object me, string arg )
         {
                 for( i = 0; i < 4; i ++ ) 
                 {
-                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // Mục này có phải là món hàng không?
+                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // 物品是否存在？
                         {
 //                              notify( "您找不到第 %d 样原料。", i + 1 );
 //                              return 1;
@@ -41,7 +41,7 @@ int main( object me, string arg )
         {
                 for( i = 0; i < 4; i ++ ) if( amount[i] > 0 )
                 {
-                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // Mục này có phải là món hàng không?
+                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // 物品是否存在？
                         {
                                 notify( "您找不到第 %d 样原料。", i + 1 );
                                 return 1;

@@ -1,0 +1,20 @@
+dev log 
+
+
+year.c
+party.c
+feizei.c 	line 213    for(i=0;i<num;i++) {			for(i=0;i<10;i++) {
+
+
+item/set10sao/tukim85_10/set10sao
+item/set10sao/bavuong_10/tuivukhibavuong
+item/set10sao/80/set10sao
+
+việt hóa
+thất quốc lệnh   -> done
+
+võ lầm bại hoại 1 ng    -> gọi cần pt 1 ng, party thường pt 2 ng
+chiến trường 1 ng		-> Chiến trường cần tói thiểu 2 người để bắt đầu
+add npc nguyên liệu		-> 
+aoe cvq, ms, vmc, dhn	-> 
+fix vmc skill 150 đấu chuyển + 800 nội công, fix buff máu

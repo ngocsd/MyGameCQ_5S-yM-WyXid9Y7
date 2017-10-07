@@ -42,7 +42,7 @@ int main( object me, string arg )
         {
                 for( i = 0; i < 2; i ++ )
                 {
-                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // 物品是否存在？
+                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // Mục này có phải là món hàng không?
                         {
                         	send_user( me, "%c%c%c%d", 0x25, 0, 0, 0 );
                             	return 1;
@@ -135,7 +135,7 @@ int main( object me, string arg )
         {
                 for( i = 0; i < 2; i ++ )
                 {
-                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // 物品是否存在？
+                        if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // Mục này có phải là món hàng không?
                         {
                             	return 1;
                         }

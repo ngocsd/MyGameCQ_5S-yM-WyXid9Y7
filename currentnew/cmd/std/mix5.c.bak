@@ -183,7 +183,7 @@ if ( sprintf("%x#",id[0])!="0#" &&
 	sprintf("%x#",id[4])=="0#") {ben=2;xx=20;}	
 			for( i = 0; i < ben; i ++ ) 
 			{
-                if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // Mục này có phải là món hàng không?
+                if( !objectp( item[i] = present( sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4 ) ) )    // 物品是否存在？
                 {
                       return 1;
                 }
