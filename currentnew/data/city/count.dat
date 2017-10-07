@@ -4,9 +4,9 @@ buycount 4
 can_gm3 1
 IncomeName ({"get",})
 UseName ({"travel","buy",})
-CommandName ({"go","tips","family","desc","look","talk","use","gmdrop","get","say","csmm","无效","buyitem","NY5000","pf2","savings","pawn","key","无指令","remove","party","pf","kill","suathuoctinh","drop","move","SCS","buy","gmmap","pet","pf5",})
+CommandName ({"go","tips","family","desc","look","talk","use","gmdrop","get","say","csmm","无效","buyitem","NY5000","pf2","savings","pawn","key","无指令","remove","party","pf","kill","suathuoctinh","drop","move","SCS","buy","gmmap","pet","pf5","clone","mix7","mix10",})
 FamilyCount (["":1,])
-EquipCount (["yellow":12,])
+EquipCount (["blue":-4,"yellow":12,])
 SceneTask ([])
 Pet ([])
 iNewPerson 1

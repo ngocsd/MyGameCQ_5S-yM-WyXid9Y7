@@ -15,6 +15,15 @@ thất quốc lệnh   -> done
 
 võ lầm bại hoại 1 ng    -> gọi cần pt 1 ng, party thường pt 2 ng
 chiến trường 1 ng		-> Chiến trường cần tói thiểu 2 người để bắt đầu
-add npc nguyên liệu		-> 
+add npc nguyên liệu		-> done
 aoe cvq, ms, vmc, dhn	-> 
 fix vmc skill 150 đấu chuyển + 800 nội công, fix buff máu
+kỹ năng sống -> 150
+add tù và lập bang
+quái cày mil
+tăng tỉ lệ knb trọc
+fix boss phụ bản bá vương
+add boss sơn đại vương 5% kd 100%
+giảm dép lào  dầu ăn cần để đổi cánh -> 50
+x5 knb trọc
+tăng giá bán túi vô song

@@ -10,3 +10,48 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-08 02:02:42 cmd/std/mix10.c line 149: parse error
+2017-10-08 02:02:42 cmd/std/mix10.c line 150: Illegal LHS
+2017-10-08 02:02:42 cmd/std/mix10.c line 246: parse error
+2017-10-08 02:02:42 cmd/std/mix10.c line 248: Illegal LHS
+2017-10-08 02:02:42 cmd/std/mix10.c line 335: parse error
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。

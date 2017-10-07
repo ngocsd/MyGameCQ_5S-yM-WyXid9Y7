@@ -114,7 +114,7 @@ int main(object me, string arg)
             if (!objectp(item[i] = present(sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4))) // Mục này có phải là món hàng không?
             {
                 notify("test 2");
-				send_user(me, "%c%c%c%d", 0x25, 0, 0, 0);
+                send_user(me, "%c%c%c%d", 0x25, 0, 0, 0);
                 return 1;
             }
         }
@@ -125,6 +125,7 @@ int main(object me, string arg)
         }
         if (item[1]->get_diamond_type() == "forge")
         {
+            tell_user(me, "vào mix 1");
             return mix1(me, ({item[0], item[1]})); //Giả mạo thiết bị đá giả mạo
         }
         if (item[1]->get_mix_level() && item[0]->get_level() > item[1]->get_mix_level())
@@ -146,7 +147,8 @@ int main(object me, string arg)
             notify("Các loại đá quý không phù hợp không thể được tinh chế");
             return 1;
         }
-        rate = 100 if (level > 15 && me->get_vip() && !me->get_save_2("vip_package.trial"))
+        rate = 100;
+        if (level > 15 && me->get_vip() && !me->get_save_2("vip_package.trial"))
             rate += 5;
         if (random100() < rate)
         {
@@ -235,15 +237,19 @@ int mix1(object me, object *item)
     int level, rate, rate1, i, color, bind;
     string forge, result, index;
     if (!(i = item[0]->get_equip_type()) || (i != WEAPON_TYPE && i != ARMOR_TYPE && i != HEAD_TYPE && i != BOOTS_TYPE && i != WAIST_TYPE && i != NECK_TYPE))
-        notify("test 5");
-    return 0;
+    {
+        tell_user(me, "check đồ có phải là vk, áo, đầu, giày, lưng, cổ");
+        return 0;
+    }
     forge = item[0]->get("forge");
+    tell_user(me, "số sao hiện tại %s",forge);
     index = item[1]->get_forge_index();
-    if (index < "1" || index > "4")
+    tell_user(me, "get_forge_index %s",index);
+    if (index != "9")
     {
         notify("test 6");
-        return 0
-    };
+        return 0;
+    }
     if (forge == 0)
         forge = "";
     level = strlen(forge);
@@ -271,7 +277,7 @@ int mix1(object me, object *item)
     bind = item[0]->get_bind();
     if (me->get_level() / 10 < level + 1)
     {
-        notify("Số sao trang bị chỉ rèn được × 10 cấp.");
+        notify("Max sao = lv/10");
         return 0;
     }
     color = item[0]->get_item_color();

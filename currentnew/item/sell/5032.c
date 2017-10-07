@@ -11,7 +11,7 @@ int is_diamond_2() { return 1; }
 // 函数：需要确认卖出
 int confirm_sell_item() { return 1; }
 
-int get_item_color() {return 3 ;}
+int get_item_color() {return 9 ;}
 
 // 函数：宝石识别
 int get_item_type() { return ITEM_TYPE_DIAMOND_100; }
@@ -20,7 +20,7 @@ int get_item_type() { return ITEM_TYPE_DIAMOND_100; }
 string get_diamond_type() { return "forge"; }
 
 // 宝石锻造的辩别标志
-string get_forge_index() {return "10";}
+string get_forge_index() {return "9";}
 
 int is_specal_move() {return 1;}
 
