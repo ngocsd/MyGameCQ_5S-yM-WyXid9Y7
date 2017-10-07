@@ -289,20 +289,20 @@
 080-268,153,2:/npc/test/doicanhvv
 
 #Nguyên liệu
-805-87,52,4:/npc/npcnguyenlieu/npcnguyenlieu1
-805-87,50,4:/npc/npcnguyenlieu/npcnguyenlieu2
-805-87,48,4:/npc/npcnguyenlieu/npcnguyenlieu3
-805-87,46,4:/npc/npcnguyenlieu/npcnguyenlieu4
-805-87,44,4:/npc/npcnguyenlieu/npcnguyenlieu5
-805-87,42,4:/npc/npcnguyenlieu/npcnguyenlieu6
-805-87,40,4:/npc/npcnguyenlieu/npcnguyenlieu7
-805-87,38,4:/npc/npcnguyenlieu/npcnguyenlieu8
-805-91,51,4:/npc/npcnguyenlieu/npcnguyenlieu9
-805-91,49,4:/npc/npcnguyenlieu/npcnguyenlieu10
-805-91,47,4:/npc/npcnguyenlieu/npcnguyenlieu11
-805-91,45,4:/npc/npcnguyenlieu/npcnguyenlieu12
-805-91,43,4:/npc/npcnguyenlieu/npcnguyenlieu13
-805-91,40,4:/npc/npcnguyenlieu/npcnguyenlieu14
+80-296,124,4:/npc/npcnguyenlieu/npcnguyenlieu1
+80-298,122,4:/npc/npcnguyenlieu/npcnguyenlieu2
+80-300,120,4:/npc/npcnguyenlieu/npcnguyenlieu3
+80-302,118,4:/npc/npcnguyenlieu/npcnguyenlieu4
+80-304,116,4:/npc/npcnguyenlieu/npcnguyenlieu5
+80-306,114,4:/npc/npcnguyenlieu/npcnguyenlieu6
+80-308,112,4:/npc/npcnguyenlieu/npcnguyenlieu7
+80-298,128,4:/npc/npcnguyenlieu/npcnguyenlieu8
+80-300,126,4:/npc/npcnguyenlieu/npcnguyenlieu9
+80-302,124,4:/npc/npcnguyenlieu/npcnguyenlieu10
+80-304,122,4:/npc/npcnguyenlieu/npcnguyenlieu11
+80-306,120,4:/npc/npcnguyenlieu/npcnguyenlieu12
+80-308,118,4:/npc/npcnguyenlieu/npcnguyenlieu13
+80-310,116,4:/npc/npcnguyenlieu/npcnguyenlieu14
 805-83,48,4:/npc/npcnguyenlieu/CuaTiemCongThucGiay
 805-83,45,4:/npc/npcnguyenlieu/CuaTiemCongThucHangLien
 805-83,42,4:/npc/npcnguyenlieu/CuaTiemCongThucNon
@@ -310,5 +310,5 @@
 805-79,44,4:/npc/npcnguyenlieu/CuaTiemCongThucAo
 
 #Tổng hợp
-805-317,125,4:/npc/pret/tonghop
+80-317,125,4:/npc/pret/tonghop
 

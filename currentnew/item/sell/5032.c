@@ -20,7 +20,7 @@ int get_item_type() { return ITEM_TYPE_DIAMOND_100; }
 string get_diamond_type() { return "forge"; }
 
 // 宝石锻造的辩别标志
-string get_forge_index() {return "9";}
+string get_forge_index() {return "10";}
 
 int is_specal_move() {return 1;}
 
