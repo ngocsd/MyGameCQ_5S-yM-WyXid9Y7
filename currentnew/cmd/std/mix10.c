@@ -83,6 +83,7 @@ int main(object me, string arg) {
         //	if(level!=1 && me->get_vip() && !me->get_save_2("vip_package.trial"))
         if (level > 15 && me->get_vip() && !me->get_save_2("vip_package.trial"))
             rate += 5;
+		notify("test 1");
         send_user(me, "%c%c%c%d", 0x25, 0, rate, 0);
         return 1;
     } else //精炼装备
@@ -90,6 +91,7 @@ int main(object me, string arg) {
         for (i = 0; i < 2; i++) {
             if (!objectp(item[i] = present(sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4))) // 物品是否存在？
             {
+				notify("test 2");
                 return 1;
             }
         }
@@ -115,28 +117,7 @@ int main(object me, string arg) {
             notify("Các loại đá quý không phù hợp không thể được tinh chế");
             return 1;
         }
-        switch (level) {
-            case 1: rate = 100;
-                break;
-            case 2: rate = 100;
-                break;
-            case 3: rate = 100;
-                break;
-            case 4: rate = 100;
-                break;
-            case 5: rate = 100;
-                break;
-            case 6: rate = 100;
-                break;
-            case 7: rate = 100;
-                break;
-            case 8: rate = 100;
-                break;
-            case 9: rate = 100;
-                break;
-            default: rate = 100;
-                break;
-        }
+        rate = 100
         if (level > 15 && me->get_vip() && !me->get_save_2("vip_package.trial"))
             rate += 5;
         if (random100() < rate) {
@@ -165,9 +146,10 @@ int main(object me, string arg) {
             destruct(item[1]);
             write_user(me, ECHO "%s tinh luyện không thành công！", item[0]->get_name());
         }
+		notify("test 3");
         return 1;
     }
-
+	notify("test 4");
     return 1;
 }
 
@@ -206,10 +188,11 @@ int mix1(object me, object *item) {
     string forge, result, index;
     if (!(i = item[0]->get_equip_type())
             || (i != WEAPON_TYPE && i != ARMOR_TYPE && i != HEAD_TYPE && i != BOOTS_TYPE && i != WAIST_TYPE && i != NECK_TYPE))
+		notify("test 5");
         return 0;
     forge = item[0]->get("forge");
     index = item[1]->get_forge_index();
-    if (index < "1" || index > "4") return 0;
+    if (index < "1" || index > "4"){ notify("test 6"); return 0};
     if (forge == 0) forge = "";
     level = strlen(forge);
     if (item[1]->get_level() != 1) {
@@ -241,7 +224,7 @@ int mix1(object me, object *item) {
         tell_user(me, "Bây giờ xác xuất thành công %d là %d", rate, rate1);
     }
 
-    forge += "1";
+    forge += item[1]->get_forge_index();
     if (item[1]->is_record()) {
         result = sprintf("Tinh chế thành công biến mất %s,%d,%s,%s @%s %s %s %d %s %d_%d_%d", me->get_name(), me->get_number(), get_ip_name(me), me->get_id(), "", item[1]->get_name(), "/sys/item/item"->get_pawn_save_string(item[1]), 1, item[1]->get_user_id(), get_z(me), get_x(me), get_y(me));
         "/sys/user/cmd"->log_item(result);
