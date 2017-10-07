@@ -38,7 +38,7 @@ int main( object me, string arg )
 
         me->to_front_eachother(who);
 */
-        if( flag == 1 )	//Tinh chỉnh tỉ lệ thành công
+        if( flag == 1 )	//精炼成功率
         {
                 for( i = 0; i < 2; i ++ )
                 {
@@ -48,7 +48,7 @@ int main( object me, string arg )
                             	return 1;
                         }
                 }
-		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_97)
+		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_98)
 		{
 			send_user( me, "%c%c%c%d", 0x25, 0, 0, 0 );
 			return 1;
@@ -108,16 +108,16 @@ int main( object me, string arg )
 		{
 			switch(level)
 			{
-			case 1: rate = 15; break;
-			case 2: rate = 15; break;
-			case 3: rate = 15; break;
-			case 4: rate = 15; break;
-			case 5: rate = 15; break;
-			case 6: rate = 15; break;
-			case 7: rate = 15; break;
-			case 8: rate = 15; break;
-			case 9: rate = 15; break;
-	       		default: rate = 15; break;
+			case 1: rate = 25; break;
+			case 2: rate = 25; break;
+			case 3: rate = 25; break;
+			case 4: rate = 25; break;
+			case 5: rate = 25; break;
+			case 6: rate = 25; break;
+			case 7: rate = 25; break;
+			case 8: rate = 25; break;
+			case 9: rate = 25; break;
+	       		default: rate = 25; break;
 			}	
 		}
 		if(level!=1 && me->get_vip() && !me->get_save_2("vip_package.trial"))
@@ -140,7 +140,7 @@ int main( object me, string arg )
                             	return 1;
                         }
                 }
-		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_97)
+		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_98)
 		{
 			notify( "Tinh chỉnh đá" );
 			return 1;
@@ -169,16 +169,16 @@ int main( object me, string arg )
 		}
 		switch(level)
 		{
-		case 1: rate = 15; break;
-			case 2: rate = 15; break;
-			case 3: rate = 15; break;
-			case 4: rate = 15; break;
-			case 5: rate = 15; break;
-			case 6: rate = 15; break;
-			case 7: rate = 15; break;
-			case 8: rate = 15; break;
-			case 9: rate = 15; break;
-	       		default: rate = 15; break;
+		case 1: rate = 25; break;
+			case 2: rate = 25; break;
+			case 3: rate = 25; break;
+			case 4: rate = 25; break;
+			case 5: rate = 25; break;
+			case 6: rate = 25; break;
+			case 7: rate = 25; break;
+			case 8: rate = 25; break;
+			case 9: rate = 25; break;
+	       		default: rate = 25; break;
 		}
 		if(level>5 && me->get_vip() && !me->get_save_2("vip_package.trial"))
 			rate += 0;
@@ -299,16 +299,16 @@ int mix1(object me,object *item)
 	rate = 10000;
 	for(i=4;i<=level;i++)
 		rate = rate * 3 / 5;
-	rate = 15;
+	rate = 25;
 //	rate = rate / 100;
 	if ( me->get_vip() && !me->get_save_2("vip_package.trial") )
 		rate += 0;
 	if ( me->get_save_2("thevipl1") >= 1) 
-			rate += 5;
+		rate += 5;
 	if ( me->get_save_2("thevipl2") >= 1) 
-			rate += 10;
+		rate += 10;
 	if ( me->get_save_2("thevipl3") >= 1) 
-			rate += 15;
+		rate += 15;
 	rate1 = random100();
 	if ( is_god(me) )
 	{
@@ -329,6 +329,7 @@ int mix1(object me,object *item)
         	item[0]->set("forge", forge);
 	        item[1]->remove_from_user();
 	        destruct( item[1] );
+			//item[1]->add_amount(-1); //Mới
 	        send_user( me, "%c%d%c", 0x31, getoid(item[0]), 0 );
 	        level = strlen(forge);
         	write_user( me,	ECHO "Chúc mừng bạn thành công rèn ra một %d tinh cấp trang bị!", level );

@@ -25,6 +25,11 @@ int main( object me, string arg )
                 notify( "Bạn muốn tinh luyện đồ vật gì?" );
                 return 1;
         }
+		if( me->get_save("passhanhtrang") && me->get_save("ndmkhtk") < 1 )
+		{
+			send_user( me, "%c%c%d%s", 0x43, 10, 0, HIR "Hành trang của bạn đang trong trạng thái Khoá !" );
+			return 1;
+		}
 /*
         if( !objectp( who = find_char(name) ) ) return 1;
 
@@ -38,7 +43,7 @@ int main( object me, string arg )
 
         me->to_front_eachother(who);
 */
-        if( flag == 1 )	//Tinh chỉnh tỉ lệ thành công
+        if( flag == 1 )	//精炼成功率
         {
                 for( i = 0; i < 2; i ++ )
                 {
@@ -48,7 +53,7 @@ int main( object me, string arg )
                             	return 1;
                         }
                 }
-		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_97)
+		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_3)
 		{
 			send_user( me, "%c%c%c%d", 0x25, 0, 0, 0 );
 			return 1;
@@ -78,11 +83,13 @@ int main( object me, string arg )
 			if((level == 1||level == 0) && index!="1")
 			{
 				notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+				send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
 				return 1;
 			}
 			if((level == 2||level == 3) && index!="2" )
 			{
 				notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+				send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
 				return 1;
 			}
 			if(level >= 4)
@@ -90,6 +97,7 @@ int main( object me, string arg )
 				if((index!="3" && index!="4"))
 				{
 					notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+					send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
 					return 1;	
 				}
 			}
@@ -101,27 +109,26 @@ int main( object me, string arg )
 			{
 				rate = rate * 3 / 5;
 			}
-//			rate = rate / 100;
-			rate = 5;
+			rate = rate / 100;
 		}
 		else//Dưới đây là tỷ lệ thành công thiết bị tính toán spar giả mạo.
 		{
 			switch(level)
 			{
-			case 1: rate = 15; break;
-			case 2: rate = 15; break;
-			case 3: rate = 15; break;
-			case 4: rate = 15; break;
-			case 5: rate = 15; break;
-			case 6: rate = 15; break;
-			case 7: rate = 15; break;
-			case 8: rate = 15; break;
-			case 9: rate = 15; break;
-	       		default: rate = 15; break;
+			case 1: rate = 100; break;
+			case 2: rate = 90; break;
+			case 3: rate = 80; break;
+			case 4: rate = 70; break;
+			case 5: rate = 60; break;
+			case 6: rate = 50; break;
+			case 7: rate = 40; break;
+			case 8: rate = 30; break;
+			case 9: rate = 20; break;
+	       		default: rate = 10; break;
 			}	
 		}
 		if(level!=1 && me->get_vip() && !me->get_save_2("vip_package.trial"))
-			rate += 0;
+			rate += 5;
 		if (level!=1 && me->get_save_2("thevipl1") >= 1) 
 			rate += 5;
 		if (level!=1 && me->get_save_2("thevipl2") >= 1) 
@@ -140,7 +147,7 @@ int main( object me, string arg )
                             	return 1;
                         }
                 }
-		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_97)
+		if (item[1]->get_item_type()!=ITEM_TYPE_DIAMOND_3)
 		{
 			notify( "Tinh chỉnh đá" );
 			return 1;
@@ -169,24 +176,24 @@ int main( object me, string arg )
 		}
 		switch(level)
 		{
-		case 1: rate = 15; break;
-			case 2: rate = 15; break;
-			case 3: rate = 15; break;
-			case 4: rate = 15; break;
-			case 5: rate = 15; break;
-			case 6: rate = 15; break;
-			case 7: rate = 15; break;
-			case 8: rate = 15; break;
-			case 9: rate = 15; break;
-	       		default: rate = 15; break;
+		case 1: rate = 100; break;
+		case 2: rate = 90; break;
+		case 3: rate = 80; break;
+		case 4: rate = 70; break;
+		case 5: rate = 60; break;
+		case 6: rate = 50; break;
+		case 7: rate = 40; break;
+		case 8: rate = 30; break;
+		case 9: rate = 20; break;
+	       default: rate = 10; break;
 		}
-		if(level>5 && me->get_vip() && !me->get_save_2("vip_package.trial"))
-			rate += 0;
-		if (level>5 && me->get_save_2("thevipl1") >= 1) 
+		if(level!=1 && me->get_vip() && !me->get_save_2("vip_package.trial"))
 			rate += 5;
-		if (level>5 && me->get_save_2("thevipl2") >= 1) 
+		if (level!=1 && me->get_save_2("thevipl1") >= 1) 
+			rate += 5;
+		if (level!=1 && me->get_save_2("thevipl2") >= 1) 
 			rate += 10;
-		if (level>5 && me->get_save_2("thevipl3") >= 1) 
+		if (level!=1 && me->get_save_2("thevipl3") >= 1) 
 			rate += 15;
 	        if (random100()<rate)
 	        {
@@ -201,10 +208,10 @@ int main( object me, string arg )
 		        item[1]->remove_from_user();
 		        destruct( item[1] );
 		        send_user( me, "%c%d%c", 0x31, getoid(item[0]), 0 );
-	        	write_user( me,	ECHO " %s tinh luyện thành công! Bạn đạt được %s ＋ %d .", item[0]->get_name(), item[0]->get_name(), level );
-	        	if (level>=9)
+	        	write_user( me,	ECHO " %s tinh luyện thành công! Bạn đạt được %s + %d .", item[0]->get_name(), item[0]->get_name(), level );
+	        	if (level>=9)//＋
 	        	{
-	        		result = HIY+ sprintf("Chúc mừng %s ( %d ) thành công sẽ luyện được %s ＋ %d ", me->get_name(), me->get_number(), item[0]->get_name(), level);
+	        		result = HIY+ sprintf("Chúc mừng %s ( %d ) thành công luyện được %s + %d ", me->get_name(), me->get_number(), item[0]->get_name(), level);
 	        		CHAT_D->sys_channel( 0, result );
 	        	}
 	        }
@@ -217,7 +224,7 @@ int main( object me, string arg )
 			}
 		        item[1]->remove_from_user();
 		        destruct( item[1] );
-		        write_user( me,	ECHO "%s tinh luyện không thành công！", item[0]->get_name());
+		        write_user( me,	ECHO "%s tinh luyện không thành công!", item[0]->get_name());
 	        }
 	        return 1;
         }
@@ -270,14 +277,14 @@ int mix1(object me,object *item)
 	level = strlen(forge);
 	if (item[1]->get_level()!=1)
 	{
-		notify( "Đá rèn cho các lớp học đầu vào công cộng trên một phân hủy." );
+		notify( "Loại đoạn thạch sai quy tắc." );
 		return 1;
 	}
 	if (index=="1")
 	{
 		if (level>1)
 		{
-			notify( "Rèn đá chính chỉ rèn thiết bị trong ít hơn 2 sao." );
+			notify( "Sơ cấp Đoạn thạch chỉ rèn được cao nhất 2 sao." );
 			return 1;
 		}
 	}
@@ -285,29 +292,49 @@ int mix1(object me,object *item)
 	{
 		if (level>3)
 		{
-			notify( "Trung cấp rèn đá chỉ rèn thiết bị trong vòng 4 sao." );
+			notify( "Trung cấp Đoạn thạch chỉ rèn được cao nhất 4 sao." );
 			return 1;
 		}
 	}
+	if (index=="3")
+	{
+		if (level>=6)
+		{
+			notify( "Cao cấp Đoạn thạch chỉ rèn được cao nhất 6 sao." );
+			return 1;
+		}
+	}
+	if (index=="4")
+	{
+		if (level>=8)
+		{
+			notify( "Cao cấp Đoạn thạch bị kết dính chỉ rèn được cao nhất 8 sao." );
+			return 1;
+		}
+	}
+	if( me->get_save("passhanhtrang") && me->get_save("ndmkhtk") < 1 )
+		{
+			send_user( me, "%c%c%d%s", 0x43, 10, 0, HIR "Hành trang của bạn đang trong trạng thái Khoá !" );
+			return 1;
+		}
 	bind = item[0]->get_bind();
 	if ( me->get_level()/10 < level+1 )
 	{
-		notify( "Số sao trang bị chỉ rèn được × 10 cấp." );
+		notify( "Số sao trang bị chỉ rèn được x 10 cấp." );
 		return 0;
 	}
 	color = item[0]->get_item_color();
 	rate = 10000;
 	for(i=4;i<=level;i++)
 		rate = rate * 3 / 5;
-	rate = 15;
-//	rate = rate / 100;
+	rate = rate / 100;
 	if ( me->get_vip() && !me->get_save_2("vip_package.trial") )
-		rate += 0;
-	if ( me->get_save_2("thevipl1") >= 1) 
+		rate += 5;
+	if (me->get_save_2("thevipl1") >= 1) 
 			rate += 5;
-	if ( me->get_save_2("thevipl2") >= 1) 
+	if (me->get_save_2("thevipl2") >= 1) 
 			rate += 10;
-	if ( me->get_save_2("thevipl3") >= 1) 
+	if (me->get_save_2("thevipl3") >= 1) 
 			rate += 15;
 	rate1 = random100();
 	if ( is_god(me) )
@@ -317,7 +344,28 @@ int mix1(object me,object *item)
 	}
         if (rate1<rate)
         {
-        	forge += item[1]->get_forge_index();
+        	if((level == 1||level == 0) && index!="1")
+			{
+				notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+				send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
+				return 1;
+			}
+			if((level == 2||level == 3) && index!="2" )
+			{
+				notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+				send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
+				return 1;
+			}
+			if(level >= 4)
+			{
+				if((index!="3" && index!="4"))
+				{
+					notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+					send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
+					return 1;	
+				}
+			}
+			forge += item[1]->get_forge_index();
         	if (item[1]->is_record())
         	{
 			result = sprintf("Tinh chế thành công biến mất %s,%d,%s,%s @%s %s %s %d %s %d_%d_%d", me->get_name(), me->get_number(), get_ip_name(me), me->get_id(), "", item[1]->get_name(), "/sys/item/item"->get_pawn_save_string(item[1]), 1, item[1]->get_user_id(), get_z(me), get_x(me), get_y(me) );
@@ -327,11 +375,12 @@ int mix1(object me,object *item)
 		ITEM_EQUIP_D->init_equip_prop_5(item[0]);
 	        if (color!=0) "/sys/sys/count"->add_equip("blue", -1);
         	item[0]->set("forge", forge);
-	        item[1]->remove_from_user();
-	        destruct( item[1] );
+	                      item[1]->remove_from_user(); 
+                  destruct( item[1] ); 
+           //item[1]->add_amount(-1); //Mới
 	        send_user( me, "%c%d%c", 0x31, getoid(item[0]), 0 );
 	        level = strlen(forge);
-        	write_user( me,	ECHO "Chúc mừng bạn thành công rèn ra một %d tinh cấp trang bị!", level );
+        	write_user( me,	ECHO "Chúc mừng bạn thành công rèn ra %d tinh cấp trang bị!", level );
         	if (level>=9)
         	{
         		result = HIY+ sprintf("Chúc mừng %s thành công rèn ra %d tinh cấp trang bị!", me->get_name(), level);
@@ -340,16 +389,36 @@ int mix1(object me,object *item)
         }
         else
         {
-        	if (item[1]->is_record())
+        	if((level == 1||level == 0) && index!="1")
+			{
+				notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+				send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
+				return 1;
+			}
+			if((level == 2||level == 3) && index!="2" )
+			{
+				notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+				send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
+				return 1;
+			}
+			if(level >= 4)
+			{
+				if((index!="3" && index!="4"))
+				{
+					notify( "Loại đá rèn không phù hợp, không thể tinh luyện" );
+					send_user( me, "%c%c%d", 0x25, 3, 0 );    // tắt make2
+					return 1;	
+				}
+			}
+			if (item[1]->is_record())
         	{
 	        	result = sprintf("Giả mạo không thành công biến mất %s,%d,%s,%s @%s %s %s %d %s %d_%d_%d", me->get_name(), me->get_number(), get_ip_name(me), me->get_id(), "", item[1]->get_name(), "/sys/item/item"->get_pawn_save_string(item[1]), 1, item[1]->get_user_id(), get_z(me), get_x(me), get_y(me) );
 			"/sys/user/cmd"->log_item(result);
 		}
 		if (item[1]->get_forge_index()=="4")
 		{
-//		 	ITEM_EQUIP_D->reduce_equip_prop(item[0]);
-			ITEM_EQUIP_D->reduce_equip_prop_123(item[0]);
-		 	write_user( me,	ECHO "Thật không may, rèn thất bại, nhưng đừng buồn. %s của bạn vẫn còn y nguyên !", item[0]->get_name());			
+		 	ITEM_EQUIP_D->reduce_equip_prop(item[0]);
+		 	write_user( me,	ECHO "Thật không may, rèn thất bại. %s của bạn giảm một ngôi sao", item[0]->get_name());			
 		}
 		else
 		{
@@ -358,8 +427,9 @@ int mix1(object me,object *item)
 		 	write_user( me,	ECHO "Thật không may, rèn thất bại. %s của bạn mất hết ngôi sao", item[0]->get_name());
 		}
  	    	send_user( me, "%c%d%c", 0x31, getoid(item[0]), 0 );
-	        item[1]->remove_from_user();
-	        destruct( item[1] );
+	                      item[1]->remove_from_user(); 
+                  destruct( item[1] ); 
+           //item[1]->add_amount(-1); //Mới
         }
         return 1;
 
