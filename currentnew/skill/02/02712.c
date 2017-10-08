@@ -103,7 +103,7 @@ void into_effect(object me, string arg)
 //	me->set_cp(add);
         z = get_z(me);  x = get_x(me);  y = get_y(me);
 	send_user( get_scene_object_2(me, USER_TYPE), "%c%d%d%c", 0x50, getoid(me), time2(), MAGIC_ACT_END );
-        char = get_range_object(z, x, y, 4, USER_TYPE) + get_range_object(z, x, y, 4, CHAR_TYPE) - ({ me });
+        char = get_range_object(z, x, y, 8, USER_TYPE) + get_range_object(z, x, y, 8, CHAR_TYPE) - ({ me });
         count = 0;
         for( i = 0, size = sizeof(char); i < size; i ++ ) if( who = char[i] ) 
         {
