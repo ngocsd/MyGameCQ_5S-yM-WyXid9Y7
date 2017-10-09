@@ -4,8 +4,8 @@
 
 inherit ITEM;
 
-int get_item_value() {return 400 ;}
-int get_item_value_2() {return 400 ;}
+int get_item_value() {return 10000 ;}
+int get_item_value_2() {return 10000 ;}
 int get_item_color() { return 2; }
 // 函数：构造处理
 void create()

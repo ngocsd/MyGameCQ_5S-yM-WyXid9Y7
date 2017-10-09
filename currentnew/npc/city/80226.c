@@ -29,12 +29,12 @@ int is_seller() { return 1; }
 void create()
 {
         set_name("Điêu Khắc Sư Chu Quốc");
-        set_real_name("Điêu Khắc Sư 1~30");
+        set_real_name("Điêu Khắc Sư Siu cấp");
         set_city_name("Chu Quốc");
         set_2( "talk", ([
                 "welcome"          : (: do_welcome :),
         ])); 
-	set_skill(0650, 39);
+	set_skill(0650, 90);
         set_2( "good", ([
                 "01" : "/item/product/65001",
                 "02" : "/item/product/65002",

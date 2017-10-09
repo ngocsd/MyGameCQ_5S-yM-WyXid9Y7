@@ -48,28 +48,28 @@ int get_use_effect_callout( object who,object gift)
 		if ( !capcao )
 			return 0;
 	}
-	else if ( rate < 11 )	//战国号角
+	else if ( rate < 5 )	//战国号角
 	{
 		capcao = new(sprintf("/item/93/%d", 9301+random(10)));
 		capcao->set_level(5);
 		if ( !capcao )
 			return 0;
 	}
-	else if ( rate < 31 )	//战国号角
+	else if ( rate < 11 )	//战国号角
 	{
 		capcao = new(sprintf("/item/93/%d", 9301+random(10)));
 		capcao->set_level(4);
 		if ( !capcao )
 			return 0;
 	}
-	else if ( rate < 65 )	//战国号角
+	else if ( rate < 31 )	//战国号角
 	{
 		item = new(sprintf("/item/93/%d", 9301+random(10)));
 		item->set_level(3);
 		if ( !item )
 			return 0;
 	}
-	else if ( rate < 85 )	//战国号角
+	else if ( rate < 75 )	//战国号角
 	{
 		item = new(sprintf("/item/93/%d", 9301+random(10)));
 		item->set_level(2);

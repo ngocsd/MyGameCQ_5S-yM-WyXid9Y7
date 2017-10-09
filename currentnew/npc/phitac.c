@@ -14,17 +14,17 @@ void do_bonus();
 // 函数：构造处理
 void create()
 {
-        set_name("Trộm Bảo Phi Tặc");
-        set_2( "talk", ([
-                 "bonus"         : (: do_bonus :),
-        ]) );
+	set_name("Trộm Bảo Phi Tặc");
+	set_2("talk", ([
+			  "bonus":(
+				      : do_bonus:),
+	]));
 	set_char_type(FIGHTER_TYPE_2);
-	picid = ({0200,0201,0202,0251,0252})[random(5)];
+	picid = ({0200, 0201, 0202, 0251, 0252})[random(5)];
 	set_level(70);
-	set("birthday",time());
-        setup();
+	set("birthday", time());
+	setup();
 	set_char_type(FIGHTER_TYPE_2);
-
 }
 /*void reset() {
         if( gone_time( get("birthday") ) >= ACTIVE_FEIZEI->get_alive_time() &&  !objectp(get_enemy())) {
@@ -32,39 +32,40 @@ void create()
                 destruct( this_object() );
         }
 }*/
-int can_fight( object who ) 
-{ 
-	if ( !objectp(this_object()->get_enemy()) )
+int can_fight(object who)
+{
+	if (!objectp(this_object()->get_enemy()))
 		return 0;
-	if ( who->is_user() && this_object()->get_level()+10 < who->get_level() ) {
-	return 0;
-	}
-//	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
-//	return 0;
-//	}	
-	return 1;
-}
-int can_be_fighted( object who ) 
-{ 
-        object owner;
-        string leader, id;
-	if( who->is_npc() && objectp(owner = who->get_owner()) ) who = owner;
-	if( who->is_npc() )
+	if (who->is_user() && this_object()->get_level() + 10 < who->get_level())
 	{
 		return 0;
 	}
-	if ( who->is_user() && this_object()->get_level()+10 < who->get_level() ) {
-	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Ngươi không nhìn thấy ta! Ngươi không nhìn thấy ta! \nHa ha ha ! Ha ha ha !" );
-	return 0;
+	//	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
+	//	return 0;
+	//	}
+	return 1;
+}
+int can_be_fighted(object who)
+{
+	object owner;
+	string leader, id;
+	if (who->is_npc() && objectp(owner = who->get_owner()))
+		who = owner;
+	if (who->is_npc())
+	{
+		return 0;
 	}
-//	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
-//	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Ngươi không nhìn thấy ta! Ngươi không nhìn thấy ta! \nHa ha ha ! Ha ha ha !" );
-//	return 0;
-//	}
+	if (who->is_user() && this_object()->get_level() + 10 < who->get_level())
+	{
+		send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), "Ngươi không nhìn thấy ta! Ngươi không nhìn thấy ta! \nHa ha ha ! Ha ha ha !");
+		return 0;
+	}
+	//	if ( who->is_user() && who->get_level()+10 <= this_object()->get_level() ) {
+	//	send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  "Ngươi không nhìn thấy ta! Ngươi không nhìn thấy ta! \nHa ha ha ! Ha ha ha !" );
+	//	return 0;
+	//	}
 	return 1;
 }
 
 // 函数：死亡奖励
-void win_bonus( object who ) { "sys/party/phitac"->win_bonus_callout( this_object(), who ); }
-
-
+void win_bonus(object who) { "sys/party/phitac"->win_bonus_callout(this_object(), who); }

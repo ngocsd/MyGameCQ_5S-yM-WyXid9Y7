@@ -125,7 +125,6 @@ int main(object me, string arg)
         }
         if (item[1]->get_diamond_type() == "forge")
         {
-            tell_user(me, "vào mix 1");
             return mix1(me, ({item[0], item[1]})); //Giả mạo thiết bị đá giả mạo
         }
         if (item[1]->get_mix_level() && item[0]->get_level() > item[1]->get_mix_level())
@@ -238,16 +237,12 @@ int mix1(object me, object *item)
     string forge, result, index;
     if (!(i = item[0]->get_equip_type()) || (i != WEAPON_TYPE && i != ARMOR_TYPE && i != HEAD_TYPE && i != BOOTS_TYPE && i != WAIST_TYPE && i != NECK_TYPE))
     {
-        tell_user(me, "check đồ có phải là vk, áo, đầu, giày, lưng, cổ");
         return 0;
     }
     forge = item[0]->get("forge");
-    tell_user(me, "số sao hiện tại %s",forge);
     index = item[1]->get_forge_index();
-    tell_user(me, "get_forge_index %s",index);
     if (index != "9")
     {
-        notify("test 6");
         return 0;
     }
     if (forge == 0)

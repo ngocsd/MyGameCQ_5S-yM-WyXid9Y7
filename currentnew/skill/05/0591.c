@@ -27,6 +27,8 @@ void remove_perform( object me )
         send_user( me, "%c%w%w", 0x50, 0xffff, 05911 );
         send_user( me, "%c%w%w", 0x50, 0xffff, 05912 );
         send_user( me, "%c%w%w", 0x50, 0xffff, 05913 );
+		send_user( me, "%c%w%w", 0x50, 0xffff, 05915 );
+		send_user( me, "%c%w%w", 0x50, 0xffff, 05918 );
 }
 
 // 函数：获取描述

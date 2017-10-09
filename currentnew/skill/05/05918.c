@@ -12,9 +12,9 @@
 #define PF_START       "05918"
 #define PF_NAME        "Kiếm Khí Tung Hoành"
 
-#define SKILL_LEVEL     150
+#define SKILL_LEVEL     60
 #define TIME_INTERVAL   3
-#define SUB_MP          300 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/150*2
+#define SUB_MP          100 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/150*2
 #define ADD_CP          100 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/150*30
 
 // 函数:获取描述
@@ -24,7 +24,7 @@ string get_desc( object me )
         int cur_level;
         string result;
         if (level<SKILL_LEVEL)
-        	return sprintf(HIR " %s \n Võ công yêu cầu: Cấp 150\n Tấn công nhiều mục tiêu và có 15%% xác xuất gây choáng 2 giây.", PF_NAME);
+        	return sprintf(HIR " %s \n Võ công yêu cầu: Cấp 60\n Tấn công nhiều mục tiêu và có 15%% xác xuất gây choáng 2 giây.", PF_NAME);
         cur_level = (level - SKILL_LEVEL)/150 + 1;
         result = sprintf(HIY" %s (Cấp %d )\n " NOR "Võ công yêu cầu: Cấp %d \n Pháp Lực tiêu hao: %d điểm\n Tái sử dụng sau: %d giây\n    Tuyệt kĩ độc môn do Qủy Cốc Tử nghiên cứu sáng tạo,Tăng %d nội công dùng kiếm khí tấn công nhiều mục tiêu và có xác xuất 15%% gây choáng 2 giây.\n " HIC"Cấp tiếp theo:\n "NOR "Võ công yêu cầu: " HIR "Cấp %d " NOR "\n    Gia tăng %d nội công.",
         	PF_NAME, cur_level, SKILL_LEVEL, SUB_MP, TIME_INTERVAL, ADD_CP, cur_level*150+SKILL_LEVEL, ADD_CP+30 );

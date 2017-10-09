@@ -83,7 +83,7 @@ void drop_items_callout( object me, object who )
                                 item = new( "/item/std/0001" );
                                 TEAM_D->drop_item(item,who);
                                 item->set_user_id(owner);
-                                item->set_value( 100 + random(100) );
+                                item->set_value( (100 + random(100))*150 );
                                 item->add_to_scene(z, p / 1000, p % 1000);
                                 item->set("winner", who);
                                 item->set( "time", time() );

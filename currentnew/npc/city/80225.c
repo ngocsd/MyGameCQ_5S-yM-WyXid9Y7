@@ -28,12 +28,12 @@ int is_seller() { return 1; }
 void create()
 {
         set_name("Công tượng Rèn Chu Quốc");
-        set_real_name("Công tượng Rèn 1~20");
+        set_real_name("Công tượng Rèn Siu cấp");
         set_city_name("Chu Quốc");
         set_2( "talk", ([
                 "welcome"          : (: do_welcome :),
         ]));
-	set_skill(0620, 39);
+	set_skill(0620, 90);
         set_2( "good", ([
                 "01" : "/item/product/62001",
                 "02" : "/item/product/62002",

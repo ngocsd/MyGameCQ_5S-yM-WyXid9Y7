@@ -12,6 +12,7 @@ mapping	allgood	=([
 		"04" : "/item/event/minigame/phieugame",
 	//    "05" : "/item/event/tet/phao",
 		"05" : "/item/test/phieuthuongnhan",
+		"06" : "/item/std/0095",
 		]),
 	"good2": ([   
 		"01" : "/item/test/tuihoangkimtanthucap40", 

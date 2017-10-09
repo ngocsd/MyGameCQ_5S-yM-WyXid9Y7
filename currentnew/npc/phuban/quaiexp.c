@@ -43,7 +43,7 @@ int get_weapon_code() { return UNARMED; }
 int perform_action( object who ) { return 0; }    // XXXXX->perform_action_npc( this_object(), who ); }
 
 // 函数：掉宝奖励
-void drop_items( object who ) { __FILE__ ->drop_items_callout( this_object(), who ); who->add_exp(999999);}
+void drop_items( object who ) { __FILE__ ->drop_items_callout( this_object(), who ); who->add_exp(who->get_level()*500+random(12000));}
 
 // 函数：掉宝奖励(在线更新)
 void drop_items_callout( object me, object who )
@@ -53,7 +53,7 @@ void drop_items_callout( object me, object who )
         int p, rate, rate1, i, size, gold, equip, total, total2;
         int z, x, y, level;
 	
-	z = get_z(me);  x = get_x(me);  y = get_y(me);
+		z = get_z(me);  x = get_x(me);  y = get_y(me);
         id = who->get_leader();
         if (!id) owner = who->get_id();
         else
@@ -69,7 +69,6 @@ void drop_items_callout( object me, object who )
         p = random(100);  size = ( p > 2 ) ? 1 : ( p > 0 ) ? 2 : 8;  total = 2;  total2 = 3;
 		level = me->get_level();
         rate = me->correct_drop_rate( me->get_level() - who->get_level() ) * who->get_online_rate() / 100;
-		who->add_exp(level*100+random(1200));
         for( i = 0; i < size; i ++ )
         {
                 p = random(10000);

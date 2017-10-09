@@ -3,8 +3,8 @@ inherit ITEM;
 inherit USABLE;
 inherit COMBINED;
 
-int get_item_value() {return 30 ;}
-int get_item_value_2() {return 30 ;}
+int get_item_value() {return 150 ;}
+int get_item_value_2() {return 150 ;}
 int get_item_color() { return 2; }
 
 // 函数：构造处理

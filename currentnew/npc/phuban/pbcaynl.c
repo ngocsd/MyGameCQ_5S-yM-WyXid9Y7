@@ -72,7 +72,7 @@ void do_welcome2(object me, string arg)
 				ESC"Rời khỏi",get_name())); 
 				return;
 			}
-			if (who->get_save_2("timepbnl")==iGio)
+			if (who->get_save_2("timepbnl")==iGio && !is_god(who))
 			{
 			result = me->get_name()+":\n    Bạn đã đi phụ bản rồi, hãy chờ 1 tiếng sau theo để đi tiếp !\n";
 			send_user( who, "%c%c%w%s", ':', 3, 9971, result );

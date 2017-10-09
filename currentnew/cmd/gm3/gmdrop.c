@@ -12,8 +12,8 @@ int main( object me, string arg )
 
         if( is_player(me) ) 
         {
-                notify( "您没有足够的权限。" );
-		return 1;
+            notify( "您没有足够的权限。" );
+			return 1;
         }
         z = get_z(me), x = get_x(me), y = get_y(me);
         for (i = 0; i< 10; i++)
