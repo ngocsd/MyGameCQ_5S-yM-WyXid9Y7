@@ -1,0 +1,13 @@
+2017-10-08 18:22:12 : Ét_min (16) đã clone 金蛇剑 ( /item/73/1100.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:31:13 : Ét_min (16) đã clone Đoạn Thạch Toàn Năng ( /item/sell/5032.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:31:16 : Ét_min (16) đã clone Đoạn Thạch Toàn Năng ( /item/sell/5032.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:31:19 : Ét_min (16) đã clone Đoạn Thạch Toàn Năng ( /item/sell/5032.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:31:22 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:31:23 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:31:24 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:34:23 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:34:24 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:34:24 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:34:24 : Ét_min (16) đã clone Đoạn Thạch Đặc Biệt Cao Cấp ( /item/sell/5032_2.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:35:00 : Ét_min (16) đã clone Sơ Cấp Đoạn Thạch ( /item/sell/0032.c ) cho người chơi -Funy- có số id 18
+2017-10-08 18:35:00 : Ét_min (16) đã clone Sơ Cấp Đoạn Thạch ( /item/sell/0032.c ) cho người chơi -Funy- có số id 18

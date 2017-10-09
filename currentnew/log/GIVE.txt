@@ -1,0 +1,190 @@
+2017-10-02 22:54:18 : TrungĐz (3) đã chuyển Túi Hoàng Kim Tân Thủ cấp 40 , Túi Hoàng Kim Tân Thủ cấp 40 , Túi Hoàng Kim Tân Thủ cấp 40 , Tế Bố Y , Túi Hoàng Kim Tân Thủ cấp 40 cho người chơi CLD có số id 4
+2017-10-03 08:28:19 : TrungĐz (3) đã chuyển Trang Phục Mùa Hè (Nữ) , Nhiếp Hồn Linh , Bách Luyện Đao , Thần Phong Phi Phong cho người chơi CLD có số id 4
+2017-10-03 08:28:36 : TrungĐz (3) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi CLD có số id 4
+2017-10-03 08:49:10 : TrungĐz (3) đã chuyển Trảm Mã Đao cho người chơi CLD có số id 4
+2017-10-03 08:54:18 : TrungĐz (3) đã chuyển Thần Thú - Ma Yết cho người chơi CLD có số id 4
+2017-10-03 08:54:26 : TrungĐz (3) đã chuyển Trứng Đinh Đang cho người chơi CLD có số id 4
+2017-10-03 08:56:01 : TrungĐz (3) đã chuyển Linh Tê Hoàn cho người chơi CLD có số id 4
+2017-10-03 09:32:50 : TrungĐz (3) đã chuyển Lao , Động , Giải cho người chơi CLD có số id 4
+2017-10-03 10:00:13 : TrungĐz (3) đã chuyển Trung Cấp Đoạn Thạch , Trung Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch cho người chơi CLD có số id 4
+2017-10-03 10:13:28 : CLD (4) đã chuyển Mảnh Chìa Khóa , Mảnh Hộp cho người chơi TrungĐz có số id 3
+2017-10-03 10:14:15 : CLD (4) đã chuyển Mảnh Chìa Khóa , Mảnh Hộp cho người chơi TrungĐz có số id 3
+2017-10-03 10:19:33 : CLD (4) đã chuyển Mảnh Chìa Khóa , Mảnh Hộp cho người chơi TrungĐz có số id 3
+2017-10-03 10:46:11 : CLD (4) đã chuyển Mảnh Hộp cho người chơi TrungĐz có số id 3
+2017-10-03 10:47:09 : CLD (4) đã chuyển Mảnh Chìa Khóa cho người chơi TrungĐz có số id 3
+2017-10-03 11:40:32 : CLD (4) đã chuyển Túi Quà Vô Song cho người chơi TrungĐz có số id 3
+2017-10-03 11:42:12 : TrungĐz (3) đã chuyển Phiếu Thương Nhân cho người chơi CLD có số id 4
+2017-10-03 11:43:07 : TrungĐz (3) đã chuyển Thổ Hành Châu cho người chơi CLD có số id 4
+2017-10-03 11:52:06 : CLD (4) đã chuyển Lỗ Ban Bảo Thạch cho người chơi TrungĐz có số id 3
+2017-10-03 11:55:42 : TrungĐz (3) đã chuyển Thiên Tôn Bảo Đao cho người chơi CLD có số id 4
+2017-10-03 11:56:19 : TrungĐz (3) đã chuyển Chiến Quốc Lệnh cho người chơi CLD có số id 4
+2017-10-03 11:56:45 : TrungĐz (3) đã chuyển Đại Huyết Thạch , Đại Pháp Lực Thạch cho người chơi CLD có số id 4
+2017-10-04 08:19:48 : CLD (4) đã chuyển Lỗ Ban Bảo Thạch , U Minh Hạng Liên cho người chơi TrungĐz có số id 3
+2017-10-04 08:42:25 : CLD (4) đã chuyển Cao Cấp Đoạn Thạch Kết Dính , Cao Cấp Đoạn Thạch Kết Dính , Cao Cấp Đoạn Thạch Kết Dính cho người chơi TrungĐz có số id 3
+2017-10-04 08:43:45 : CLD (4) đã chuyển  616417 lượng cho người chơi TrungĐz có số id 3
+2017-10-04 08:44:51 : CLD (4) đã chuyển Túi Quà Vô Song cho người chơi TrungĐz có số id 3
+2017-10-04 08:45:14 : TrungĐz (3) đã chuyển  1000 lượng cho người chơi CLD có số id 4
+2017-10-04 08:48:06 : TrungĐz (3) đã chuyển Xí Nhiệt Phi Phong cho người chơi CLD có số id 4
+2017-10-04 08:48:59 : CLD (4) đã chuyển Lỗ Ban Bảo Thạch cho người chơi TrungĐz có số id 3
+2017-10-04 08:49:24 : CLD (4) đã chuyển Thổ Linh Thạch cấp 2  , Thổ Linh Thạch cấp 1  cho người chơi TrungĐz có số id 3
+2017-10-04 08:50:04 : CLD (4) đã chuyển Thổ Linh Thạch cấp 1  , Thổ Linh Thạch cấp 2  cho người chơi TrungĐz có số id 3
+2017-10-04 08:53:07 : CLD (4) đã chuyển Túi Quà Vô Song cho người chơi TrungĐz có số id 3
+2017-10-04 09:25:03 : TrungĐz (3) đã chuyển Phóng , Giải , Lao , Giải Phóng Lao Động , Động cho người chơi CLD có số id 4
+2017-10-04 09:25:56 : TrungĐz (3) đã chuyển Trang Phục Mùa Hè (Nữ) , Chuông Hám Thiên , Vạn Ác Chi Dực - Hồng Đậm , Ngọc Kiếm cho người chơi CLD có số id 4
+2017-10-04 09:26:08 : TrungĐz (3) đã chuyển Chân Quân Xí Diệm Thương cho người chơi CLD có số id 4
+2017-10-04 09:28:19 : CLD (4) đã chuyển Chân Quân Xí Diệm Thương cho người chơi Nghịch có số id 5
+2017-10-04 09:28:29 : CLD (4) đã chuyển Trang Phục Mùa Hè (Nữ) , Vạn Ác Chi Dực - Hồng Đậm , Chuông Hám Thiên cho người chơi MS có số id 7
+2017-10-04 09:28:39 : CLD (4) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi MS có số id 7
+2017-10-04 09:44:08 : CLD (4) đã chuyển  1062826 lượng cho người chơi MS có số id 7
+2017-10-04 09:48:54 : Tâm_Diện (1) đã chuyển Túi Tử Kim cấp 85 (10 sao) cho người chơi CLD có số id 4
+2017-10-04 09:52:35 : Tâm_Diện (1) đã chuyển Túi Tử Kim cấp 85 (10 sao) cho người chơi Nghịch có số id 5
+2017-10-04 09:58:53 : Tâm_Diện (1) đã chuyển  300000000 lượng cho người chơi CLD có số id 4
+2017-10-04 09:59:02 : CLD (4) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Nghịch có số id 5
+2017-10-04 09:59:35 : Tâm_Diện (1) đã chuyển Gói Đa Sắc Nữ Càn Khôn cho người chơi CLD có số id 4
+2017-10-04 09:59:42 : Tâm_Diện (1) đã chuyển Gói Đa Sắc Nữ Hiệp cho người chơi Nghịch có số id 5
+2017-10-04 10:26:01 : Nghịch (5) đã chuyển Chuối cho người chơi CLD có số id 4
+2017-10-04 11:32:14 : TrungĐz (3) đã chuyển Đá Càn Khôn , Đá Tương Uyên cho người chơi CLD có số id 4
+2017-10-04 11:34:46 : CLD (4) đã chuyển Cao Cấp Đoạn Thạch Kết Dính , Cao Cấp Đoạn Thạch Kết Dính cho người chơi TrungĐz có số id 3
+2017-10-04 14:07:41 : Nghịch (5) đã chuyển Chuông Hám Thiên , Cửu Long Thần Hỏa Trảo cho người chơi VMCTest có số id 8
+2017-10-04 14:08:53 : Nghịch (5) đã chuyển Lãng Tữ Phục , Đại Huyết Thạch , Phong Hành Giả Trang(Nam) cho người chơi VMCTest có số id 8
+2017-10-04 14:22:15 : Nghịch (5) đã chuyển Túi Hoàng Kim Tân Thủ cấp 40 cho người chơi VMCTest có số id 8
+2017-10-04 14:33:13 : Nghịch (5) đã chuyển Bí Kíp Kim Nguyên Bảo(200) cho người chơi VMCTest có số id 8
+2017-10-04 14:56:03 : Nghịch (5) đã chuyển  1500000 lượng cho người chơi VMCTest có số id 8
+2017-10-04 15:14:02 : Nghịch (5) đã chuyển Ngọc Thần Bảo Kiếm cho người chơi VMCTest có số id 8
+2017-10-04 15:14:17 : Nghịch (5) đã chuyển  1400000 lượng cho người chơi VMCTest có số id 8
+2017-10-04 19:49:02 : CLD (4) đã chuyển Trang Phục Mùa Hè (Nữ) cho người chơi VMC có số id 9
+2017-10-04 19:49:19 : CLD (4) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi VMC có số id 9
+2017-10-04 20:22:50 : CLD (4) đã chuyển  500000 lượng cho người chơi VMC có số id 9
+2017-10-04 20:24:33 : CLD (4) đã chuyển  50000000 lượng cho người chơi VMC có số id 9
+2017-10-04 20:28:35 : CLD (4) đã chuyển Túi Pháp Bảo cho người chơi VMC có số id 9
+2017-10-04 20:28:55 : VMC (9) đã chuyển Nhiếp Hồn Linh cho người chơi CLD có số id 4
+2017-10-04 20:29:16 : CLD (4) đã chuyển Túi Thần Thú cho người chơi VMC có số id 9
+2017-10-04 21:20:08 : VMC (9) đã chuyển Giải Phóng Lao Động , Động , Lao , Phóng , Giải cho người chơi CLD có số id 4
+2017-10-04 22:32:37 : VMCTest (8) đã chuyển  350000 lượng cho người chơi Nghịch có số id 5
+2017-10-05 12:28:56 : CLD (4) đã chuyển Ngọc Thần Bảo Kiếm cho người chơi VMC có số id 9
+2017-10-05 13:52:42 : CLD (4) đã chuyển  100000000 lượng cho người chơi Nghịch có số id 5
+2017-10-05 14:32:03 : Tâm_Diện (1) đã chuyển Chiếu Thư Thiên Tử cho người chơi CLD có số id 4
+2017-10-05 14:32:19 : Tâm_Diện (1) đã chuyển Chiếu Thư Thiên Tử cho người chơi CLD có số id 4
+2017-10-05 14:36:24 : CLD (4) đã chuyển Nhiếp Hồn Linh cho người chơi Phủ có số id 12
+2017-10-05 14:36:38 : CLD (4) đã chuyển Nhiếp Hồn Linh cho người chơi Phủ có số id 12
+2017-10-05 14:36:51 : CLD (4) đã chuyển  123456 lượng cho người chơi Phủ có số id 12
+2017-10-05 14:39:19 : CLD (4) đã chuyển Chiếu Thư Thiên Tử cho người chơi Phủ có số id 12
+2017-10-05 14:39:42 : CLD (4) đã chuyển  143477366 lượng cho người chơi Phủ có số id 12
+2017-10-05 14:41:17 : Phủ (12) đã chuyển  144442295 lượng cho người chơi CLD có số id 4
+2017-10-05 14:41:29 : Phủ (12) đã chuyển Chiếu Thư Thiên Tử cho người chơi CLD có số id 4
+2017-10-05 20:20:17 : Fun (11) đã chuyển Truyền Tống Phù cho người chơi Mr-Lonely có số id 14
+2017-10-05 20:35:08 : Fun (11) đã chuyển  47000000 lượng cho người chơi Mr-Lonely có số id 14
+2017-10-05 20:47:15 : Fun (11) đã chuyển Nhiếp Hồn Linh cho người chơi Mr-Lonely có số id 14
+2017-10-05 20:47:42 : Fun (11) đã chuyển Túi Pháp Bảo cho người chơi Mr-Lonely có số id 14
+2017-10-05 20:48:54 : Fun (11) đã chuyển Hiệp Khách Phục cho người chơi Mr-Lonely có số id 14
+2017-10-05 21:34:45 : Fun (11) đã chuyển Phi Hành Phù cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:22:10 : Fun (11) đã chuyển Vô Song Điểm Phiếu cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:27:26 : Fun (11) đã chuyển Vô Song Điểm Phiếu cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:33:17 : Fun (11) đã chuyển Vô Song Điểm Phiếu cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:36:01 : Fun (11) đã chuyển Vô Song Điểm Phiếu cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:36:25 : Fun (11) đã chuyển Đại Pháp Lực Thạch cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:36:41 : Fun (11) đã chuyển  400000 lượng , Đại Huyết Thạch cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:38:06 : Fun (11) đã chuyển Túi Hoàng Kim 5*(Hạng Liên) cấp 80 , Túi Hoàng Kim 5*(Nón) cấp 80 , Túi Hoàng Kim 5*(Yêu Đới) cấp 80 , Túi Hoàng Kim 5*(Giày) cấp 80 , Túi Hoàng Kim 5*(Áo) cấp 80 cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:39:28 : Fun (11) đã chuyển Trung Cấp Đoạn Thạch , Sơ Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch , Công thức Hoàng Hôn Hạng Liên , Công thức Ma Bố Hành Trang cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:40:14 : Fun (11) đã chuyển Đá Tương Uyên , Lam Cầu , Hắc Cầu , Đá Càn Khôn , Hồng Cầu cho người chơi Mr-Lonely có số id 14
+2017-10-05 22:41:32 : Fun (11) đã chuyển Bí Kíp Kim Nguyên Bảo(200) cho người chơi Mr-Lonely có số id 14
+2017-10-05 23:01:05 : Fun (11) đã chuyển Vô Song Điểm Phiếu cho người chơi Mr-Lonely có số id 14
+2017-10-05 23:20:49 : Tâm_Diện (1) đã chuyển Ác Quỷ(vương) cho người chơi Nghịch có số id 5
+2017-10-05 23:24:36 : Tâm_Diện (1) đã chuyển Chiếu Thư Thiên Tử cho người chơi Nghịch có số id 5
+2017-10-05 23:34:57 : Tâm_Diện (1) đã chuyển Chìa Khóa May Mắn cho người chơi Nghịch có số id 5
+2017-10-05 23:40:23 : Tâm_Diện (1) đã chuyển Túi Tử Kim cấp 85 (15 sao) cho người chơi Nghịch có số id 5
+2017-10-06 00:11:26 : Nghịch (5) đã chuyển Chân Quân Xí Diệm Thương cho người chơi Tâm_Diện có số id 1
+2017-10-06 00:11:46 : Tâm_Diện (1) đã chuyển Chân Quân Xí Diệm Thương cho người chơi Nghịch có số id 5
+2017-10-06 04:30:02 : VMCTest (8) đã chuyển Hắc Long Hạng Liên , Ngọc Thần Bảo Kiếm cho người chơi Nghịch có số id 5
+2017-10-06 04:31:43 : Nghịch (5) đã chuyển Ngọc Thần Bảo Kiếm cho người chơi VMCTest có số id 8
+2017-10-06 04:32:46 : Nghịch (5) đã chuyển Hắc Long Hạng Liên cho người chơi VMCTest có số id 8
+2017-10-06 04:43:16 : Nghịch (5) đã chuyển Ác Quỷ(vương) cho người chơi VMCTest có số id 8
+2017-10-06 04:46:08 : Nghịch (5) đã chuyển  34859812 lượng cho người chơi VMCTest có số id 8
+2017-10-06 08:00:53 : CLD (4) đã chuyển Tiêu Diêu Yêu Đới cho người chơi Phủ có số id 12
+2017-10-06 08:02:08 : CLD (4) đã chuyển Túi Pháp Bảo cho người chơi Phủ có số id 12
+2017-10-06 08:42:27 : VMC (9) đã chuyển Trái Quýt cho người chơi CLD có số id 4
+2017-10-06 08:44:28 : CLD (4) đã chuyển Trái Lê cho người chơi VMC có số id 9
+2017-10-06 09:28:29 : VMC (9) đã chuyển Cao Cấp Đoạn Thạch , Đoạn Thạch Đặc Biệt Sơ Cấp , Cao Cấp Đoạn Thạch , Đoạn Thạch Đặc Biệt Sơ Cấp cho người chơi CLD có số id 4
+2017-10-06 09:28:49 : CLD (4) đã chuyển Phóng , Lao cho người chơi VMC có số id 9
+2017-10-06 09:30:07 : VMC (9) đã chuyển Sơ Cấp Đoạn Thạch , Trung Cấp Đoạn Thạch cho người chơi CLD có số id 4
+2017-10-06 09:30:19 : VMC (9) đã chuyển Trung Cấp Đoạn Thạch , Bảo Đề Phù , Cao Cấp Đoạn Thạch cho người chơi CLD có số id 4
+2017-10-06 21:41:57 : Mr-Lonely (14) đã chuyển Lệnh PretKuzl cho người chơi Fun có số id 11
+2017-10-07 15:09:15 : TrungĐz (3) đã chuyển Bí Kíp Kim Nguyên Bảo(200) cho người chơi CLD có số id 4
+2017-10-07 16:30:05 : Tâm_Diện (1) đã chuyển Túi Tử Kim cấp 85 (10 sao) cho người chơi CLD có số id 4
+2017-10-07 16:30:55 : CLD (4) đã chuyển Túi Tử Kim cấp 85 (10 sao) cho người chơi TrungĐz có số id 3
+2017-10-07 16:33:27 : CLD (4) đã chuyển Túi Đoạn Thạch cho người chơi TrungĐz có số id 3
+2017-10-07 16:34:22 : Tâm_Diện (1) đã chuyển Phá Thiên Thương cho người chơi TrungĐz có số id 3
+2017-10-07 16:34:32 : Tâm_Diện (1) đã chuyển  500000000 lượng cho người chơi TrungĐz có số id 3
+2017-10-07 16:37:43 : CLD (4) đã chuyển Túi Đoạn Thạch , Thẻ VIP cho người chơi TrungĐz có số id 3
+2017-10-07 16:42:02 : TrungĐz (3) đã chuyển Túi Vũ Khí Bá Vương cho người chơi CLD có số id 4
+2017-10-07 16:42:41 : TrungĐz (3) đã chuyển Túi Đoạn Thạch cho người chơi Nghịch có số id 5
+2017-10-07 16:44:58 : TrungĐz (3) đã chuyển Đoạn Thạch Toàn Năng , Đoạn Thạch Toàn Năng , Đoạn Thạch Toàn Năng cho người chơi CLD có số id 4
+2017-10-07 16:51:12 : Tâm_Diện (1) đã chuyển Túi Tử Kim cấp 85 (15 sao) cho người chơi TrungĐz có số id 3
+2017-10-07 17:04:28 : TrungĐz (3) đã chuyển Phá Thiên Thương cho người chơi CLD có số id 4
+2017-10-07 17:04:47 : CLD (4) đã chuyển Phá Thiên Thương cho người chơi TrungĐz có số id 3
+2017-10-07 17:06:16 : Nghịch (5) đã chuyển Lục Thần Thương cho người chơi Tâm_Diện có số id 1
+2017-10-07 17:07:49 : Nghịch (5) đã chuyển Phàn Thiên Côn cho người chơi Tâm_Diện có số id 1
+2017-10-07 17:09:42 : Tâm_Diện (1) đã chuyển Lục Thần Thương , Phàn Thiên Côn cho người chơi Nghịch có số id 5
+2017-10-07 17:12:45 : Tâm_Diện (1) đã chuyển Đoạn Thạch Toàn Năng cho người chơi Nghịch có số id 5
+2017-10-07 17:23:19 : Nghịch (5) đã chuyển Phàn Thiên Côn , Lục Thần Thương cho người chơi Tâm_Diện có số id 1
+2017-10-07 21:24:03 : TrungĐz (3) đã chuyển Xích Anh Thương cho người chơi Nghịch có số id 5
+2017-10-07 21:27:41 : CLD (4) đã chuyển Thiên Tôn Bảo Đao cho người chơi Mr-Lonely có số id 14
+2017-10-07 21:51:55 : TrungĐz (3) đã chuyển Thủy Tinh Thạch cấp 5  , Thủy Tinh Thạch cấp 5  cho người chơi CLD có số id 4
+2017-10-07 21:53:30 : CLD (4) đã chuyển Thổ Tinh Thạch cấp 3  , Kim Tinh Thạch cấp 3  , Thổ Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 1  , Thổ Tinh Thạch cấp 2  cho người chơi TrungĐz có số id 3
+2017-10-07 21:53:37 : CLD (4) đã chuyển Mộc Tinh Thạch cấp 3  , Mộc Tinh Thạch cấp 1  , Mộc Tinh Thạch cấp 4  , Mộc Tinh Thạch cấp 4  cho người chơi TrungĐz có số id 3
+2017-10-07 21:54:49 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 4  , Hỏa Tinh Thạch cấp 3  cho người chơi CLD có số id 4
+2017-10-07 22:02:41 : TrungĐz (3) đã chuyển Kim Tinh Thạch cấp 5  , Kim Tinh Thạch cấp 5  , Kim Tinh Thạch cấp 5  cho người chơi CLD có số id 4
+2017-10-07 22:08:14 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 3  , Kim Tinh Thạch cấp 5  cho người chơi CLD có số id 4
+2017-10-07 22:12:09 : CLD (4) đã chuyển Mộc Tinh Thạch cấp 4  , Mộc Tinh Thạch cấp 5  cho người chơi TrungĐz có số id 3
+2017-10-07 22:12:54 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 5  cho người chơi CLD có số id 4
+2017-10-07 22:14:17 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 4  cho người chơi CLD có số id 4
+2017-10-07 22:15:41 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 3  cho người chơi CLD có số id 4
+2017-10-07 22:16:14 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 3  , Hỏa Tinh Thạch cấp 3  cho người chơi CLD có số id 4
+2017-10-07 22:16:48 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 3  , Hỏa Tinh Thạch cấp 4  cho người chơi CLD có số id 4
+2017-10-07 22:19:10 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 3  , Hỏa Tinh Thạch cấp 3  cho người chơi CLD có số id 4
+2017-10-07 22:20:16 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 4  , Hỏa Tinh Thạch cấp 4  , Hỏa Tinh Thạch cấp 4  cho người chơi CLD có số id 4
+2017-10-07 22:20:54 : TrungĐz (3) đã chuyển Kim Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 3  , Hỏa Tinh Thạch cấp 4  cho người chơi CLD có số id 4
+2017-10-07 22:22:06 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 5  cho người chơi CLD có số id 4
+2017-10-07 22:23:11 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 5  cho người chơi CLD có số id 4
+2017-10-07 22:24:44 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 3  cho người chơi CLD có số id 4
+2017-10-07 22:26:07 : TrungĐz (3) đã chuyển Hỏa Tinh Thạch cấp 3  , Hỏa Tinh Thạch cấp 3  cho người chơi CLD có số id 4
+2017-10-08 10:28:56 : ~Royal~ (20) đã chuyển Phiếu Thương Nhân cho người chơi Khói_Lửa có số id 21
+2017-10-08 18:12:12 : -Funy- (18) đã chuyển  20000 lượng cho người chơi -Fu- có số id 22
+2017-10-08 18:19:36 : Ét_min (16) đã chuyển Túi Tử Kim cấp 85 (10 sao) cho người chơi -Funy- có số id 18
+2017-10-08 18:24:10 : Ét_min (16) đã chuyển Huyết Lệ cho người chơi -Funy- có số id 18
+2017-10-08 18:46:49 : Ét_min (16) đã chuyển Tù Và Đế Vương cho người chơi -Funy- có số id 18
+2017-10-08 19:15:00 : Ét_min (16) đã chuyển Túi Tử Kim cho người chơi Cdgt có số id 23
+2017-10-08 19:32:23 : -Funy- (18) đã chuyển  200000000 lượng cho người chơi --Funy-- có số id 25
+2017-10-08 19:32:37 : -Funy- (18) đã chuyển Đại Pháp Lực Thạch , Đại Huyết Thạch cho người chơi --Funy-- có số id 25
+2017-10-08 19:33:38 : -Funy- (18) đã chuyển Truyền Tống Phù , Bí Kíp Kim Nguyên Bảo(200) cho người chơi --Funy-- có số id 25
+2017-10-08 19:54:28 : Cdgt (23) đã chuyển  26493 lượng cho người chơi Cđgt#09 có số id 26
+2017-10-08 20:09:06 : Cdgt (23) đã chuyển Bích Long Quần , Hoả Long Hạng Liên , Ám Kim Nhẫn , Long Đầu Yêu Đới cho người chơi Cđgt#09 có số id 26
+2017-10-08 20:11:04 : -Funy- (18) đã chuyển Thánh Linh Chi Dực·Vàng Nhạt , Huyết Lệ , Thái Dương Hạng Liên cho người chơi --Funy-- có số id 25
+2017-10-08 20:11:40 : -Funy- (18) đã chuyển Thái Dương Chiến Giáp , Thái Dương Đầu Khôi , Đao Tử Vân , Thái Dương Yêu Đới , Thái Dương Chi Ngoa cho người chơi --Funy-- có số id 25
+2017-10-08 20:12:39 : -Funy- (18) đã chuyển Lỗ Ban Bảo Thạch , Đại Huyết Thạch , Đại Pháp Lực Thạch , Sơ Trị Dược , Đá Tương Uyên , Đá Càn Khôn cho người chơi --Funy-- có số id 25
+2017-10-08 20:12:45 : -Funy- (18) đã chuyển Túi Linh Thạch cho người chơi --Funy-- có số id 25
+2017-10-08 20:13:51 : -Funy- (18) đã chuyển Túi Linh Thạch cho người chơi --Funy-- có số id 25
+2017-10-08 20:14:33 : -Funy- (18) đã chuyển Sơ Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch cho người chơi --Funy-- có số id 25
+2017-10-08 20:14:43 : -Funy- (18) đã chuyển Đoạn Thạch Đặc Biệt Cao Cấp , Sơ Cấp Đoạn Thạch , Nhiếp Hồn Linh , Cửu Long Thần Hỏa Trảo , Chuông Hám Thiên cho người chơi --Funy-- có số id 25
+2017-10-08 20:17:55 : -Funy- (18) đã chuyển  10000000 lượng cho người chơi --Funy-- có số id 25
+2017-10-08 20:48:51 : -Funy- (18) đã chuyển Túi Thần Thú cho người chơi --Funy-- có số id 25
+2017-10-08 20:53:48 : -Funy- (18) đã chuyển  400000 lượng , Bí Kíp Kim Nguyên Bảo(200) cho người chơi --Funy-- có số id 25
+2017-10-08 22:00:50 : --Funy-- (25) đã chuyển  20000 lượng cho người chơi -Fun- có số id 28
+2017-10-08 22:04:48 : --Funy-- (25) đã chuyển  10000 lượng cho người chơi -Fun- có số id 28
+2017-10-08 22:54:05 : --Funy-- (25) đã chuyển Liệt Viêm Kiếm cho người chơi -Fun- có số id 28
+2017-10-09 08:44:48 : Nghịch1101 (19) đã chuyển  595000 lượng cho người chơi VMCCC có số id 29
+2017-10-09 09:19:38 : Cdgt (23) đã chuyển Chuông Hám Thiên , Trang Phục Mùa Hè (Nữ) cho người chơi Cđgt#09 có số id 26
+2017-10-09 09:19:41 : Cđgt#09 (26) đã chuyển Thần Thú - Thìn cho người chơi Cdgt có số id 23
+2017-10-09 09:32:18 : Cđgt#09 (26) đã chuyển Nhiếp Hồn Linh cho người chơi Cdgt có số id 23
+2017-10-09 09:33:12 : Cđgt#09 (26) đã chuyển Hoả Phù cho người chơi Cdgt có số id 23
+2017-10-09 09:36:22 : Cdgt (23) đã chuyển Trung Cấp Đoạn Thạch , Trung Cấp Đoạn Thạch , Sơ Cấp Đoạn Thạch , Trung Cấp Đoạn Thạch cho người chơi Cđgt#09 có số id 26
+2017-10-09 09:36:39 : Cdgt (23) đã chuyển Cao Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch cho người chơi Cđgt#09 có số id 26
+2017-10-09 09:38:20 : Cđgt#09 (26) đã chuyển Chìa Khóa Tử Kim cho người chơi Cdgt có số id 23
+2017-10-09 09:50:58 : Cđgt#09 (26) đã chuyển Chiến Quốc Lệnh cho người chơi Cdgt có số id 23
+2017-10-09 11:25:01 : #25 (27) đã chuyển  47799 lượng , Chuông Hám Thiên , Chiến Quốc Lệnh cho người chơi #25. có số id 30
+2017-10-09 11:59:37 : Nghịch1101 (19) đã chuyển Hải Hồn Đao cho người chơi VMCCC có số id 29
+2017-10-09 12:33:45 : Nghịch1101 (19) đã chuyển Thần Phong Phi Phong cho người chơi cqdđ có số id 33
+2017-10-09 12:33:56 : Nghịch1101 (19) đã chuyển  1000000 lượng cho người chơi cqdđ có số id 33
+2017-10-10 00:06:29 : Bon (34) đã chuyển Hạt Lạc Hoàn cho người chơi Bim có số id 35
+2017-10-10 00:14:52 : Bon (34) đã chuyển Hạt Lạc Hoàn cho người chơi Bim có số id 35
+2017-10-10 00:15:15 : Bon (34) đã chuyển Tiểu Huyết Thạch cho người chơi Bim có số id 35
