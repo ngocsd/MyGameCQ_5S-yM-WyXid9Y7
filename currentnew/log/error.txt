@@ -6,3 +6,7 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
