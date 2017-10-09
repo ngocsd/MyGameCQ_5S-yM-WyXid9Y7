@@ -69,3 +69,10 @@ drop: 0/0 talk: 44/2 learn: 0/0 key: 27/1 pf: 1561/223
 buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 14/1 UL: 0/0
 gmdrop: 0/0 get: 0/0 kill: 2170/217 use2: 10/1 无指令: 0/0
 recover: 0/0 
+2017-10-10 05:10:00 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 
