@@ -59,7 +59,7 @@ int get_max_char_level_2()
 {
 //	if ( MAIN_D->get_host_type() == 4 || MAIN_D->get_host_type() == 6012 )
 //		return 120;
-        return 60; // Giới hạn cấp
+        return 60; // Giới hạn cấp cai cc j day
 }
 // 函数：获取最高技能等级
 int get_max_skill_level()
