@@ -9,7 +9,8 @@ int main(object me, string arg)
     int p, cap, cap1, exist, i, size;
 	string result,arg2,arg3,*line,*data;
     object item, item1, who;
-		
+		notify( "Code loại vớ vẩn nhé kkkkk" );
+		return 1;
 		if( !arg ) return 1;
 		if (arg==0) return 1;
 		if ( me->get_level() >= 80 )
