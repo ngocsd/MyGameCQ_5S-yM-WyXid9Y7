@@ -51,3 +51,21 @@ look: 0/0 quit: 0/0 say: 0/0
 2017-10-10 04:20:00 0/0
 go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
 look: 0/0 quit: 0/0 say: 0/0 
+2017-10-10 04:45:01 2214/148
+go: 971/41 tips: 6/1 desc: 166/16 E: 33/3 gift: 876/73
+look: 42/5 quit: 0/0 say: 0/0 use: 18/2 remove: 8/1
+drop: 24/2 talk: 70/4 
+2017-10-10 04:50:00 8131/593
+go: 3348/147 tips: 0/0 desc: 390/39 E: 0/0 gift: 828/69
+look: 58/6 quit: 0/0 say: 0/0 use: 63/7 remove: 0/0
+drop: 0/0 talk: 38/2 learn: 1173/69 key: 11/1 pf: 770/110
+buyitem: 70/6 NY100: 7/1 无效: 7/1 truyentong: 14/1 UL: 12/2
+gmdrop: 7/1 get: 170/16 kill: 1030/103 use2: 50/5 无指令: 77/6
+recover: 8/1 
+2017-10-10 04:55:00 7196/609
+go: 2921/124 tips: 0/0 desc: 37/5 E: 0/0 gift: 384/32
+look: 10/1 quit: 0/0 say: 0/0 use: 18/2 remove: 0/0
+drop: 0/0 talk: 44/2 learn: 0/0 key: 27/1 pf: 1561/223
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 2170/217 use2: 10/1 无指令: 0/0
+recover: 0/0 
