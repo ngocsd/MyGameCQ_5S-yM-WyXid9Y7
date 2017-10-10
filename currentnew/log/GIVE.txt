@@ -24,3 +24,66 @@
 2017-10-10 12:50:33 : ❣EmPlus (4) đã chuyển Thẻ Giảm Giá cho người chơi 123tt có số id 9
 2017-10-10 12:51:29 : 123tt (9) đã chuyển Thần Hành Hạng Liên cho người chơi ❣EmPlus có số id 4
 2017-10-10 12:51:34 : 123tt (9) đã chuyển  1693465 lượng cho người chơi ❣EmPlus có số id 4
+2017-10-10 13:52:32 : CQ_Funny (1) đã chuyển  10000000 lượng cho người chơi Bon có số id 6
+2017-10-10 13:53:12 : Bon (6) đã chuyển  5000000 lượng cho người chơi Bum có số id 7
+2017-10-10 13:58:05 : Bon (6) đã chuyển Công thức Thuỳ Văn Hạng Liên cho người chơi Bum có số id 7
+2017-10-10 18:11:28 : Nghịch03 (2) đã chuyển  1000000 lượng cho người chơi VMC có số id 8
+2017-10-10 18:20:51 : Nghịch03 (2) đã chuyển  350000 lượng cho người chơi VMC có số id 8
+2017-10-10 18:25:11 : ❣EmPlus (4) đã chuyển Thần Hành Hạng Liên cho người chơi ❤Phủ có số id 3
+2017-10-10 18:32:05 : ❤Phủ (3) đã chuyển Thần Hành Hạng Liên cho người chơi CQ_Funny có số id 1
+2017-10-10 18:34:59 : CQ_Funny (1) đã chuyển Thần Hành Hạng Liên cho người chơi ❤Phủ có số id 3
+2017-10-10 18:35:21 : ❤Phủ (3) đã chuyển Thần Hành Hạng Liên cho người chơi CQ_Funny có số id 1
+2017-10-10 18:35:52 : CQ_Funny (1) đã chuyển Thần Hành Hạng Liên cho người chơi ❤Phủ có số id 3
+2017-10-10 18:41:15 : ❣EmPlus (4) đã chuyển Huyết Ẩm Cuồng Đao , Huyết Ẩm Cuồng Đao cho người chơi ❤Phủ có số id 3
+2017-10-10 18:43:13 : ❤Phủ (3) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi ❣EmPlus có số id 4
+2017-10-10 18:43:43 : ❣EmPlus (4) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi ❤Phủ có số id 3
+2017-10-10 18:44:53 : ❣EmPlus (4) đã chuyển  1000000 lượng cho người chơi ❤Phủ có số id 3
+2017-10-10 18:47:58 : ❣EmPlus (4) đã chuyển Búa Sắt Tinh Chất cho người chơi Nghịch03 có số id 2
+2017-10-10 18:48:35 : Nghịch03 (2) đã chuyển Búa Sắt Tinh Chất cho người chơi ❣EmPlus có số id 4
+2017-10-10 18:48:36 : ❣EmPlus (4) đã chuyển Bạch Ngân Giám Định Kính cho người chơi Nghịch03 có số id 2
+2017-10-10 18:49:30 : Nghịch03 (2) đã chuyển Xích Đao cho người chơi ❤Phủ có số id 3
+2017-10-10 18:53:43 : ❣EmPlus (4) đã chuyển Đá Tương Uyên cho người chơi ❤Phủ có số id 3
+2017-10-10 18:55:23 : ❣EmPlus (4) đã chuyển Bạch Ngân Giám Định Kính cho người chơi ❤Phủ có số id 3
+2017-10-10 18:55:40 : ❤Phủ (3) đã chuyển Thần Hành Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-10 19:32:18 : ❣EmPlus (4) đã chuyển Giải , Phóng , Giải Phóng Lao Động , Động , Lao cho người chơi ❤Phủ có số id 3
+2017-10-10 19:33:23 : ❤Phủ (3) đã chuyển Công thức Hổ Phách Hạng Liên cho người chơi Nghịch03 có số id 2
+2017-10-10 19:35:12 : ❣EmPlus (4) đã chuyển Nhật Nguyệt Kiếm cho người chơi ❤Phủ có số id 3
+2017-10-10 19:38:37 : ❤Phủ (3) đã chuyển Nhật Nguyệt Kiếm cho người chơi ❣EmPlus có số id 4
+2017-10-10 19:41:20 : ❣EmPlus (4) đã chuyển Âm Dương Kiếm cho người chơi #25 có số id 5
+2017-10-10 19:42:00 : Nghịch03 (2) đã chuyển Huyền Văn Côn cho người chơi ❤Phủ có số id 3
+2017-10-10 19:43:33 : ❤Phủ (3) đã chuyển Huyền Văn Côn cho người chơi Nghịch03 có số id 2
+2017-10-10 19:44:00 : ❣EmPlus (4) đã chuyển Bạch Ngân Giám Định Kính cho người chơi ❤Phủ có số id 3
+2017-10-10 19:47:08 : #25 (5) đã chuyển  1500000 lượng , Âm Dương Kiếm cho người chơi #25. có số id 14
+2017-10-10 19:47:57 : ❣EmPlus (4) đã chuyển Tái Tạo Hoàn , Cấp Cứu Đan cho người chơi ❤Phủ có số id 3
+2017-10-10 19:49:48 : #25. (14) đã chuyển Âm Dương Kiếm cho người chơi #25 có số id 5
+2017-10-10 20:06:38 : ❤Phủ (3) đã chuyển  1722737 lượng cho người chơi ❣EmPlus có số id 4
+2017-10-10 20:06:42 : ❣EmPlus (4) đã chuyển Lệnh PretKuzl cho người chơi ❤Phủ có số id 3
+2017-10-10 20:12:40 : #25 (5) đã chuyển Âm Dương Kiếm cho người chơi #25. có số id 14
+2017-10-10 20:29:19 : ❣EmPlus (4) đã chuyển Chí Cương Kiếm cho người chơi Nghịch03 có số id 2
+2017-10-10 20:34:22 : ❣EmPlus (4) đã chuyển Bạch Ngân Giám Định Kính cho người chơi ❤Phủ có số id 3
+2017-10-10 20:38:02 : Nghịch03 (2) đã chuyển Trang Phục Dạo Phố (Nam) , Chuông Hám Thiên cho người chơi VMC có số id 8
+2017-10-10 20:38:08 : Nghịch03 (2) đã chuyển Cửu Long Thần Hỏa Trảo , Chuông Hám Thiên cho người chơi Luandubai có số id 15
+2017-10-10 20:39:31 : ❣EmPlus (4) đã chuyển Bạch Ngân Giám Định Kính cho người chơi ❤Phủ có số id 3
+2017-10-10 20:39:50 : ❣EmPlus (4) đã chuyển Sổ Xố Cao , Sổ Xố Sơ , Sổ Xố Trung , Sổ Xố Cực cho người chơi ❤Phủ có số id 3
+2017-10-10 20:41:34 : ❣EmPlus (4) đã chuyển Công thức Thần Hành Lý cho người chơi ❤Phủ có số id 3
+2017-10-10 20:41:39 : Nghịch03 (2) đã chuyển Túi Hoàng Kim Tân Thủ cấp 40 cho người chơi VMC có số id 8
+2017-10-10 20:44:37 : Nghịch03 (2) đã chuyển Hoàng Kim Giám Định Kính cho người chơi VMC có số id 8
+2017-10-10 20:50:51 : Nghịch03 (2) đã chuyển Dược Thiên Yêu Đới cho người chơi VMC có số id 8
+2017-10-10 20:51:17 : ❤Phủ (3) đã chuyển Công thức Thần Hành Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-10 20:54:17 : ❤Phủ (3) đã chuyển Đá Tương Uyên cho người chơi ❣EmPlus có số id 4
+2017-10-10 20:55:40 : Nghịch03 (2) đã chuyển Thuỷ Văn Hạng Liên cho người chơi VMC có số id 8
+2017-10-10 20:56:02 : Nghịch03 (2) đã chuyển  1500000 lượng cho người chơi VMC có số id 8
+2017-10-10 20:56:33 : ❤Phủ (3) đã chuyển Thần Hành Chiến Y cho người chơi #25 có số id 5
+2017-10-10 20:57:58 : #25 (5) đã chuyển  2000000 lượng , Thần Hành Chiến Y cho người chơi #25. có số id 14
+2017-10-10 21:00:01 : #25. (14) đã chuyển Âm Dương Kiếm , Thần Hành Chiến Y cho người chơi #25 có số id 5
+2017-10-10 21:18:49 : -Xu- (13) đã chuyển  2500000 lượng cho người chơi Fun có số id 10
+2017-10-10 21:20:48 : -Xu- (13) đã chuyển Truyền Tống Phù , Nhập môn Binh Pháp cho người chơi Fun có số id 10
+2017-10-10 21:21:51 : #25 (5) đã chuyển Trang Phục Dạo Phố (Nam) , Thần Phong Phi Phong cho người chơi Fun có số id 10
+2017-10-10 21:23:42 : CQ_Funny (1) đã chuyển Âm Dương Kiếm cho người chơi #25 có số id 5
+2017-10-10 21:27:17 : ❤Phủ (3) đã chuyển Công thức Thần Hành Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-10 21:27:25 : ❣EmPlus (4) đã chuyển Đá Tương Uyên cho người chơi ❤Phủ có số id 3
+2017-10-10 21:28:01 : ❣EmPlus (4) đã chuyển Sổ Xố Cực , Sổ Xố Cao cho người chơi ❤Phủ có số id 3
+2017-10-10 21:29:10 : #25 (5) đã chuyển  100000 lượng , Trang Phục Dạo Phố (Nam) cho người chơi Luandubai có số id 15
+2017-10-10 21:29:38 : ❣EmPlus (4) đã chuyển  100000 lượng cho người chơi Luandubai có số id 15
+2017-10-10 21:35:36 : ❣EmPlus (4) đã chuyển  500000 lượng cho người chơi ❤Phủ có số id 3
+2017-10-10 21:36:19 : -Xu- (13) đã chuyển  1400000 lượng cho người chơi Fun có số id 10

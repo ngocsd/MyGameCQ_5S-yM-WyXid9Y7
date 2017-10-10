@@ -352,3 +352,163 @@
 2017-10-10 12:13:44 famton 6 Bon 60 Cấm Vệ Quân
 2017-10-10 12:43:21 famton1 7 Bum 50 Đường Môn
 2017-10-10 12:47:42 famton1 7 Bum 51 Đường Môn
+2017-10-10 18:13:56 tienduchdv1 8 VMC 20 Vân Mộng Cốc
+2017-10-10 18:14:58 tienduchdv1 8 VMC 21 Vân Mộng Cốc
+2017-10-10 18:15:06 tienduchdv1 8 VMC 22 Vân Mộng Cốc
+2017-10-10 18:15:33 tienduchdv1 8 VMC 23 Vân Mộng Cốc
+2017-10-10 18:15:33 tienduchdv1 8 VMC 24 Vân Mộng Cốc
+2017-10-10 18:15:55 tienduchdv1 8 VMC 25 Vân Mộng Cốc
+2017-10-10 18:15:55 tienduchdv1 8 VMC 26 Vân Mộng Cốc
+2017-10-10 18:16:14 tienduchdv1 8 VMC 27 Vân Mộng Cốc
+2017-10-10 18:16:14 tienduchdv1 8 VMC 28 Vân Mộng Cốc
+2017-10-10 18:16:42 tienduchdv1 8 VMC 29 Vân Mộng Cốc
+2017-10-10 18:16:53 tienduchdv1 8 VMC 30 Vân Mộng Cốc
+2017-10-10 18:17:17 tienduchdv1 8 VMC 31 Vân Mộng Cốc
+2017-10-10 18:17:58 tienduchdv1 8 VMC 32 Vân Mộng Cốc
+2017-10-10 18:18:31 tienduchdv1 8 VMC 33 Vân Mộng Cốc
+2017-10-10 18:19:16 tienduchdv1 8 VMC 34 Vân Mộng Cốc
+2017-10-10 18:20:40 tienduchdv1 8 VMC 35 Vân Mộng Cốc
+2017-10-10 18:35:14 vttx1 10 Fun 11 Đường Môn
+2017-10-10 18:40:03 vttx1 10 Fun 12 Đường Môn
+2017-10-10 18:41:56 karax13x 13 -Xu- 11 Cấm Vệ Quân
+2017-10-10 18:41:57 karax13x 13 -Xu- 12 Cấm Vệ Quân
+2017-10-10 18:41:57 karax13x 13 -Xu- 13 Cấm Vệ Quân
+2017-10-10 18:41:57 karax13x 13 -Xu- 14 Cấm Vệ Quân
+2017-10-10 18:41:57 karax13x 13 -Xu- 15 Cấm Vệ Quân
+2017-10-10 18:47:13 vttx1 10 Fun 13 Đường Môn
+2017-10-10 18:47:25 vttx1 10 Fun 14 Đường Môn
+2017-10-10 18:49:36 karax13x 13 -Xu- 16 Cấm Vệ Quân
+2017-10-10 18:49:38 karax13x 13 -Xu- 17 Cấm Vệ Quân
+2017-10-10 18:49:38 karax13x 13 -Xu- 18 Cấm Vệ Quân
+2017-10-10 18:49:39 karax13x 13 -Xu- 19 Cấm Vệ Quân
+2017-10-10 18:50:03 karax13x 13 -Xu- 20 Cấm Vệ Quân
+2017-10-10 18:50:12 vttx1 10 Fun 15 Đường Môn
+2017-10-10 18:50:12 vttx1 10 Fun 16 Đường Môn
+2017-10-10 18:50:13 vttx1 10 Fun 17 Đường Môn
+2017-10-10 18:50:13 vttx1 10 Fun 18 Đường Môn
+2017-10-10 18:50:13 vttx1 10 Fun 19 Đường Môn
+2017-10-10 18:51:06 vttx1 10 Fun 20 Đường Môn
+2017-10-10 18:56:07 karax13x 13 -Xu- 21 Cấm Vệ Quân
+2017-10-10 18:56:08 karax13x 13 -Xu- 22 Cấm Vệ Quân
+2017-10-10 18:56:08 karax13x 13 -Xu- 23 Cấm Vệ Quân
+2017-10-10 18:56:08 karax13x 13 -Xu- 24 Cấm Vệ Quân
+2017-10-10 18:56:08 karax13x 13 -Xu- 25 Cấm Vệ Quân
+2017-10-10 18:56:08 karax13x 13 -Xu- 26 Cấm Vệ Quân
+2017-10-10 18:56:17 vttx1 10 Fun 21 Đường Môn
+2017-10-10 18:56:20 vttx1 10 Fun 22 Đường Môn
+2017-10-10 18:56:38 vttx1 10 Fun 23 Đường Môn
+2017-10-10 18:57:32 vttx1 10 Fun 24 Đường Môn
+2017-10-10 18:57:48 vttx1 10 Fun 25 Đường Môn
+2017-10-10 18:59:34 vttx1 10 Fun 26 Đường Môn
+2017-10-10 19:13:14 vttx1 10 Fun 27 Đường Môn
+2017-10-10 19:13:16 vttx1 10 Fun 28 Đường Môn
+2017-10-10 19:15:17 karax13x 13 -Xu- 27 Cấm Vệ Quân
+2017-10-10 19:17:18 karax13x 13 -Xu- 28 Cấm Vệ Quân
+2017-10-10 19:18:14 karax13x 13 -Xu- 29 Cấm Vệ Quân
+2017-10-10 19:18:18 vttx1 10 Fun 29 Đường Môn
+2017-10-10 19:21:15 karax13x 13 -Xu- 30 Cấm Vệ Quân
+2017-10-10 19:24:24 karax13x 13 -Xu- 31 Cấm Vệ Quân
+2017-10-10 19:25:55 karax13x 13 -Xu- 32 Cấm Vệ Quân
+2017-10-10 19:29:00 karax13x 13 -Xu- 33 Cấm Vệ Quân
+2017-10-10 19:29:02 karax13x 13 -Xu- 34 Cấm Vệ Quân
+2017-10-10 19:29:39 karax13x 13 -Xu- 35 Cấm Vệ Quân
+2017-10-10 19:31:29 karax13x 13 -Xu- 36 Cấm Vệ Quân
+2017-10-10 19:32:25 karax13x 13 -Xu- 37 Cấm Vệ Quân
+2017-10-10 19:32:26 karax13x 13 -Xu- 38 Cấm Vệ Quân
+2017-10-10 19:32:26 karax13x 13 -Xu- 39 Cấm Vệ Quân
+2017-10-10 19:32:26 karax13x 13 -Xu- 40 Cấm Vệ Quân
+2017-10-10 19:32:47 karax13x 13 -Xu- 41 Cấm Vệ Quân
+2017-10-10 19:33:39 karax13x 13 -Xu- 42 Cấm Vệ Quân
+2017-10-10 19:33:39 karax13x 13 -Xu- 43 Cấm Vệ Quân
+2017-10-10 19:33:39 karax13x 13 -Xu- 44 Cấm Vệ Quân
+2017-10-10 19:35:10 karax13x 13 -Xu- 45 Cấm Vệ Quân
+2017-10-10 19:35:10 karax13x 13 -Xu- 46 Cấm Vệ Quân
+2017-10-10 19:35:10 karax13x 13 -Xu- 47 Cấm Vệ Quân
+2017-10-10 19:35:10 karax13x 13 -Xu- 48 Cấm Vệ Quân
+2017-10-10 19:35:10 karax13x 13 -Xu- 49 Cấm Vệ Quân
+2017-10-10 19:35:51 karax13x 13 -Xu- 50 Cấm Vệ Quân
+2017-10-10 19:35:51 karax13x 13 -Xu- 51 Cấm Vệ Quân
+2017-10-10 19:36:33 karax13x 13 -Xu- 52 Cấm Vệ Quân
+2017-10-10 19:36:58 karax13x 13 -Xu- 53 Cấm Vệ Quân
+2017-10-10 19:37:50 karax13x 13 -Xu- 54 Cấm Vệ Quân
+2017-10-10 19:38:57 karax13x 13 -Xu- 55 Cấm Vệ Quân
+2017-10-10 19:39:40 karax13x 13 -Xu- 56 Cấm Vệ Quân
+2017-10-10 19:40:16 karax13x 13 -Xu- 57 Cấm Vệ Quân
+2017-10-10 19:41:12 karax13x 13 -Xu- 58 Cấm Vệ Quân
+2017-10-10 20:10:20 zxc 15 Luandubai 11 Thục Sơn
+2017-10-10 20:16:59 zxc 15 Luandubai 12 Thục Sơn
+2017-10-10 20:16:59 zxc 15 Luandubai 13 Thục Sơn
+2017-10-10 20:16:59 zxc 15 Luandubai 14 Thục Sơn
+2017-10-10 20:17:21 zxc 15 Luandubai 15 Thục Sơn
+2017-10-10 20:20:22 zxc 15 Luandubai 16 Thục Sơn
+2017-10-10 20:20:22 zxc 15 Luandubai 17 Thục Sơn
+2017-10-10 20:24:14 zxc 15 Luandubai 18 Thục Sơn
+2017-10-10 20:24:15 zxc 15 Luandubai 19 Thục Sơn
+2017-10-10 20:24:29 zxc 15 Luandubai 20 Thục Sơn
+2017-10-10 20:36:39 tienduchdv1 8 VMC 36 Vân Mộng Cốc
+2017-10-10 20:38:18 zxc 15 Luandubai 21 Thục Sơn
+2017-10-10 20:38:58 tienduchdv1 8 VMC 37 Vân Mộng Cốc
+2017-10-10 20:39:51 tienduchdv1 8 VMC 38 Vân Mộng Cốc
+2017-10-10 20:39:51 tienduchdv1 8 VMC 39 Vân Mộng Cốc
+2017-10-10 20:41:01 tienduchdv1 8 VMC 40 Vân Mộng Cốc
+2017-10-10 20:41:41 tienduchdv1 8 VMC 41 Vân Mộng Cốc
+2017-10-10 20:45:28 tienduchdv1 8 VMC 42 Vân Mộng Cốc
+2017-10-10 20:46:01 tienduchdv1 8 VMC 43 Vân Mộng Cốc
+2017-10-10 20:46:09 tienduchdv1 8 VMC 44 Vân Mộng Cốc
+2017-10-10 20:46:09 tienduchdv1 8 VMC 45 Vân Mộng Cốc
+2017-10-10 20:47:14 tienduchdv1 8 VMC 46 Vân Mộng Cốc
+2017-10-10 20:47:15 tienduchdv1 8 VMC 47 Vân Mộng Cốc
+2017-10-10 20:47:15 tienduchdv1 8 VMC 48 Vân Mộng Cốc
+2017-10-10 20:49:46 tienduchdv1 8 VMC 49 Vân Mộng Cốc
+2017-10-10 20:49:46 tienduchdv1 8 VMC 50 Vân Mộng Cốc
+2017-10-10 20:50:39 zxc 15 Luandubai 22 Thục Sơn
+2017-10-10 20:50:39 zxc 15 Luandubai 23 Thục Sơn
+2017-10-10 20:50:52 zxc 15 Luandubai 24 Thục Sơn
+2017-10-10 20:51:19 tienduchdv1 8 VMC 51 Vân Mộng Cốc
+2017-10-10 20:51:59 tienduchdv1 8 VMC 52 Vân Mộng Cốc
+2017-10-10 20:55:45 tienduchdv1 8 VMC 53 Vân Mộng Cốc
+2017-10-10 21:03:57 hieuls192a1 5 #25 57 Vân Mộng Cốc
+2017-10-10 21:04:39 hieuls192a1 5 #25 58 Vân Mộng Cốc
+2017-10-10 21:06:59 hieuls192a1 5 #25 59 Vân Mộng Cốc
+2017-10-10 21:07:03 hieuls192a1 5 #25 60 Vân Mộng Cốc
+2017-10-10 21:12:20 zxc 15 Luandubai 25 Thục Sơn
+2017-10-10 21:12:20 zxc 15 Luandubai 26 Thục Sơn
+2017-10-10 21:16:30 vttx1 10 Fun 30 Đường Môn
+2017-10-10 21:16:35 vttx1 10 Fun 31 Đường Môn
+2017-10-10 21:16:37 vttx1 10 Fun 32 Đường Môn
+2017-10-10 21:17:08 zxc 15 Luandubai 27 Thục Sơn
+2017-10-10 21:17:08 zxc 15 Luandubai 28 Thục Sơn
+2017-10-10 21:17:08 zxc 15 Luandubai 29 Thục Sơn
+2017-10-10 21:17:28 zxc 15 Luandubai 30 Thục Sơn
+2017-10-10 21:17:40 zxc 15 Luandubai 31 Thục Sơn
+2017-10-10 21:18:31 vttx1 10 Fun 33 Đường Môn
+2017-10-10 21:19:21 zxc 15 Luandubai 32 Thục Sơn
+2017-10-10 21:19:21 zxc 15 Luandubai 33 Thục Sơn
+2017-10-10 21:19:21 zxc 15 Luandubai 34 Thục Sơn
+2017-10-10 21:19:21 zxc 15 Luandubai 35 Thục Sơn
+2017-10-10 21:23:13 zxc 15 Luandubai 36 Thục Sơn
+2017-10-10 21:23:13 zxc 15 Luandubai 37 Thục Sơn
+2017-10-10 21:23:13 zxc 15 Luandubai 38 Thục Sơn
+2017-10-10 21:23:13 zxc 15 Luandubai 39 Thục Sơn
+2017-10-10 21:23:13 zxc 15 Luandubai 40 Thục Sơn
+2017-10-10 21:23:13 zxc 15 Luandubai 41 Thục Sơn
+2017-10-10 21:26:23 vttx1 10 Fun 34 Đường Môn
+2017-10-10 21:26:25 vttx1 10 Fun 35 Đường Môn
+2017-10-10 21:28:55 vttx1 10 Fun 36 Đường Môn
+2017-10-10 21:28:55 vttx1 10 Fun 37 Đường Môn
+2017-10-10 21:28:57 vttx1 10 Fun 38 Đường Môn
+2017-10-10 21:28:57 vttx1 10 Fun 39 Đường Môn
+2017-10-10 21:28:58 vttx1 10 Fun 40 Đường Môn
+2017-10-10 21:31:09 vgt1 17 Ryu 11 Mao Sơn
+2017-10-10 21:36:22 loz#2 18 12321321321 11 Cấm Vệ Quân
+2017-10-10 21:36:23 loz#2 18 12321321321 12 Cấm Vệ Quân
+2017-10-10 21:36:23 loz#2 18 12321321321 13 Cấm Vệ Quân
+2017-10-10 21:36:23 loz#2 18 12321321321 14 Cấm Vệ Quân
+2017-10-10 21:37:02 loz#2 18 12321321321 15 Cấm Vệ Quân
+2017-10-10 21:37:02 loz#2 18 12321321321 16 Cấm Vệ Quân
+2017-10-10 21:37:02 loz#2 18 12321321321 17 Cấm Vệ Quân
+2017-10-10 21:37:57 loz#2 18 12321321321 18 Cấm Vệ Quân
+2017-10-10 21:37:57 loz#2 18 12321321321 19 Cấm Vệ Quân
+2017-10-10 21:39:43 loz#2 18 12321321321 20 Cấm Vệ Quân
+2017-10-10 21:41:42 loz#2 18 12321321321 21 Cấm Vệ Quân
+2017-10-10 21:41:42 loz#2 18 12321321321 22 Cấm Vệ Quân

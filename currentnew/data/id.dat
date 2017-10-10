@@ -1,14 +1,14 @@
 #/sys/sys/id.c
-Id 9
-ItemId 55
-NewUser 8
-CharNumber 8
-LoginPlayer 8
-UserCount 17
-CountTime 4
-MaxUser 5
-Buyer 8
-BuyCount 15
-BuyPoint 4666
-QuitCount 1
+Id 18
+ItemId 108
+NewUser 16
+CharNumber 17
+LoginPlayer 17
+UserCount 18
+CountTime 2
+MaxUser 10
+Buyer 19
+BuyCount 108
+BuyPoint 5672
+QuitCount 8
 TransId 10000
