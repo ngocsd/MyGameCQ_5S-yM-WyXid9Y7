@@ -1,4 +1,4 @@
-Microsoft Windows 95, Tue Oct 10 13:48:53 2017
+Microsoft Windows 95, Tue Oct 10 21:45:52 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
@@ -26,13 +26,7 @@ Bad argument 1 to send_user()
 Expected: array or object Got: 0.
 program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1963
 '  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1963
-Bad argument 1 to call_other()
-Expected: string or array or object Got: 0.
-program: /cmd/debug/HK.c, object: /cmd/debug/HK, file: /cmd/debug/HK.c:292
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#ce38') /inh/char/cmd.c:76
-'           main' in '      cmd/debug/HK.c' ('        cmd/debug/HK') /cmd/debug/HK.c:292
 Bad argument 1 to send_user()
 Expected: array or object Got: 0.
 program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1963
 '  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1963
-closed external ports

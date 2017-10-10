@@ -12,3 +12,8 @@ normal:1 reconnect:0 netdead=0 kickout=0
 normal:5 reconnect:1 netdead=0 kickout=0
 normal:3 reconnect:0 netdead=0 kickout=0
 normal:6 reconnect:0 netdead=0 kickout=0
+normal:10 reconnect:0 netdead=0 kickout=0
+normal:15 reconnect:0 netdead=0 kickout=0
+normal:7 reconnect:0 netdead=0 kickout=0
+normal:1 reconnect:0 netdead=0 kickout=0
+normal:1 reconnect:0 netdead=0 kickout=0

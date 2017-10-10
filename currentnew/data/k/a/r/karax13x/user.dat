@@ -1,6 +1,6 @@
 #/inh/user/user.c
-SaveDatabase (["tips_status":40,"ndmkhtk":0,"famrec":1,"ketacc":1,"phongbaolixi":3149,"tipsstatus":25378,"login_count":0,"nguhanh":1,"warrior_title":1,"ndmkk":0,"can_get_prize":1,"yuanbao":45,"tipstatus":({158887586,1974881,}),"phongbaolixi2":1,])
-SaveDbase2 (["hotkey":(["20":"74","8":"98","1":"Trị Dược","58":"2513","9":"61","17":"71","18":"72","7":"99","2":"Phục Dược","60":"2510","10":"51","59":"2514","57":"2516","19":"73","16":"70",]),"pt":(["h1":1,]),"timepbnl":19,"timepbexp":19,"online_rank":(["level":0,"time":6127,"start":1507646181,]),"task":(["story":1,]),"hd":(["h":(["name":"Fun","level":29,"id":10,"account":"vttx1",]),]),"double_time":(["week":2492,"time2":0,"freeze":0,"time3":0,"time":0,"time1":1,]),"familyuse":1507645131,"nhanba":(["week":2492,"time2":0,"freeze":0,"time3":0,"time":0,"time1":0,]),"mastertask":(["day":282,"fivebonus":0,"count":0,]),])
+SaveDatabase (["warrior_title":1,"famrec":1,"ndmkk":0,"phongbaolixi2":1,"tips_status":40,"tipsstatus":25378,"yuanbao":45,"ndmkhtk":0,"ketacc":1,"login_count":0,"can_get_prize":1,"phongbaolixi":3149,"tipstatus":({158887586,1974881,}),"nguhanh":1,])
+SaveDbase2 (["mastertask":(["count":0,"fivebonus":0,"day":282,]),"timepbnl":19,"timepbexp":19,"hd":(["h":(["id":10,"account":"vttx1","name":"Fun","level":29,]),]),"task":(["story":1,]),"double_time":(["week":2492,"freeze":0,"time":0,"time2":0,"time1":1,"time3":0,]),"familyuse":1507645131,"nhanba":(["week":2492,"freeze":0,"time":0,"time2":0,"time1":0,"time3":0,]),"pt":(["h2":1,"h1":1,"h3":1,]),"hotkey":(["58":"2513","57":"2516","19":"73","1":"Trị Dược","17":"71","20":"74","7":"99","59":"2514","16":"70","2":"Phục Dược","9":"61","60":"2510","8":"98","18":"72","10":"51",]),"online_rank":(["time":6127,"level":0,"start":1507646181,]),])
 Gender 1
 StartPlace "1:(147,147)6"
 Gift1 (/30,25,25,25,25,/)
@@ -43,15 +43,15 @@ mpQuest ([])
 mpFly ([])
 mpMascot ([])
 mpChBlk ([])
-mpLOG (["$pay$H":0,"$sell$H":0,"#warrior":1,"&warrior":0,"#npc":2198,"$give$H":0,"$learn$H":0,"&npc":950635,"$get$L":4028851,"$get$H":0,"$give$L":3900000,"*npc":1656,"$pay$L":3307,"$sell$L":227146,"$learn$L":11065,])
+mpLOG (["$sell$H":0,"&warrior":0,"&npc":950635,"*npc":1656,"$learn$L":11065,"$pay$H":0,"$get$H":0,"$sell$L":227146,"#warrior":1,"$give$H":0,"$get$L":4028851,"$give$L":3900000,"#npc":2198,"$pay$L":3307,"$learn$H":0,])
 Strength 15
 Jobs ([])
-mpPerform (["02516":1507637780,"02513":1507637779,"02514":1507645129,"02510":1507645131,])
+mpPerform (["02513":1507637779,"02510":1507645131,"02514":1507645129,"02516":1507637780,])
 Family (/"Cấm Vệ Quân",0,4,0,"Quân Giáo Đầu",0,1507635502,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
 FamilyType 3
-Skills (["0348":(/1,0,/),"0349":(/1,0,/),"0251":(/20,0,/),"0241":(/1,0,/),"0242":(/1,0,/),])
+Skills (["0241":(/1,0,/),"0348":(/1,0,/),"0251":(/20,0,/),"0349":(/1,0,/),"0242":(/1,0,/),])
 Skills_0 ([])
 Skills_1 ([])
 Skills_2 ([])

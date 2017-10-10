@@ -2757,3 +2757,979 @@ summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 80/1
 mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
 tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 9/1 reboot: 8/1
 
+2017-10-10 21:50:00 8139/531
+go: 3105/131 tips: 12/2 desc: 1889/177 E: 0/0 gift: 0/0
+look: 41/5 quit: 0/0 say: 24/1 use: 342/38 remove: 8/1
+drop: 120/10 talk: 62/4 learn: 1360/80 key: 42/3 pf: 36/4
+buyitem: 63/6 NY100: 0/0 无效: 7/1 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 6/1 use2: 10/1 无指令: 14/1
+recover: 0/0 move: 349/26 list5: 0/0 buy: 130/9 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 30/2 org: 0/0 act: 0/0
+pf2: 30/5 mix3: 114/6 pawn: 219/13 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 40/2 suathuoctinh: 0/0 thongbao: 52/1 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 34/1 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+
+2017-10-10 21:55:01 10041/684
+go: 1699/72 tips: 6/1 desc: 2569/235 E: 0/0 gift: 0/0
+look: 79/9 quit: 5/1 say: 394/14 use: 72/8 remove: 136/17
+drop: 615/51 talk: 215/10 learn: 3145/185 key: 76/7 pf: 16/2
+buyitem: 192/18 NY100: 0/0 无效: 14/2 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 12/2 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 200/15 list5: 0/0 buy: 114/8 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 70/2 org: 0/0 act: 10/2
+pf2: 36/6 mix3: 76/4 pawn: 68/5 openbox: 0/0 pet: 14/1
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 72/2 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 68/3 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 68/2 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+
+2017-10-10 22:00:00 14841/897
+go: 8928/397 tips: 18/3 desc: 1506/146 E: 0/0 gift: 0/0
+look: 121/14 quit: 0/0 say: 556/17 use: 81/9 remove: 0/0
+drop: 216/18 talk: 377/17 learn: 0/0 key: 322/31 pf: 850/90
+buyitem: 79/7 NY100: 0/0 无效: 24/3 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 117/13 kill: 385/40 use2: 30/3 无指令: 0/0
+recover: 0/0 move: 471/34 list5: 0/0 buy: 196/17 zgdict: 0/0
+list: 18/2 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 96/16 mix3: 0/0 pawn: 30/2 openbox: 0/0 pet: 62/5
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 183/5 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 161/7 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+
+2017-10-10 22:05:01 30790/1749
+go: 22077/968 tips: 24/4 desc: 1091/112 E: 0/0 gift: 224/18
+look: 265/29 quit: 0/0 say: 590/21 use: 189/21 remove: 8/1
+drop: 275/23 talk: 264/14 learn: 0/0 key: 30/3 pf: 1469/167
+buyitem: 51/6 NY100: 0/0 无效: 0/0 truyentong: 56/4 UL: 0/0
+gmdrop: 0/0 get: 1207/129 kill: 964/98 use2: 70/7 无指令: 0/0
+recover: 0/0 move: 407/32 list5: 0/0 buy: 27/3 zgdict: 0/0
+list: 8/1 sell: 252/15 vipchat: 102/3 org: 0/0 act: 0/0
+pf2: 36/6 mix3: 38/2 pawn: 245/18 openbox: 0/0 pet: 38/3
+pf5: 0/0 title: 0/0 team: 0/0 mail: 122/4 friend: 42/3
+give: 36/1 chat: 39/2 tt: 0/0 mix2: 0/0 list12: 11/1
+time: 0/0 repair: 464/25 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 8/2 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 47/1
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 14/2 
+2017-10-10 22:10:00 32917/1785
+go: 23590/992 tips: 0/0 desc: 1363/136 E: 0/0 gift: 96/8
+look: 67/9 quit: 15/3 say: 505/20 use: 63/7 remove: 8/1
+drop: 0/0 talk: 16/1 learn: 969/57 key: 77/9 pf: 2039/205
+buyitem: 8/1 NY100: 0/0 无效: 0/0 truyentong: 28/2 UL: 0/0
+gmdrop: 0/0 get: 1250/118 kill: 742/75 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 960/75 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 5/1
+pf2: 6/1 mix3: 76/4 pawn: 0/0 openbox: 0/0 pet: 54/4
+pf5: 0/0 title: 0/0 team: 16/2 mail: 619/35 friend: 112/8
+give: 80/2 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 124/6 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 29/3 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 
+2017-10-10 22:15:00 25651/1826
+go: 11280/484 tips: 12/2 desc: 1411/148 E: 0/0 gift: 116/9
+look: 185/21 quit: 25/5 say: 710/32 use: 180/20 remove: 80/10
+drop: 120/10 talk: 567/31 learn: 935/55 key: 66/6 pf: 4905/541
+buyitem: 72/7 NY100: 0/0 无效: 0/0 truyentong: 14/1 UL: 0/0
+gmdrop: 7/1 get: 147/15 kill: 3348/336 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 422/33 list5: 0/0 buy: 50/4 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 387/11 org: 0/0 act: 20/4
+pf2: 48/8 mix3: 0/0 pawn: 171/12 openbox: 70/6 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 14/1
+give: 112/3 chat: 97/4 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 12/2
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 38/2 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 30/2 
+2017-10-10 22:20:01 18298/944
+go: 13252/571 tips: 18/3 desc: 970/99 E: 0/0 gift: 33/2
+look: 305/35 quit: 5/1 say: 501/21 use: 180/20 remove: 8/1
+drop: 0/0 talk: 724/39 learn: 0/0 key: 0/0 pf: 229/19
+buyitem: 179/17 NY100: 0/0 无效: 14/2 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 50/6 use2: 10/1 无指令: 48/2
+recover: 0/0 move: 38/3 list5: 0/0 buy: 52/4 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 626/22 org: 0/0 act: 20/4
+pf2: 24/4 mix3: 0/0 pawn: 476/31 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 100/12 mail: 159/12 friend: 0/0
+give: 83/2 chat: 66/5 tt: 0/0 mix2: 0/0 list12: 11/1
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 81/1 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 22/3 
+2017-10-10 22:25:00 29795/1529
+go: 22114/942 tips: 18/3 desc: 636/65 E: 0/0 gift: 144/12
+look: 162/18 quit: 10/2 say: 0/0 use: 135/15 remove: 0/0
+drop: 24/2 talk: 558/23 learn: 0/0 key: 0/0 pf: 4329/366
+buyitem: 37/3 NY100: 0/0 无效: 50/5 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 65/6 kill: 110/11 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 25/2 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 454/12 org: 0/0 act: 20/4
+pf2: 36/6 mix3: 0/0 pawn: 202/13 openbox: 46/3 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 606/15 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 22:30:00 23307/1274
+go: 16402/695 tips: 6/1 desc: 1049/108 E: 0/0 gift: 36/3
+look: 316/36 quit: 0/0 say: 0/0 use: 792/88 remove: 16/2
+drop: 323/27 talk: 798/46 learn: 0/0 key: 24/1 pf: 1459/116
+buyitem: 274/21 NY100: 0/0 无效: 94/13 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 11/1 kill: 50/5 use2: 70/7 无指令: 0/0
+recover: 0/0 move: 200/16 list5: 0/0 buy: 18/2 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 49/2 org: 0/0 act: 25/5
+pf2: 36/6 mix3: 190/10 pawn: 483/30 openbox: 16/2 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 5/1 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 19/1 list12: 0/0
+time: 0/0 repair: 463/25 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 83/4 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 22:35:00 20831/1302
+go: 10273/435 tips: 18/3 desc: 2377/216 E: 0/0 gift: 0/0
+look: 235/26 quit: 0/0 say: 0/0 use: 1899/211 remove: 0/0
+drop: 408/34 talk: 262/14 learn: 2636/156 key: 0/0 pf: 264/32
+buyitem: 298/27 NY100: 0/0 无效: 14/2 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 20/2 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 117/13 zgdict: 0/0
+list: 117/13 sell: 0/0 vipchat: 247/8 org: 0/0 act: 0/0
+pf2: 18/3 mix3: 0/0 pawn: 1628/107 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 22:40:00 24285/1588
+go: 13746/597 tips: 6/1 desc: 1703/177 E: 0/0 gift: 60/5
+look: 106/12 quit: 0/0 say: 0/0 use: 3602/400 remove: 0/0
+drop: 2160/180 talk: 313/14 learn: 0/0 key: 33/3 pf: 1139/95
+buyitem: 48/6 NY100: 0/0 无效: 0/0 truyentong: 28/2 UL: 0/0
+gmdrop: 0/0 get: 64/7 kill: 100/10 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 36/3 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 114/5 org: 10/1 act: 0/0
+pf2: 24/4 mix3: 0/0 pawn: 889/60 openbox: 0/0 pet: 85/4
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 19/2 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 22:45:00 19702/1436
+go: 7328/311 tips: 7/1 desc: 2126/215 E: 0/0 gift: 0/0
+look: 115/14 quit: 0/0 say: 0/0 use: 2925/325 remove: 0/0
+drop: 2566/214 talk: 334/14 learn: 0/0 key: 91/5 pf: 2934/246
+buyitem: 182/16 NY100: 0/0 无效: 47/7 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 29/3 kill: 30/3 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 124/9 zgdict: 0/0
+list: 16/2 sell: 0/0 vipchat: 146/5 org: 0/0 act: 0/0
+pf2: 24/4 mix3: 0/0 pawn: 521/33 openbox: 0/0 pet: 0/0
+pf5: 24/2 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 99/6 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 34/1 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 22:50:00 16105/1030
+go: 8442/360 tips: 0/0 desc: 1747/165 E: 0/0 gift: 0/0
+look: 112/13 quit: 0/0 say: 0/0 use: 819/91 remove: 32/4
+drop: 622/52 talk: 344/16 learn: 255/15 key: 30/3 pf: 2074/184
+buyitem: 84/7 NY100: 0/0 无效: 46/4 truyentong: 13/1 UL: 0/0
+gmdrop: 0/0 get: 54/6 kill: 60/6 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 232/19 list5: 0/0 buy: 114/9 zgdict: 0/0
+list: 9/1 sell: 0/0 vipchat: 53/1 org: 0/0 act: 10/2
+pf2: 66/11 mix3: 228/12 pawn: 659/48 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 22:55:00 15615/900
+go: 10355/435 tips: 30/5 desc: 816/81 E: 0/0 gift: 0/0
+look: 292/33 quit: 0/0 say: 30/2 use: 1134/126 remove: 8/1
+drop: 469/39 talk: 500/24 learn: 0/0 key: 52/3 pf: 116/16
+buyitem: 194/17 NY100: 0/0 无效: 40/5 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 67/7 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 175/14 list5: 10/1 buy: 144/9 zgdict: 0/0
+list: 8/1 sell: 0/0 vipchat: 456/16 org: 0/0 act: 60/12
+pf2: 42/7 mix3: 209/11 pawn: 308/26 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 36/4 mail: 5/1 friend: 28/2
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 21/1
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 10/1 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:00:00 19568/1112
+go: 11182/488 tips: 12/2 desc: 547/47 E: 0/0 gift: 0/0
+look: 143/16 quit: 0/0 say: 0/0 use: 45/5 remove: 0/0
+drop: 0/0 talk: 269/13 learn: 3536/208 key: 60/6 pf: 690/87
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 28/2 UL: 0/0
+gmdrop: 0/0 get: 80/8 kill: 560/56 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 852/32 org: 0/0 act: 25/5
+pf2: 1446/130 mix3: 0/0 pawn: 60/6 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 33/1 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:05:00 31157/1804
+go: 20948/922 tips: 36/6 desc: 346/37 E: 0/0 gift: 0/0
+look: 141/15 quit: 5/1 say: 0/0 use: 279/31 remove: 16/2
+drop: 198/16 talk: 423/18 learn: 0/0 key: 0/0 pf: 5987/524
+buyitem: 115/11 NY100: 0/0 无效: 115/9 truyentong: 70/5 UL: 0/0
+gmdrop: 0/0 get: 599/65 kill: 1130/113 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 737/28 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 12/1 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:10:00 37046/2411
+go: 24147/1050 tips: 12/2 desc: 400/43 E: 0/0 gift: 0/0
+look: 165/19 quit: 0/0 say: 0/0 use: 180/20 remove: 8/1
+drop: 146/12 talk: 242/10 learn: 0/0 key: 0/0 pf: 6262/718
+buyitem: 16/2 NY100: 0/0 无效: 0/0 truyentong: 69/5 UL: 0/0
+gmdrop: 0/0 get: 567/57 kill: 4580/458 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 102/8 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 132/5 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 18/1 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:15:01 37574/2584
+go: 22655/964 tips: 6/1 desc: 178/19 E: 0/0 gift: 0/0
+look: 75/9 quit: 0/0 say: 0/0 use: 306/34 remove: 8/1
+drop: 26/2 talk: 190/7 learn: 0/0 key: 19/1 pf: 7587/899
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 120/11 kill: 6150/615 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 51/4 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 13/1 org: 0/0 act: 0/0
+pf2: 6/1 mix3: 0/0 pawn: 27/2 openbox: 0/0 pet: 157/13
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:20:01 32809/1838
+go: 22582/963 tips: 6/1 desc: 854/87 E: 0/0 gift: 0/0
+look: 49/6 quit: 0/0 say: 0/0 use: 315/35 remove: 0/0
+drop: 168/14 talk: 54/2 learn: 0/0 key: 22/1 pf: 7242/594
+buyitem: 8/1 NY100: 0/0 无效: 0/0 truyentong: 13/1 UL: 0/0
+gmdrop: 0/0 get: 233/23 kill: 480/48 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 725/57 list5: 0/0 buy: 25/2 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 6/1 mix3: 0/0 pawn: 0/0 openbox: 27/2 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:25:00 33166/1746
+go: 25658/1090 tips: 6/1 desc: 632/65 E: 0/0 gift: 0/0
+look: 32/4 quit: 0/0 say: 0/0 use: 306/34 remove: 0/0
+drop: 0/0 talk: 198/7 learn: 0/0 key: 0/0 pf: 5035/434
+buyitem: 8/1 NY100: 0/0 无效: 0/0 truyentong: 27/2 UL: 0/0
+gmdrop: 0/0 get: 220/22 kill: 250/25 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 763/60 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 31/1 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:30:01 22734/1807
+go: 6916/294 tips: 12/2 desc: 956/99 E: 0/0 gift: 21/1
+look: 410/46 quit: 5/1 say: 0/0 use: 360/40 remove: 8/1
+drop: 26/2 talk: 1406/82 learn: 0/0 key: 0/0 pf: 7038/736
+buyitem: 26/3 NY100: 0/0 无效: 0/0 truyentong: 28/2 UL: 0/0
+gmdrop: 0/0 get: 253/23 kill: 3980/398 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 165/13 list5: 0/0 buy: 18/2 zgdict: 0/0
+list: 8/1 sell: 104/6 vipchat: 438/13 org: 0/0 act: 10/2
+pf2: 48/8 mix3: 19/1 pawn: 324/21 openbox: 0/0 pet: 94/7
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 19/1 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 42/2 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:35:01 14170/777
+go: 9212/395 tips: 6/1 desc: 945/94 E: 0/0 gift: 0/0
+look: 376/42 quit: 5/1 say: 0/0 use: 378/42 remove: 40/5
+drop: 0/0 talk: 1108/64 learn: 0/0 key: 0/0 pf: 532/42
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 10/1 kill: 33/4 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 301/24 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 646/26 org: 0/0 act: 10/2
+pf2: 12/2 mix3: 133/7 pawn: 282/17 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 8/1 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 95/5 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 38/2 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:40:00 20570/1064
+go: 17361/741 tips: 0/0 desc: 75/8 E: 0/0 gift: 132/11
+look: 150/17 quit: 0/0 say: 0/0 use: 54/6 remove: 0/0
+drop: 0/0 talk: 159/8 learn: 0/0 key: 0/0 pf: 1470/159
+buyitem: 70/6 NY100: 0/0 无效: 69/5 truyentong: 28/2 UL: 0/0
+gmdrop: 0/0 get: 40/4 kill: 940/94 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 5/1
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 12/1 team: 0/0 mail: 5/1 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:45:00 19042/1063
+go: 14699/638 tips: 24/4 desc: 622/59 E: 0/0 gift: 0/0
+look: 134/15 quit: 0/0 say: 0/0 use: 36/4 remove: 8/1
+drop: 0/0 talk: 295/13 learn: 216/13 key: 0/0 pf: 1457/164
+buyitem: 63/6 NY100: 0/0 无效: 7/1 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 9/1 kill: 1150/115 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 12/1 list5: 0/0 buy: 54/4 zgdict: 0/0
+list: 18/2 sell: 0/0 vipchat: 0/0 org: 0/0 act: 15/3
+pf2: 12/2 mix3: 0/0 pawn: 66/5 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 48/6 mail: 10/2 friend: 14/1
+give: 40/1 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 19/1 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:50:00 22695/1316
+go: 13791/599 tips: 0/0 desc: 761/65 E: 0/0 gift: 40/2
+look: 51/6 quit: 0/0 say: 0/0 use: 27/3 remove: 0/0
+drop: 0/0 talk: 35/2 learn: 4114/242 key: 0/0 pf: 1411/155
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 1164/116 kill: 1110/111 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 32/2 zgdict: 0/0
+list: 9/1 sell: 0/0 vipchat: 0/0 org: 0/0 act: 5/1
+pf2: 6/1 mix3: 0/0 pawn: 10/1 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 40/5 mail: 0/0 friend: 28/2
+give: 40/1 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 21/1 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-10 23:55:00 10311/559
+go: 7787/333 tips: 0/0 desc: 10/1 E: 0/0 gift: 0/0
+look: 54/6 quit: 10/2 say: 0/0 use: 9/1 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 950/74
+buyitem: 55/5 NY100: 0/0 无效: 7/1 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 1129/106 kill: 300/30 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:00:00 3891/281
+go: 1476/62 tips: 6/1 desc: 1281/108 E: 0/0 gift: 0/0
+look: 261/29 quit: 0/0 say: 0/0 use: 27/3 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 160/10 key: 0/0 pf: 26/2
+buyitem: 71/6 NY100: 0/0 无效: 7/1 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 319/31 zgdict: 0/0
+list: 243/27 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:05:00 3280/234
+go: 1003/42 tips: 0/0 desc: 1128/100 E: 0/0 gift: 0/0
+look: 189/21 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 24/2 talk: 0/0 learn: 0/0 key: 0/0 pf: 36/3
+buyitem: 73/7 NY100: 0/0 无效: 7/1 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 234/23 zgdict: 0/0
+list: 189/21 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 397/14 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:10:00 3826/279
+go: 883/37 tips: 0/0 desc: 1624/141 E: 0/0 gift: 0/0
+look: 225/25 quit: 0/0 say: 0/0 use: 27/3 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 289/28 zgdict: 0/0
+list: 216/24 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 5/1 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 557/20 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:15:00 3400/224
+go: 1323/56 tips: 6/1 desc: 1348/116 E: 0/0 gift: 0/0
+look: 99/11 quit: 0/0 say: 0/0 use: 36/4 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 12/1 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 28/2 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 26/2 list5: 0/0 buy: 166/13 zgdict: 0/0
+list: 72/8 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 284/10 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:20:01 2942/227
+go: 286/12 tips: 0/0 desc: 1251/111 E: 0/0 gift: 0/0
+look: 171/19 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 168/14 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 52/4 list5: 0/0 buy: 243/23 zgdict: 0/0
+list: 171/19 sell: 17/1 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 583/24 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:25:00 3234/257
+go: 601/26 tips: 0/0 desc: 1889/163 E: 0/0 gift: 0/0
+look: 189/21 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 20/1 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 52/4 list5: 0/0 buy: 162/17 zgdict: 0/0
+list: 153/17 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 168/8 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:30:00 4147/341
+go: 518/22 tips: 0/0 desc: 2526/218 E: 0/0 gift: 0/0
+look: 234/26 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 20/1 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 104/8 list5: 0/0 buy: 381/33 zgdict: 0/0
+list: 225/25 sell: 119/7 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 20/1 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:35:00 3169/143
+go: 2167/91 tips: 0/0 desc: 85/8 E: 0/0 gift: 0/0
+look: 8/1 quit: 5/1 say: 5/1 use: 0/0 remove: 0/0
+drop: 24/2 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 36/3 zgdict: 0/0
+list: 8/1 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 831/35 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:40:00 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:45:01 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:50:01 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 00:55:01 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 01:00:00 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 01:05:00 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 01:10:00 0/0
+go: 0/0 tips: 0/0 desc: 0/0 E: 0/0 gift: 0/0
+look: 0/0 quit: 0/0 say: 0/0 use: 0/0 remove: 0/0
+drop: 0/0 talk: 0/0 learn: 0/0 key: 0/0 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 01:15:01 3936/213
+go: 2953/125 tips: 19/3 desc: 367/39 E: 0/0 gift: 24/2
+look: 62/7 quit: 0/0 say: 0/0 use: 9/1 remove: 0/0
+drop: 48/4 talk: 64/3 learn: 0/0 key: 33/3 pf: 0/0
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 0/0 kill: 0/0 use2: 10/1 无指令: 0/0
+recover: 0/0 move: 65/5 list5: 0/0 buy: 242/15 zgdict: 0/0
+list: 16/2 sell: 0/0 vipchat: 0/0 org: 0/0 act: 10/2
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 14/1
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 01:20:00 13174/720
+go: 10403/454 tips: 0/0 desc: 466/50 E: 0/0 gift: 112/8
+look: 44/5 quit: 0/0 say: 0/0 use: 432/48 remove: 0/0
+drop: 480/40 talk: 19/1 learn: 0/0 key: 31/2 pf: 795/79
+buyitem: 81/7 NY100: 0/0 无效: 7/1 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 10/1 kill: 0/0 use2: 20/2 无指令: 0/0
+recover: 0/0 move: 39/3 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 10/2
+pf2: 6/1 mix3: 0/0 pawn: 134/12 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 10/2 friend: 0/0
+give: 75/2 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 
+2017-10-11 01:25:00 16780/843
+go: 15002/645 tips: 0/0 desc: 382/47 E: 0/0 gift: 0/0
+look: 16/2 quit: 0/0 say: 0/0 use: 27/3 remove: 8/1
+drop: 24/2 talk: 0/0 learn: 0/0 key: 0/0 pf: 1073/117
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 83/8 kill: 70/7 use2: 0/0 无指令: 13/1
+recover: 8/1 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 6/1 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 4/1 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 12/2
+summon: 0/0 savings: 0/0 family: 29/3 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 9/1 
+2017-10-11 01:30:00 16832/967
+go: 5200/222 tips: 0/0 desc: 1524/128 E: 0/0 gift: 40/2
+look: 9/1 quit: 0/0 say: 0/0 use: 18/2 remove: 0/0
+drop: 0/0 talk: 16/1 learn: 9486/558 key: 19/2 pf: 349/33
+buyitem: 0/0 NY100: 0/0 无效: 0/0 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 75/7 kill: 0/0 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 15/3
+pf2: 11/1 mix3: 0/0 pawn: 10/1 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 0/0 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 4/1 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 47/4
+infoabc: 9/1 
+2017-10-11 01:35:00 10793/640
+go: 4131/183 tips: 0/0 desc: 970/82 E: 0/0 gift: 0/0
+look: 57/6 quit: 0/0 say: 0/0 use: 27/3 remove: 0/0
+drop: 0/0 talk: 152/7 learn: 4573/269 key: 66/6 pf: 317/39
+buyitem: 78/7 NY100: 0/0 无效: 7/1 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 9/1 kill: 170/17 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 5/1
+pf2: 6/1 mix3: 0/0 pawn: 10/1 openbox: 0/0 pet: 62/5
+pf5: 0/0 title: 0/0 team: 16/2 mail: 34/3 friend: 14/1
+give: 39/1 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 21/1 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 15/2 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 0/0
+infoabc: 0/0 
+2017-10-11 01:40:00 19029/1373
+go: 10436/457 tips: 0/0 desc: 547/59 E: 0/0 gift: 0/0
+look: 26/3 quit: 0/0 say: 0/0 use: 5103/567 remove: 8/1
+drop: 731/61 talk: 44/2 learn: 0/0 key: 33/2 pf: 648/78
+buyitem: 84/6 NY100: 0/0 无效: 49/7 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 128/13 kill: 660/66 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 12/1 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 156/26 mix3: 0/0 pawn: 167/11 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 124/8 friend: 0/0
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 43/2 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 16/2 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 0/0
+infoabc: 0/0 
+2017-10-11 01:45:00 5996/369
+go: 3821/166 tips: 0/0 desc: 273/30 E: 0/0 gift: 0/0
+look: 8/1 quit: 0/0 say: 0/0 use: 27/3 remove: 0/0
+drop: 203/17 talk: 64/2 learn: 0/0 key: 0/0 pf: 418/58
+buyitem: 0/0 NY100: 0/0 无效: 10/1 truyentong: 0/0 UL: 0/0
+gmdrop: 0/0 get: 211/20 kill: 490/49 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 10/2
+pf2: 6/1 mix3: 0/0 pawn: 27/2 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 0/0 mail: 358/12 friend: 70/5
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 0/0
+infoabc: 0/0 
+2017-10-11 01:50:01 8659/445
+go: 6857/294 tips: 6/1 desc: 75/9 E: 0/0 gift: 0/0
+look: 25/3 quit: 0/0 say: 0/0 use: 27/3 remove: 0/0
+drop: 0/0 talk: 84/4 learn: 0/0 key: 0/0 pf: 337/41
+buyitem: 78/8 NY100: 0/0 无效: 0/0 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 173/17 kill: 320/32 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 0/0 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 149/3 org: 0/0 act: 5/1
+pf2: 6/1 mix3: 0/0 pawn: 29/2 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 24/3 mail: 379/18 friend: 42/3
+give: 0/0 chat: 29/1 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 0/0
+infoabc: 0/0 
+2017-10-11 01:55:00 5854/322
+go: 4762/210 tips: 6/1 desc: 84/10 E: 0/0 gift: 0/0
+look: 20/2 quit: 0/0 say: 0/0 use: 9/1 remove: 0/0
+drop: 24/2 talk: 66/3 learn: 0/0 key: 0/0 pf: 386/44
+buyitem: 0/0 NY100: 0/0 无效: 10/1 truyentong: 14/1 UL: 0/0
+gmdrop: 0/0 get: 45/5 kill: 360/36 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 24/2 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 0/0
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 0/0
+pf5: 0/0 title: 0/0 team: 16/2 mail: 0/0 friend: 28/2
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 0/0
+infoabc: 0/0 
+2017-10-11 02:00:00 12254/687
+go: 9280/400 tips: 6/1 desc: 399/41 E: 0/0 gift: 0/0
+look: 103/11 quit: 0/0 say: 0/0 use: 54/6 remove: 0/0
+drop: 205/17 talk: 346/17 learn: 0/0 key: 0/0 pf: 639/85
+buyitem: 0/0 NY100: 0/0 无效: 13/1 truyentong: 30/2 UL: 0/0
+gmdrop: 0/0 get: 162/16 kill: 670/67 use2: 0/0 无指令: 0/0
+recover: 0/0 move: 48/4 list5: 0/0 buy: 0/0 zgdict: 0/0
+list: 0/0 sell: 0/0 vipchat: 0/0 org: 0/0 act: 15/3
+pf2: 0/0 mix3: 0/0 pawn: 0/0 openbox: 0/0 pet: 73/6
+pf5: 0/0 title: 0/0 team: 16/2 mail: 181/7 friend: 14/1
+give: 0/0 chat: 0/0 tt: 0/0 mix2: 0/0 list12: 0/0
+time: 0/0 repair: 0/0 codetanthu: 0/0 codenammoi: 0/0 noichuyen: 0/0
+list11: 0/0 list4: 0/0 goto2: 0/0 pf4: 0/0 codeevent: 0/0
+who: 0/0 clone: 0/0 suathuoctinh: 0/0 thongbao: 0/0 sys: 0/0
+TD: 0/0 S2: 0/0 HM: 0/0 kickall: 0/0 goto: 0/0
+summon: 0/0 savings: 0/0 family: 0/0 set: 0/0 thongbao2: 0/0
+mix4: 0/0 SCS: 0/0 mix5: 0/0 NY1000: 0/0 NY2000: 0/0
+tell: 0/0 KT: 0/0 mix7: 0/0 csmm: 0/0 reboot: 0/0
+NY500: 0/0 rumor: 0/0 party: 0/0 go2map: 0/0 g: 0/0
+infoabc: 0/0 

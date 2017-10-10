@@ -87,3 +87,22 @@
 2017-10-10 21:29:38 : ❣EmPlus (4) đã chuyển  100000 lượng cho người chơi Luandubai có số id 15
 2017-10-10 21:35:36 : ❣EmPlus (4) đã chuyển  500000 lượng cho người chơi ❤Phủ có số id 3
 2017-10-10 21:36:19 : -Xu- (13) đã chuyển  1400000 lượng cho người chơi Fun có số id 10
+2017-10-10 21:51:14 : ❣EmPlus (4) đã chuyển Nhật Nguyệt Kiếm cho người chơi CQ_Funny có số id 1
+2017-10-10 21:51:39 : ❤Phủ (3) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi CQ_Funny có số id 1
+2017-10-10 21:55:34 : CQ_Funny (1) đã chuyển Nhật Nguyệt Kiếm cho người chơi ❣EmPlus có số id 4
+2017-10-10 21:55:40 : CQ_Funny (1) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi ❣EmPlus có số id 4
+2017-10-10 21:56:34 : ❣EmPlus (4) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi ❤Phủ có số id 3
+2017-10-10 21:58:43 : ❤Phủ (3) đã chuyển Thuý Ngọc Hài cho người chơi ❣EmPlus có số id 4
+2017-10-10 21:59:44 : Luandubai (15) đã chuyển  100000 lượng cho người chơi 12321321321 có số id 18
+2017-10-10 22:00:40 : ❤Phủ (3) đã chuyển Thuý Ngọc Hài cho người chơi ❣EmPlus có số id 4
+2017-10-10 22:08:58 : 12321321321 (18) đã chuyển  5041667 lượng cho người chơi Luandubai có số id 15
+2017-10-10 22:12:29 : CQ_Funny (1) đã chuyển Cự Nha Thương cho người chơi Nghịch03 có số id 2
+2017-10-10 22:14:16 : CQ_Funny (1) đã chuyển  30000000 lượng cho người chơi Nghịch03 có số id 2
+2017-10-10 22:15:07 : Nghịch03 (2) đã chuyển Bí Kíp Đại Thừa Đạo Pháp cho người chơi ❤Phủ có số id 3
+2017-10-10 22:18:47 : Nghịch03 (2) đã chuyển  20000000 lượng , Thẻ Giảm Giá , Cự Nha Thương cho người chơi aPhúKuBé có số id 19
+2017-10-10 22:24:22 : aPhúKuBé (19) đã chuyển  15920000 lượng , Cự Nha Thương cho người chơi Nghịch03 có số id 2
+2017-10-10 22:56:24 : Luandubai (15) đã chuyển  1 lượng cho người chơi Nghịch03 có số id 2
+2017-10-10 23:47:14 : Nghịch03 (2) đã chuyển  10000000 lượng cho người chơi VMC có số id 8
+2017-10-11 01:15:49 : Nghịch03 (2) đã chuyển Chí Cương Kiếm , Vạn Ác Chi Dực - Xám Nhạt cho người chơi VMC có số id 8
+2017-10-11 01:16:28 : Nghịch03 (2) đã chuyển Thần Thú - Thỏ cho người chơi VMC có số id 8
+2017-10-11 01:32:58 : VMC (8) đã chuyển  4000000 lượng cho người chơi Nghịch03 có số id 2

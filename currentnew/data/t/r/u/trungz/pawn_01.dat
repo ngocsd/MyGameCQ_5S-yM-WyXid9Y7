@@ -1,4 +1,4 @@
 #/inh/user/pawn.c
 Id 1
 Owner "trungz"
-Pawn (["43":"/item/sell/3032;1;[-]0,0","29":"/item/dtkhoa/1032;1;[-]0,0","44":"/item/sell/3032;1;[-]0,0",])
+Pawn (["29":"/item/dtkhoa/1032;1;[-]0,0",])

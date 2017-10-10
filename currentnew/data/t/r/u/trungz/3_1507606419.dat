@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"show_time":133,"shenshou":1,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":39,"shenshou":1,"no_fuse":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 76
@@ -36,8 +36,8 @@ FirstName "Chuột"
 OwnerName "❤Phủ"
 OwnerAccount "trungz"
 OwnerNumber 3
-lifetime 9869
-faith 71
+lifetime 9867
+faith 69
 blood 1
 Experience 6620
 GiftPoint 8
