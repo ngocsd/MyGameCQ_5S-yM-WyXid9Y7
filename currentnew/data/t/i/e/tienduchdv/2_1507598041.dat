@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"show_time":456,"shenshou":1,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":579,"shenshou":1,"no_fuse":1,])
 SaveDbase2 ([])
 Con 58
 Spi 15
