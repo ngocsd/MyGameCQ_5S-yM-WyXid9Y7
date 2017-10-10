@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["1":(["back2c":0,"armor":10004,"weaponc2":20461,"shape":10004,"armorc":0,"number":1,"gold":0,"hairc":0,"family":"Cấm Vệ Quân","back2":0,"level":53,"hair":1,"weaponc":0,"photo":1,"backc":0,"weapon":3135,"name":"CQ_Funny","back":0,]),])
+SaveDbase2 (["1":(["number":1,"photo":1,"back2":0,"family":"Cấm Vệ Quân","shape":10004,"back2c":0,"name":"CQ_Funny","back":0,"hair":1,"armorc":0,"gold":0,"armor":10004,"backc":0,"weaponc2":20461,"hairc":0,"weapon":3135,"weaponc":0,"level":53,]),])
 Owner "ngocsd"

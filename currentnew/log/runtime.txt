@@ -1,4 +1,4 @@
-Microsoft Windows 95, Tue Oct 10 05:11:55 2017
+Microsoft Windows 95, Tue Oct 10 13:48:53 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
