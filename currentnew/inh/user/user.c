@@ -1953,6 +1953,7 @@ void apex_kickout( int action )
 
 int kicknguoichoi(object who, int giay)
 {
+	object map;
 	giay = giay - 1;
 	if( giay > 0 )
 	{
@@ -1960,6 +1961,8 @@ int kicknguoichoi(object who, int giay)
 	}
 	else
 	{
+		map = get_map_object(get_z(who));
+		if (map->get_id() == 910 || map->get_id() == 920){
 		send_user(who,"%c%s",'!',HIY"Đã hết thời gian trong bãi luyện tập.");
 		//me->add_to_scene(80, 292, 184);
 		if ( random(100) < 30 ) {
@@ -1982,6 +1985,7 @@ int kicknguoichoi(object who, int giay)
 		}
 		else {
 		who->add_to_scene(80, 287, 184);
+		}
 		}
 	}
 }
