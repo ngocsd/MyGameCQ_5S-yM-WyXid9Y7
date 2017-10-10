@@ -4,8 +4,8 @@ inherit USABLE;
 inherit ITEM;
 inherit COMBINED;
 
-int get_item_value() {return 20 ;}
-int get_item_value_2() {return 20 ;}
+int get_item_value() {return 5000 ;}
+int get_item_value_2() {return 5000 ;}
 //int get_item_number() {return 10001070 ;}
 int get_item_color() {return 1 ;}
 

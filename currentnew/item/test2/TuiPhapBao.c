@@ -47,14 +47,14 @@ int get_use_effect_callout( object who,object gift)
 		if ( !doanthach )
 			return 0;
 	}
-	else if ( rate < 10 )	//Cao Cấp đoạn thạch
+	else if ( rate < 2 )	//Cao Cấp đoạn thạch
 	{
 		// mặc định rate 1
 		doanthach = new("item/sell/2032");
 		if ( !doanthach )
 			return 0;
 	}
-	else if ( rate < 25 )		//Chuông hám thiên
+	else if ( rate < 11 )		//Chuông hám thiên
 	{
 		item = new("item/mop/9562");
 		if ( !item )
