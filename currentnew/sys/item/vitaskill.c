@@ -56,9 +56,9 @@ int main( object me, object obj, int count, string sex, object diamond1, object 
 	for (i=0;i<size;i++)
 	{
 		stuff = to_int(name[i]);
-		if ("/sys/item/product"->find_stuff(me, stuff)<product[name[i]])
+		if ("/sys/item/product"->find_stuff(me, stuff)<product[name[i]] && !is_god(me))
 		{
-			printf( ECHO "Sử dụng \"" + obj->get_name() + "\" nguyên liệu không đủ" );
+			printf( ECHO "Chế tạo \"" + obj->get_name() + "\" nguyên liệu không đủ" );
 			return 1;
 		}
 	}
@@ -178,7 +178,7 @@ void into_effect(object me, object obj, string arg)
 	// 检查工具以及宝石
 	if( sizeof_inventory(me, 1, MAX_CARRY*4) >= allcount )
 	{
-		printf( ECHO "Sử dụng \"" + obj->get_name() + "\" đạo cụ ít nhất cần một không vị" );
+		printf( ECHO "Sử dụng \"" + obj->get_name() + "\" đạo cụ ít nhất cần 1 chỗ trống" );
 		obj->effect_break(me, "");
 		return;
 	}	
@@ -256,6 +256,9 @@ void into_effect(object me, object obj, string arg)
 			count = obj->get_count();
 			if (count<1) count = 1;		
 			printf( ECHO "Bạn Sử dụng \"" + obj->get_name() + "\" luyện ra " +item->get_name()+ "." );
+			if(is_god(me)){
+				printf( ECHO "get_skill_color = "+obj->get_skill_color() );
+			}
 			"/sys/item/product"->make_item(item, obj->get_skill_color(), 0);
 			if( ( total = USER_INVENTORY_D->can_carry(me, item) ) < 1 )
 			{
@@ -306,7 +309,7 @@ void into_effect(object me, object obj, string arg)
 		{			
 			if( ( total = USER_INVENTORY_D->can_carry_3(me, item) ) < 1 )
 			{
-	                        send_user( me, "%c%s", '!', "Bạn trên người không có không vị !");
+	                        send_user( me, "%c%s", '!', "Không đủ chỗ trống!");
 	                        destruct(item);       
 	                        obj->effect_break(me, "");
 	                        return ;  			

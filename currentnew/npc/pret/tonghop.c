@@ -42,11 +42,11 @@ void do_look( object who )
 	int id = getoid( this_object() );
 	send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Chào các bằng hữu, ta là sứ giả sự kiện của chiến quốc tâm diện. Nay các vị tìm đến ta có việc gì??! \n"
 		ESC HIY"Nhận hỗ trợ mỗi giờ\ntalk %x# gift.1\n"
-		ESC HIY"Nhận hỗ trợ hằng ngày\ntalk %x# gift.2\n"
-		ESC HIB"Ta muốn Nâng Cấp Trang Bị Vai\ntalk %x# gift.3\n"
+		ESC HIB"Nhận hỗ trợ hằng ngày\ntalk %x# gift.2\n"
+		ESC HIY"Ta muốn Nâng Cấp Trang Bị Vai\ntalk %x# gift.3\n"
 		ESC HIB"Ta muốn Nâng Cấp Thú Cưỡi\ntalk %x# gift.4\n"	
 		ESC HIC"Ta muốn Tách Đoạn Thạch\ntalk %x# gift.5\n"
-		ESC HIC"Ta muốn Ghép Vật Phẩm\ntalk %x# gift.6\n"
+		ESC HIB"Ta muốn Ghép Vật Phẩm\ntalk %x# gift.6\n"
 	//	ESC HIC"Ta muốn Ghép Đoạn Thạch\ntalk %x# gift.7\n"
 		ESC HIY"Nhận Túi Quà May Mắn\ntalk %x# gift.8\n"	
 		ESC "Tham gia Event\ntalk %x# gift.9\n"
@@ -1518,8 +1518,10 @@ void do_gift2( object me, string arg )
 				ESC HIY"[Nhận Sơ Cấp Đoạn Thạch] - 6 điểm\ntalk %x# gift.124\n"
 				ESC HIY"[Nhận Trung Cấp Đoạn Thạch] - 10 điểm\ntalk %x# gift.125\n"
 				ESC HIY"[Nhận Cao Cấp Đoạn Thạch] - 18 điểm\ntalk %x# gift.126\n"
+				ESC HIY"[Nhận Bảo để Phù - Nâng cấp KD] - 35 điểm\ntalk %x# gift.127\n"
 				ESC"Rời khỏi",get_name(),who->get_save("diemnapknb"),id,id,id,id,id,id,id,id,id));
 				/* Chọn quà */
+				break;
 		case 120:	
 				if ( who->get_save("diemnapknb") < 1 )
 				{
@@ -1637,6 +1639,23 @@ void do_gift2( object me, string arg )
 				}	
 				who->add_save("diemnapknb",-18);	
 				item = new("/item/sell/2032");
+				l = item->move2(who,-1);
+				item->add_to_user(l);
+				send_user(who,"%c%s",'!',"Bạn nhận được "HIY+item->get_name());
+				break;
+		case 127:	
+				if ( who->get_save("diemnapknb") < 35 )
+				{
+					notify( "Không đủ 18 điểm Tích Luỹ" );
+					return ;
+				}
+				if(USER_INVENTORY_D->get_free_count(who) < 1 )
+				{
+						notify( "Hành trang không đủ 1 chỗ trống" );
+				return ;
+				}	
+				who->add_save("diemnapknb",-35);	
+				item = new("item/sell/0034");
 				l = item->move2(who,-1);
 				item->add_to_user(l);
 				send_user(who,"%c%s",'!',"Bạn nhận được "HIY+item->get_name());

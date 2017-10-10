@@ -16,7 +16,7 @@
 #define SKILL_LEVEL     42
 #define TIME_INTERVAL   2
 #define SUB_MP        ( 120 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 14 * 36 )
-#define ADD_EFFECT    ( 800 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 14 * 250 )
+#define ADD_EFFECT    ( 800 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 14 * 2250 )
 
 // 函数：获取描述
 string get_desc( object me )
