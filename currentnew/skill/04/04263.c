@@ -9,7 +9,7 @@
 #define PF_START       "04263"
 #define PF_NAME        "Cuồng Bão Đại Pháp"
 
-#define SKILL_LEVEL     80
+#define SKILL_LEVEL     40
 #define TIME_INTERVAL   3
 #define SUB_MP          60 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/80*20
 #define ADD_AP          140 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/80*30
@@ -21,7 +21,7 @@ string get_desc( object me )
         int cur_level;
         string result;
         if (level<SKILL_LEVEL)
-        	return sprintf(HIR " %s \n Võ công yêu cầu: Cấp 80\n Tuyệt kỹ chú trọng về sức mạnh, tấn công nhiều địch thủ và có 10%% gây choáng 2 giây.", PF_NAME);
+        	return sprintf(HIR " %s \n Võ công yêu cầu: Cấp 40\n Tuyệt kỹ chú trọng về sức mạnh, tấn công nhiều địch thủ và có 10%% gây choáng 2 giây.", PF_NAME);
         cur_level = (level - SKILL_LEVEL)/40 + 1;
         result = sprintf(HIC" %s (Cấp %d )\n " NOR "Võ công yêu cầu: Cấp %d \n Pháp Lực tiêu hao: %d điểm\n Tái sử dụng sau: %d giây\n Tuyệt kỹ chú trọng về sức mạnh, gia tăng %d ngoại công tấn công nhiều địch thủ và có 10%% gây choáng 2 giây ( Kỹ năng đạt tới cấp 80 sẽ gia tăng phạm vị tấn công ).\n " HIC"Cấp tiếp theo:\n "NOR "Võ công yêu cầu: " HIR "Cấp %d " NOR "\n    Gia tăng %d ngoại công.",
         	PF_NAME, cur_level, SKILL_LEVEL, SUB_MP, TIME_INTERVAL, ADD_AP, cur_level*40+SKILL_LEVEL, ADD_AP+80 );
