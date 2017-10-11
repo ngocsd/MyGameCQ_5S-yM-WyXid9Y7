@@ -619,7 +619,7 @@ void do_gift2( object me, string arg )
 				send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Bạn muốn hợp thành vật phẩm nào?? \n"
 					ESC HIY"[Phượng Hoàng Ngọc Bội]\ntalk %x# gift.630\n"
 				/*	ESC HIY"[Phượng Vũ Ngọc Bội]\ntalk %x# gift.631\n"
-					ESC HIY"[Chu Tước Ngọc Bội]\ntalk %x# gift.632\n"
+					ESC HIY"[Chu Tước Ngọc Bội]\ntalk %x# gift.632\n" 
 					ESC HIY"[Uyên Ương Ngọc Bội]\ntalk %x# gift.633\n"
 					ESC HIY"[Bạch Hổ Ngọc Bội]\ntalk %x# gift.634\n"
 					ESC HIY"[Thiên Ân Ngọc Bội]\ntalk %x# gift.635\n"
