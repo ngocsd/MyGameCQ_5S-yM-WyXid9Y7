@@ -1109,12 +1109,12 @@ varargs int attack_done(object me, object who, int hit_act, int add_ap, int hit_
 
 			if (who->is_npc())
 			{
-				damage = (me->get_ap()- who->get_dp()) * who->get("03173#") / 100;
+				damage = damage * who->get("03173#") / 100;
 				owner = who->get_owner();
 			}
 			else
 			{
-				damage = (me->get_ap()- who->get_dp()) * who->get_save("03173#") / 100;
+				damage = damage * who->get_save("03173#") / 100;
 				owner = who;
 			}
 			if (me->is_nianshou())
@@ -1637,12 +1637,12 @@ varargs int throwing_done(object me, object who, int hit_act, int add_ap, int hi
 
 			if (who->is_npc())
 			{
-				damage = (me->get_ap()- who->get_dp()) * who->get("03173#") / 100;
+				damage = damage * who->get("03173#") / 100;
 				owner = who->get_owner();
 			}
 			else
 			{
-				damage = (me->get_ap()- who->get_dp()) * who->get_save("03173#") / 100;
+				damage = damage * who->get_save("03173#") / 100;
 				owner = who;
 			}
 			if (me->is_nianshou())
@@ -2138,14 +2138,14 @@ varargs int cast_done(object me, object who, int add_cp, int damage_rate, int su
 
 			if (who->is_npc())
 			{
-				damage = (me->get_ap()- who->get_dp()) * who->get("03173#") / 100;
+				damage = damage * who->get("03173#") / 100;
 				owner = who->get_owner();
 			}
 			else
 			{
-				damage = (me->get_ap()- who->get_dp()) * who->get_save("03173#") / 100;
+				damage = damage * who->get_save("03173#") / 100;
 				owner = who;
-			} 
+			}
 			if (me->is_nianshou())
 				damage = 0;
 			if (owner)
