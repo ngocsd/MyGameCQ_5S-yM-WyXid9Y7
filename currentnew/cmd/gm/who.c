@@ -20,7 +20,7 @@ int main( object me, string arg )
                 {
 	                for( i = 0; i < size; i ++ ) 
 	                        if( user[i] ) result = sprintf( "%s%s%s( %d )(Cấp: %d) -- ", 
-	                                result, i % 8 ? "" : "\n", user[i]->get_name(), user[i]->get_number(), user[i]->get_level() );
+	                                result, "\n", user[i]->get_name(), user[i]->get_number(), user[i]->get_level() );
 		}	                                
                 tell_user(me, result);
         }

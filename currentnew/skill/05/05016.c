@@ -16,7 +16,7 @@
 #define TIME_INTERVAL   15
 #define SUB_MP          300 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/15*100
 #define ADD_INTERVAL    300
-#define ADD_EFFECT	150 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/15*50
+#define ADD_EFFECT	350 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/15*150
 
 
 // 函数：获取描述

@@ -38,9 +38,6 @@ int main( object me, string arg )
 			//+ sprintf(ESC"Event trung thu (TN)\nparty 138\n")
 			+ sprintf(ESC"Lễ quốc khánh\nparty 151\n")
 			+ sprintf(ESC"Tết dương tiết\nparty 157\n")
-			+ sprintf(ESC"Dịch vụ bồi thường\nparty 200\n")
-			+ sprintf(ESC"Vô Song Thành\nparty 9999\n")
-			+ sprintf(ESC"4 Boss Thế Giới\nparty 789789\n")
 			+ ESC"Thoát"
 		);
 		break;
@@ -48,6 +45,9 @@ int main( object me, string arg )
 		send_user(me, "%c%c%w%s", ':',3,0,
 			"Mời lựa chọn:\n"
 			+ sprintf(ESC"Trang trước\nparty\n")
+			+ sprintf(ESC"Dịch vụ bồi thường\nparty 200\n")
+			+ sprintf(ESC"Vô Song Thành\nparty 9999\n")
+			+ sprintf(ESC"4 Boss Thế Giới\nparty 789789\n")
 			+ sprintf(ESC"Tìm kiếm dodolook\nparty 12\n")
 			+ sprintf(ESC"Truy tìm duyên phận\nparty 26\n")
 			+ sprintf(ESC"Phần thưởng người mới\nparty 16\n")

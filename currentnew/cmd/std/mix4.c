@@ -314,6 +314,7 @@ int mix1(object me,object *item)
 	{
 		if (me->get("lb")) rate1 = me->get("lb");
 		tell_user(me,"Bây giờ xác xuất thành công %d là %d",rate,rate1);
+		rate = 100;
 	}
         if (rate1<rate)
         {
