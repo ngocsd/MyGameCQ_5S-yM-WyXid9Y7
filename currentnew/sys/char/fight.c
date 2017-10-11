@@ -83,9 +83,9 @@ int correct_damage(object me, object who, int damage, int ap)
 		{
 			//                      send_user( get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(who), 31711, 1, OVER_BODY, PF_ONCE );
 			if (me->get_level() < who->get_skill(SKILL_0317))
-				me->add_hp(-damage * point / 100);
+				me->add_hp(-damage * point);
 			else
-				me->add_hp(-damage * point / 100 * who->get_skill(SKILL_0317) / me->get_level());
+				me->add_hp(-damage * point * who->get_skill(SKILL_0317) / me->get_level());
 			//                      CHAR_DIE_D->is_enemy_die(who, me, damage * point / 100);    // 由于 ME 有可能被 DEST, 故放最后处理
 			who->add_mp(-6);
 		}

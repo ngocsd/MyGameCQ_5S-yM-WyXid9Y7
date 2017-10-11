@@ -26,7 +26,7 @@ string get_desc( object me )
         	return HIR + PF_NAME +"\n Võ công yêu cầu: 20 cấp\n    Dùng kim cang bảo hộ bản thân, tự động phản hồi 8%% sát thương cận chiến và tầm xa."; // Mặc định 10%
 		cur_level = (level - SKILL_LEVEL)/15 + 1;
 		result = sprintf(HIC" %s (Cấp %d )\n " NOR "Võ công yêu cầu: Cấp %d \n Nguyên khí tiêu hao: %d điểm\n Tái sử dụng sau: %d giây\n    Dùng kim cang bảo hộ bản thân, trong %d giây tự động phản hồi %d%% sát thương cận chiến và tầm xa.\n " HIC"Cấp tiếp theo:\n "NOR "Võ công yêu cầu: " HIR "Cấp %d " NOR "\n    Trong %d giây tự động phản hồi %d%% sát thương cận chiến và tầm xa. Giảm thời gian tái sử dụng xuống %d giây",
-	        	PF_NAME, cur_level, SKILL_LEVEL, SUB_YUAN, TIME_INTERVAL, ADD_INTERVAL, ADD_AP, cur_level*15+SKILL_LEVEL, ADD_INTERVAL+1, ADD_AP + 3, TIME_INTERVAL-3);	// Mặc định add_ap +5	      
+	        	PF_NAME, cur_level, SKILL_LEVEL, SUB_YUAN, TIME_INTERVAL, ADD_INTERVAL, ADD_AP, cur_level*15+SKILL_LEVEL, ADD_INTERVAL+1, ADD_AP + 5, TIME_INTERVAL-3);	// Mặc định add_ap +5	      
         return result;
 }
 
@@ -85,7 +85,7 @@ int main( object me, object who, int x, int y, string arg )
 	if (me->is_user()) me->set_save(PF_TIME, ADD_AP);
 	else me->set(PF_TIME, ADD_AP);
 	CHAR_FIGHT_D->set_enmity2(me,me, 330 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/10*50); // Mặc định *70
-        return 1;
+    return 1;
 }
 
 // 函数:法术处理
