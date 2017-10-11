@@ -37,10 +37,10 @@ void create()
         set_name("Sơn Đại Vương");
         set_char_picid(1218); 
         set_level(60);
-       set_max_hp(22000000);
+		set_max_hp(22000000);
 	//     set_max_hp(10);
         set_max_mp(20000);
-	init_fight_status();
+		init_fight_status();
         set_walk_speed(2);
         set_attack_speed(10);
         set_walk_step(2);
@@ -57,11 +57,11 @@ void create()
         set_char_type(OFFICER_TYPE);
         set( "birthday", time() );
         if( !clonep(me) ) return;
-	CHAT_D->rumor_channel( 0, CHAT+"Nghe nói Sơn Đại Vương đã xuất hiện tại Kênh Trịnh Quốc 1" ); 
+		CHAT_D->rumor_channel( 0, CHAT+"Nghe nói Sơn Đại Vương đã xuất hiện tại Kênh Trịnh Quốc 1" ); 
         set_2( "talk", ([
                 "fight"		: (: do_fight:),
         ]));  
-	log_file("boss.txt",short_time()+" Sơn Đại Vương xuất hiện\n");
+		log_file("boss.txt",short_time()+" Sơn Đại Vương xuất hiện\n");
 }
 
 int can_fight( object who ) 
@@ -105,7 +105,7 @@ int can_be_fighted( object who )
 }
 void set_lowhp_status()
 {
-	add_ap(get_ap()/5);
+	add_ap(get_ap()/2);
 	add_dp(get_dp()/5);
 	add_cp(get_cp()/5);
 	add_pp(get_pp()/5);
@@ -462,7 +462,29 @@ void drop_items( object me, object who )
         rate1 = me->correct_drop_rate( me->get_level() - who->get_level() ) * who->get_online_rate() / 100;
 	rate = random(100);
 //	if ( rate < rate1 )
-	{
+	{	
+		for(i=0;i<2;i++){	
+			rate = random(100);
+			if (is_god(who)){
+				write_user(who, ECHO "rate "+ rate);
+			}
+			if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))
+	           {
+				if(rate < 15)
+	                item = new( "/item/sell/4032_3" ); //kd 25%
+				else if (rate < 45)
+					item = new( "/item/sell/4032_2" ); //kd 15%
+				else
+					item = new( "/item/sell/4032" ); //kd 5%
+				if (item){
+	                TEAM_D->drop_item(item,who);
+					item->set_user_id(owner);
+	                item->add_to_scene(z, p / 1000, p % 1000);
+	                item->set("winner", who);
+	                item->set( "time", time() );
+				}
+	           }
+		}
 		for(i=0;i<10;i++)	//10堆5000金
 	        {
 	                if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) )
@@ -470,7 +492,7 @@ void drop_items( object me, object who )
 	                        item = new( "/item/std/0001" );
 	                        item->set_value( 30000 );
 	                        TEAM_D->drop_item(item,who);
-				item->set_user_id(owner);
+							item->set_user_id(owner);
 	                        item->add_to_scene(z, p / 1000, p % 1000);
 	                        item->set("winner", who);
 	                        item->set( "time", time() );

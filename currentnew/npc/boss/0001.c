@@ -40,7 +40,7 @@ void create()
         set_level(100);
         set_max_hp(4500000);
         set_max_mp(2000);
-	init_fight_status();
+		init_fight_status();
         set_walk_speed(2);
         set_attack_speed(10);
         set_walk_step(2);
@@ -57,7 +57,7 @@ void create()
         set_char_type(OFFICER_TYPE);
         set( "birthday", time() );
         if( !clonep(me) ) return;
-	CHAT_D->rumor_channel( 0, CHAT+"Nghe nói Hổ Vương lại xuất hiện ở Trường Bạch Thiên Trì!" ); 
+		CHAT_D->rumor_channel( 0, CHAT+"Nghe nói Hổ Vương lại xuất hiện ở Trường Bạch Thiên Trì!" ); 
         set_2( "talk", ([
                 "fight"		: (: do_fight:),
         ]));  
@@ -519,7 +519,7 @@ void drop_items( object me, object who )
 	                        item = new( "/item/manhghep/mgdt" );
 						    item->set_amount(1+random(5));
 	                        TEAM_D->drop_item(item,who);
-				item->set_user_id(owner);
+							item->set_user_id(owner);
 	                        item->add_to_scene(z, p / 1000, p % 1000);
 	                        item->set("winner", who);
 	                        item->set( "time", time() );
@@ -531,7 +531,7 @@ void drop_items( object me, object who )
 	                        item = new( "/item/manhghep/dauan" );
 	                   //     item->set_value( 5000 );
 	                        TEAM_D->drop_item(item,who);
-				item->set_user_id(owner);
+							item->set_user_id(owner);
 	                        item->add_to_scene(z, p / 1000, p % 1000);
 	                        item->set("winner", who);
 	                        item->set( "time", time() );

@@ -12,7 +12,7 @@
 #define PF_NAME        "Kỳ Môn Trận"
 #define SEAL_SIZE       1             // (31×31)阵法
 
-#define SKILL_LEVEL     16
+#define SKILL_LEVEL     160
 #define TIME_INTERVAL   12
 #define SUB_MP          ( 70 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 10 * 25 )
 #define ADD_INTERVAL    8
