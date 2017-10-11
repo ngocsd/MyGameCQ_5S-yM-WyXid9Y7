@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_fuse":1,"show_time":190,"no_give":1,])
+SaveDatabase (["show_time":252,"no_fuse":1,"shenshou":1,"no_give":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 77
@@ -19,7 +19,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74214":(/1,0,/),"74205":(/1,0,/),"74202":(/1,0,/),"74216":(/1,0,/),"74220":(/1,0,/),])
+Skills (["74216":(/1,0,/),"74205":(/1,0,/),"74220":(/1,0,/),"74202":(/1,0,/),"74214":(/1,0,/),])
 WeaponCode 60
 Name "Chuột"
 PicId 3007

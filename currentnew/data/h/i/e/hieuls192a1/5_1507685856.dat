@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"show_time":554,"no_fuse":1,"no_give":1,])
+SaveDatabase (["show_time":554,"no_fuse":1,"shenshou":1,"no_give":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 52
@@ -19,7 +19,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74214":(/1,0,/),"74218":(/1,0,/),"74205":(/1,0,/),"74217":(/1,0,/),"74219":(/1,0,/),])
+Skills (["74205":(/1,0,/),"74219":(/1,0,/),"74217":(/1,0,/),"74214":(/1,0,/),"74218":(/1,0,/),])
 WeaponCode 60
 Name "Ngưu"
 PicId 3008
@@ -37,7 +37,7 @@ OwnerName "#25"
 OwnerAccount "hieuls192a1"
 OwnerNumber 5
 lifetime 9906
-faith 31
+faith 51
 blood 1
 Experience 17716
 iPortrait 3008

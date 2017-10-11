@@ -1,4 +1,4 @@
-Microsoft Windows 95, Wed Oct 11 14:28:02 2017
+Microsoft Windows 95, Wed Oct 11 20:22:38 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
@@ -18,4 +18,18 @@ Loading 44 preload files ...
 Initializations complete.
 
 Open connection port: 8888 
+(s)printf(): Error in format string. (arg: 10)
+program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
+'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#830a') /inh/char/cmd.c:76
+'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
+'     <function>' in '          <function>' ('npc/pret/tonghop#29d') 
+'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#29d') /npc/pret/tonghop.c:63
+'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
+(s)printf(): Error in format string. (arg: 10)
+program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
+'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#830a') /inh/char/cmd.c:76
+'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
+'     <function>' in '          <function>' ('npc/pret/tonghop#29d') 
+'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#29d') /npc/pret/tonghop.c:63
+'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
 closed external ports
