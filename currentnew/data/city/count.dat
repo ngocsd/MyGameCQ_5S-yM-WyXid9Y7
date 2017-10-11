@@ -1,14 +1,14 @@
 #/sys/sys/count.c
 Effect ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
 boxcount 1
-buycount 188
-IncomeName ({"get","sell","mastertask",})
-UseName ({"learn","family_use","buy","travel","die","chat","Giám định","repair","rumor",})
-CommandName ({"go","tips","desc","E","gift","look","quit","say","use","remove","drop","talk","learn","key","pf","buyitem","NY100","无效","truyentong","UL","gmdrop","get","kill","use2","无指令","recover","move","list5","buy","zgdict","list","sell","vipchat","org","act","pf2","mix3","pawn","openbox","pet","pf5","title","team","mail","friend","give","chat","tt","mix2","list12","time","repair","codetanthu","codenammoi","noichuyen","list11","list4","goto2","pf4","codeevent","who","clone","suathuoctinh","thongbao","sys","TD","S2","HM","kickall","goto","summon","savings","family","set","thongbao2","mix4","SCS","mix5","NY1000","NY2000","tell","KT","mix7","csmm","reboot","NY500","rumor","party","go2map","g","infoabc","black",})
-FamilyCount (["Cấm Vệ Quân":6,"":23,"Vân Mộng Cốc":4,"Đường Môn":2,"Côn Luân":1,"Thục Sơn":1,"Mao Sơn":3,])
-EquipCount (["blue":39,"yellow":280,])
-SceneTask (["Sư môn":4,"Sứ Mệnh Đưa Thư":9,"Thủ Thuật Nhỏ":2,"Vệ Đội Trưởng Hoàng Kim Thánh Y":3,])
-Pet (["Hợp thành kĩ năngNội Kháng Phù Trợ":4,"Hợp thành kĩ năngNgoại Công Phù Trợ":4,"Hợp thành kĩ năngNgoại Kháng Phù Trợ":3,"Hợp thành kĩ năngKhí Huyết Phù Trợ":5,"Hợp thành kĩ năngNội Công Phù Trợ":3,])
+buycount 215
+IncomeName ({"get","sell","mastertask","org",})
+UseName ({"learn","family_use","buy","travel","die","chat","Giám định","repair","rumor","org","org-strong","orgbuy",})
+CommandName ({"go","tips","desc","E","gift","look","quit","say","use","remove","drop","talk","learn","key","pf","buyitem","NY100","无效","truyentong","UL","gmdrop","get","kill","use2","无指令","recover","move","list5","buy","zgdict","list","sell","vipchat","org","act","pf2","mix3","pawn","openbox","pet","pf5","title","team","mail","friend","give","chat","tt","mix2","list12","time","repair","codetanthu","codenammoi","noichuyen","list11","list4","goto2","pf4","codeevent","who","clone","suathuoctinh","thongbao","sys","TD","S2","HM","kickall","goto","summon","savings","family","set","thongbao2","mix4","SCS","mix5","NY1000","NY2000","tell","KT","mix7","csmm","reboot","NY500","rumor","party","go2map","g","infoabc","black","mix6","congdiem","gmset","doitoc2",})
+FamilyCount (["Đường Môn":2,"Vân Mộng Cốc":4,"":25,"Cấm Vệ Quân":6,"Mao Sơn":3,"Thục Sơn":1,"Côn Luân":1,])
+EquipCount (["blue":13,"yellow":310,])
+SceneTask (["Sứ Mệnh Đưa Thư":10,"Sư môn":4,"Thủ Thuật Nhỏ":2,"Vệ Đội Trưởng Hoàng Kim Thánh Y":3,])
+Pet (["Hợp thành kĩ năngNgoại Công Phù Trợ":4,"Hợp thành kĩ năngNgoại Kháng Phù Trợ":3,"Hợp thành kĩ năngNội Công Phù Trợ":3,"Hợp thành kĩ năngNội Kháng Phù Trợ":4,"Hợp thành kĩ năngKhí Huyết Phù Trợ":5,])
 iNewPerson 1
 hp1 ({32,120,72,84,72,84,72,60,})
 hp2 ({10,10,10,10,10,10,10,10,})
@@ -24,3 +24,4 @@ pp1 ({15,17,20,17,17,30,23,26,})
 pp2 ({10,10,10,10,10,10,10,10,})
 sp1 ({13,15,13,20,25,13,13,13,})
 sp2 ({10,10,10,10,10,10,10,10,})
+firstorg 1

@@ -1,4 +1,4 @@
-Microsoft Windows 95, Tue Oct 10 21:45:52 2017
+Microsoft Windows 95, Wed Oct 11 14:28:02 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
@@ -18,30 +18,4 @@ Loading 44 preload files ...
 Initializations complete.
 
 Open connection port: 8888 
-Bad argument 1 to send_user()
-Expected: array or object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1963
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1963
-Bad argument 1 to send_user()
-Expected: array or object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1963
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1963
-Bad argument 1 to send_user()
-Expected: array or object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1963
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1963
-Bad argument 1 to call_other()
-Expected: string or array or object Got: 0.
-program: /npc/event/BossPhu.c, object: /npc/event/BossPhu#12c90, file: /npc/event/BossPhu.c:526
-'     heart_beat' in '       inh/npc/npc.c' ('npc/event/BossPhu#12c90') /inh/npc/npc.c:170
-'heart_beat_callout' in '       inh/npc/npc.c' ('         inh/npc/npc') /inh/npc/npc.c:298
-'heart_beat_attack' in ' npc/event/BossPhu.c' ('npc/event/BossPhu#12c90') /npc/event/BossPhu.c:393
-'heart_beat_attack' in '       inh/npc/npc.c' ('npc/event/BossPhu#12c90') /inh/npc/npc.c:348
-'heart_beat_attack' in '     sys/npc/heart.c' ('       sys/npc/heart') /sys/npc/heart.c:119
-' perform_action' in ' npc/event/BossPhu.c' ('npc/event/BossPhu#12c90') /npc/event/BossPhu.c:526
-Heart beat in /npc/event/BossPhu#12c90 turned off.
-Error in loading object '/npc/party/0014'
-program: /cmd/pro/party.c, object: /cmd/pro/party, file: /cmd/pro/party.c:152
-'   command_hook' in '      inh/char/cmd.c' (' inh/user/user#12e23') /inh/char/cmd.c:76
-'           main' in '     cmd/pro/party.c' ('       cmd/pro/party') /cmd/pro/party.c:152
 closed external ports

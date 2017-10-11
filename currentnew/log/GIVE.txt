@@ -200,3 +200,30 @@
 2017-10-11 14:06:27 : ❤Phủ (3) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi CQ_Funny có số id 1
 2017-10-11 14:08:22 : CQ_Funny (1) đã chuyển Huyết Ẩm Cuồng Đao cho người chơi ❤Phủ có số id 3
 2017-10-11 14:09:58 : CQ_Funny (1) đã chuyển Đoạn Thạch Đặc Biệt Sơ Cấp cho người chơi ❤Phủ có số id 3
+2017-10-11 16:33:06 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 2  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:33:11 : ❤Phủ (3) đã chuyển Kim Tinh Thạch cấp 4  cho người chơi #25 có số id 5
+2017-10-11 16:35:13 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 3  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:35:24 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 3  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:35:51 : ❣EmPlus (4) đã chuyển Thổ Tinh Thạch cấp 5  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:36:00 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 1  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:36:55 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 1  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:37:07 : ❣EmPlus (4) đã chuyển Thổ Tinh Thạch cấp 1  , Thổ Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 1  , Thổ Tinh Thạch cấp 1  , Thổ Tinh Thạch cấp 2  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:37:38 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 1  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:37:51 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 2  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:39:20 : #25 (5) đã chuyển Thổ Tinh Thạch cấp 1  cho người chơi ❤Phủ có số id 3
+2017-10-11 16:40:08 : ❣EmPlus (4) đã chuyển Lệnh PretKuzl cho người chơi ❤Phủ có số id 3
+2017-10-11 17:12:22 : #25 (5) đã chuyển Công thức Thần Hành Hạng Liên , Công thức Truy Phong Lý , Công thức Truy Phong Chiến Ngoa cho người chơi ❤Phủ có số id 3
+2017-10-11 17:18:32 : ❤Phủ (3) đã chuyển Công thức Thần Hành Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-11 17:18:54 : ❤Phủ (3) đã chuyển Thiên Tôn Bảo Đao cho người chơi ❣EmPlus có số id 4
+2017-10-11 17:21:08 : ❣EmPlus (4) đã chuyển Thần Hành Hạng Liên cho người chơi ❤Phủ có số id 3
+2017-10-11 17:45:50 : ❤Phủ (3) đã chuyển Truy Phong Lý , Thần Hành Hạng Liên cho người chơi #25. có số id 14
+2017-10-11 18:39:17 : Luandubai (15) đã chuyển Tù Và Chiến Quốc cho người chơi dsadá có số id 25
+2017-10-11 18:51:59 : Luandubai (15) đã chuyển Thần Phong Phi Phong , Chuông Hám Thiên , Cửu Long Thần Hỏa Trảo cho người chơi dsadá có số id 25
+2017-10-11 18:52:37 : Luandubai (15) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi dsadá có số id 25
+2017-10-11 19:44:06 : Luandubai (15) đã chuyển  3000000 lượng cho người chơi dsadá có số id 25
+2017-10-11 19:45:31 : #25 (5) đã chuyển  1300000 lượng , Truy Tâm Tiễn cho người chơi #25. có số id 14
+2017-10-11 19:45:55 : #25 (5) đã chuyển Thẻ Giảm Giá cho người chơi #25. có số id 14
+2017-10-11 19:59:49 : #25 (5) đã chuyển  2000000 lượng cho người chơi #25. có số id 14
+2017-10-11 20:01:02 : #25 (5) đã chuyển Thẻ Giảm Giá cho người chơi #25. có số id 14
+2017-10-11 20:02:33 : #25 (5) đã chuyển  2000000 lượng cho người chơi #25. có số id 14
+2017-10-11 20:03:00 : #25. (14) đã chuyển Truy Tâm Tiễn , Thần Hành Hạng Liên cho người chơi #25 có số id 5
