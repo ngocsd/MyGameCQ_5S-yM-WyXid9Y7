@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["2":(["weaponc":0,"hairc":0,"back2":0,"family":"","hair":1,"armor":10001,"backc":0,"level":10,"number":19,"name":"aPhúKuBé","shape":10001,"weaponc2":0,"back2c":0,"weapon":64,"gold":999,"back":0,"armorc":694434243,"photo":1,]),"1":(["weaponc":0,"hairc":0,"back2":8,"family":"Vân Mộng Cốc","hair":1,"armor":10051,"backc":0,"name":"VMC","number":8,"level":60,"shape":10051,"weaponc2":20461,"back2c":0,"weapon":3134,"gold":737566,"back":8,"armorc":0,"photo":1,]),])
+SaveDbase2 (["2":(["back2c":0,"photo":1,"weaponc":0,"hairc":0,"weaponc2":0,"family":"","armor":10001,"level":10,"number":19,"name":"aPhúKuBé","armorc":694434243,"shape":10001,"backc":0,"weapon":64,"gold":999,"back":0,"back2":0,"hair":1,]),"1":(["back2c":0,"photo":1,"weaponc":0,"hairc":0,"weaponc2":20461,"family":"Vân Mộng Cốc","armor":10051,"name":"VMC","number":8,"level":60,"armorc":0,"shape":10051,"backc":0,"weapon":3134,"gold":151865,"back":8,"back2":8,"hair":1,]),])
 Owner "tienduchdv1"

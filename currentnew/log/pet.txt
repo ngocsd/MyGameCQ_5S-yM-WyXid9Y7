@@ -11,3 +11,9 @@
 2017-10-10 19:14:19 ❣EmPlus(4) Tinh Nguyên Đơn Gà(Gà,4_1507605069) học Ngoại Kháng Phù Trợ mất đi Nội Kháng Phù Trợ
 2017-10-10 19:14:51 ❣EmPlus(4) Tinh Nguyên Đơn Gà(Gà,4_1507605069) học Nội Kháng Phù Trợ mất đi Khí Huyết Phù Trợ
 2017-10-10 19:15:01 ❣EmPlus(4) Tinh Nguyên Đơn Gà(Gà,4_1507605069) học Khí Huyết Phù Trợ mất đi Cao Cấp Phi Phong Ảnh
+2017-10-11 02:36:35 Nghịch03(2) Tinh Nguyên Đơn Xử(Xử Nữ,2_1507598041) học Nội Kháng Phù Trợ 
+2017-10-11 09:39:02 #25(5) Tinh Nguyên Đơn Ngưu Trâu(Ngưu Trâu,5_1507685856) học Nội Công Phù Trợ mất đi Biểu Diễn
+2017-10-11 09:39:39 #25(5) Tinh Nguyên Đơn Ngưu Trâu(Ngưu Trâu,5_1507685856) học Khí Huyết Phù Trợ mất đi Cao Cấp Ngự Mệnh Thuật
+2017-10-11 09:40:04 #25(5) Tinh Nguyên Đơn Ngưu Trâu(Ngưu Trâu,5_1507685856) học Nội Kháng Phù Trợ mất đi Nội Công Phù Trợ
+2017-10-11 09:40:36 #25(5) Tinh Nguyên Đơn Ngưu Trâu(Ngưu Trâu,5_1507685856) học Nội Công Phù Trợ mất đi Ngoại Kháng Phù Trợ
+2017-10-11 09:40:51 #25(5) Tinh Nguyên Đơn Ngưu Trâu(Ngưu Trâu,5_1507685856) học Ngoại Kháng Phù Trợ mất đi Khí Huyết Phù Trợ

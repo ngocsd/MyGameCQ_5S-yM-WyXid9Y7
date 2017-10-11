@@ -46,3 +46,6 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-11 14:04:42 npc/party/0014.c line 91: Undefined variable 'iFinish2'
+2017-10-11 14:04:42 npc/party/0014.c line 98: Undefined variable 'mpXinrenwang'
+2017-10-11 14:04:42 npc/party/0014.c line 154: Undefined variable 'mpXinrenwang'
