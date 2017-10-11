@@ -199,5 +199,7 @@
 #define COPY_GUMU		6
 #define COPY_TAISHAN		7
 
+#define DAUAN_DEPLAO_NEEDED		50
+
 
 

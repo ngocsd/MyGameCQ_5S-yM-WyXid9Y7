@@ -1,25 +1,8 @@
-Microsoft Windows 95, Thu Oct 12 03:44:49 2017
+Microsoft Windows 95, Thu Oct 12 04:00:11 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
 Initializing the world... done.
-Loading 44 preload files ...
-/sys/sys/class, /sys/sys/file, /sys/sys/map, /sys/sys/city, /map/map/map, *Error in loading object '/npc/pret/tonghop'
-program: /map/map/npc.c, object: /map/map/npc, file: /map/map/npc.c:21
-'        preload' in '     sys/main/main.c' ('       sys/main/main') /sys/main/main.c:174
-'          CATCH' in '     sys/main/main.c' ('       sys/main/main') /sys/main/main.c:174
-'         create' in '       map/map/map.c' ('         map/map/map') /map/map/map.c:149
-'         create' in '       map/map/npc.c' ('         map/map/npc') /map/map/npc.c:21
-
-/map/city/city, /map/map/xy, /sys/sys/task, /sys/sys/callout, /sys/sys/check, 
-/sys/sys/user, /sys/sys/chat, /sys/sys/tips, /sys/sys/emote, /sys/sys/family, 
-/sys/sys/team, /sys/sys/id, /sys/user/exp, /sys/sys/login, /sys/sys/login0, 
-/sys/sys/login1, /sys/user/cmd, /sys/user/energy, /sys/char/fight, 
-/sys/char/die, /sys/user/slave, /sys/npc/energy, /sys/npc/energy2, 
-/sys/npc/equip, /sys/npc/rank, /sys/item/equip, /sys/sys/connect, 
-/cmd/sys/reboot, /cmd/sys/tg, /cmd/pro/x2c, /sys/user/life, /sys/task/master, 
-/sys/task/quest1, /sys/task/apprentice, /sys/npc/battle, /sys/npc/heart, 
-/sys/npc/slave, /npc/war/0002, /cmd/gm/gonggao, ... done.
 
 Initializations complete.
 

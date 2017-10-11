@@ -1,31 +1,29 @@
 dev log 
 
+/IC [ID do] [So] {Doi mau cho trang bi 0: bach kim, 1: lam kim, 2: hoang kim, 3: tu kim, 4: luc kim}
 
-year.c
-party.c
-feizei.c 	line 213    for(i=0;i<num;i++) {			for(i=0;i<10;i++) {
+USER_ENERGY_D->count_max_hp(who)
 
+item/final  cực hiệu
 
 item/set10sao/tukim85_10/set10sao
 item/set10sao/bavuong_10/tuivukhibavuong
 item/set10sao/80/set10sao
 
-item/sell/5032
+item/08/0012  giám định kinh
 
-việt hóa
-thất quốc lệnh   -> done
+item/sell/5032  Toàn năng
+item/sell/2024 	chìa khóa may mắn
 
-võ lầm bại hoại 1 ng    -> gọi cần pt 1 ng, party thường pt 2 ng
-chiến trường 1 ng		-> Chiến trường cần tói thiểu 2 người để bắt đầu
-add npc nguyên liệu		-> done
-aoe dhn	->  để sau
-fix vmc skill 150 đấu chuyển + 800 nội công, fix buff máu  -> ko fix do có trận kỳ
-kỹ năng sống -> 150  -> lên 90
-add tù và lập bang  -> done
-quái cày mil
-tăng tỉ lệ knb trọc
-fix boss phụ bản bá vương
+add cực hiệu
+thêm phần thưởng tín vật vào boss tư tà
+tăng phần thưởng tu vị
+fix boss phụ bản bá vương  
 add boss sơn đại vương 5% kd 100%
-giảm dép lào  dầu ăn cần để đổi cánh -> 50
-x5 knb trọc
-tăng giá bán túi vô song
+giảm dép lào  dầu ăn cần để đổi cánh -> 50  --> done
+
+add boss
+
+
+VMC tăng dmg đậu binh, bỏ trận kỳ  --> ok
+DHN tăng skill phản dmg  -> ok
