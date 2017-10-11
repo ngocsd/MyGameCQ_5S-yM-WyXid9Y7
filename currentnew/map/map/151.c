@@ -105,12 +105,12 @@ void reset()
                 else if (get_x(nishigui) != 102 || get_y(nishigui) != 102)
                         nishigui->add_to_scene(151, 102, 102, 2);
         }
-        if (time % 10 == 0 && bossConSong == 0)
+        if (time % 10 == 0 && !objectp(boss1))
         {
                 mxTmp = localtime(time());
                 gio = mxTmp[TIME_HOUR];
                 phut = mxTmp[TIME_MIN];
-                if (gio == 5 && phut == 52)
+                if (gio == 6 && (phut == 08 || phut == 09 )
                 {
                         if (p = efun::get_xy_point(151, IS_CHAR_BLOCK)) //151 = Kênh trịnh quốc 1
                         {
