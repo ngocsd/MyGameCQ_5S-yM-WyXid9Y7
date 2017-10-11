@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"shenshou":1,"no_fuse":1,])
+SaveDatabase (["shenshou":1,"no_fuse":1,"no_give":1,])
 SaveDbase2 ([])
 Con 12
 Spi 10
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74206":(/1,0,/),"74210":(/1,0,/),"74228":(/1,0,/),"74001":(/1,0,/),"74213":(/1,0,/),])
+Skills (["74213":(/1,0,/),"74206":(/1,0,/),"74228":(/1,0,/),"74210":(/1,0,/),"74001":(/1,0,/),])
 WeaponCode 60
 Name "Thuỷ Bình"
 PicId 3019
