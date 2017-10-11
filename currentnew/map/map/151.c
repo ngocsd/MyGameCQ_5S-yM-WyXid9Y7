@@ -2,6 +2,7 @@
 // 自动生成：/make/std/makemap
 
 #include <map.h>
+#include <time.h>
 
 inherit SCENE;
 object zhanshan, nishigui;
@@ -110,7 +111,7 @@ void reset()
                 mxTmp = localtime(time());
                 gio = mxTmp[TIME_HOUR];
                 phut = mxTmp[TIME_MIN];
-                if (gio == 5 && phut == 46)
+                if (gio == 5 && phut == 52)
                 {
                         if (p = efun::get_xy_point(151, IS_CHAR_BLOCK)) //151 = Kênh trịnh quốc 1
                         {
@@ -119,7 +120,7 @@ void reset()
                                 boss1 = new ("npc/boss/0021"); //link boss
                                 if (boss1)
                                 {
-                                        "map/map/151"->add_boss(boss1);
+                                        map->add_boss(boss1);
                                         boss1->add_to_scene(151, x, y); //z chính là id của map boss sẽ xuất hiện, x,y là tọa độ, ở đây là xuất hiện ngẫu nhiên
                                 }
                         }
