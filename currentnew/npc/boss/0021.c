@@ -526,7 +526,7 @@ void drop_items( object me, object who )
 	                        item->set("winner", who);
 	                        item->set( "time", time() );
 	                }
-				for(i=0;i<2;i++) 	
+				for(i=0;i<10;i++) 	
 		{
 	                if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) ) 
                 	{
@@ -540,7 +540,7 @@ void drop_items( object me, object who )
 	                        item->set( "time", time() );
 			}
                 }
-				for(i=0;i<2;i++) 	
+				for(i=0;i<10;i++) 	
 		{
 	                if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) ) 
                 	{
