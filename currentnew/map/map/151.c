@@ -5,7 +5,7 @@
 #include <time.h>
 
 inherit SCENE;
-object zhanshan, nishigui;
+object zhanshan, nishigui, boss1;
 int bossConSong;
 mixed *mxTmp;
 void clone_npc();
@@ -69,8 +69,7 @@ void heart_beat_loop(int effect1, int effect2, int effect3, int effect4, int eff
 // 函数：复位处理
 void reset()
 {
-        int gio, phut,x,y;
-        object boss1;
+        int gio, phut,x,y,p;
         object map = this_object();
         int time = add_reset_time(1);
 
