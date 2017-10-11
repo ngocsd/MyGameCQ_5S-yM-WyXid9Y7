@@ -110,7 +110,7 @@ void reset()
                 mxTmp = localtime(time());
                 gio = mxTmp[TIME_HOUR];
                 phut = mxTmp[TIME_MIN];
-                if (gio == 6 && (phut == 11 || phut == 12 ))
+                if (gio == 06 && (phut == 16 || phut == 17 ))
                 {
                         if (p = efun::get_xy_point(151, IS_CHAR_BLOCK)) //151 = Kênh trịnh quốc 1
                         {
