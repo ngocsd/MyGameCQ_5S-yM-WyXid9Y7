@@ -1,10 +1,16 @@
-Microsoft Windows 95, Wed Oct 11 20:29:33 2017
+Microsoft Windows 95, Thu Oct 12 03:44:49 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
 Initializing the world... done.
 Loading 44 preload files ...
-/sys/sys/class, /sys/sys/file, /sys/sys/map, /sys/sys/city, /map/map/map, 
+/sys/sys/class, /sys/sys/file, /sys/sys/map, /sys/sys/city, /map/map/map, *Error in loading object '/npc/pret/tonghop'
+program: /map/map/npc.c, object: /map/map/npc, file: /map/map/npc.c:21
+'        preload' in '     sys/main/main.c' ('       sys/main/main') /sys/main/main.c:174
+'          CATCH' in '     sys/main/main.c' ('       sys/main/main') /sys/main/main.c:174
+'         create' in '       map/map/map.c' ('         map/map/map') /map/map/map.c:149
+'         create' in '       map/map/npc.c' ('         map/map/npc') /map/map/npc.c:21
+
 /map/city/city, /map/map/xy, /sys/sys/task, /sys/sys/callout, /sys/sys/check, 
 /sys/sys/user, /sys/sys/chat, /sys/sys/tips, /sys/sys/emote, /sys/sys/family, 
 /sys/sys/team, /sys/sys/id, /sys/user/exp, /sys/sys/login, /sys/sys/login0, 
@@ -18,75 +24,3 @@ Loading 44 preload files ...
 Initializations complete.
 
 Open connection port: 8888 
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#834a') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#834a') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#83d2') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#83d2') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#82bd') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#82bd') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#82bd') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1964
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1964
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#98d0') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1964
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1964
-(s)printf(): Error in format string. (arg: 10)
-program: /npc/pret/tonghop.c, object: /npc/pret/tonghop, file: /npc/pret/tonghop.c:1523
-'   command_hook' in '      inh/char/cmd.c' ('  inh/user/user#98d0') /inh/char/cmd.c:76
-'           main' in '     cmd/user/talk.c' ('       cmd/user/talk') /cmd/user/talk.c:59
-'     <function>' in '          <function>' ('npc/pret/tonghop#254') 
-'        do_gift' in '  npc/pret/tonghop.c' ('npc/pret/tonghop#254') /npc/pret/tonghop.c:63
-'       do_gift2' in '  npc/pret/tonghop.c' ('    npc/pret/tonghop') /npc/pret/tonghop.c:1523
-closed external ports
