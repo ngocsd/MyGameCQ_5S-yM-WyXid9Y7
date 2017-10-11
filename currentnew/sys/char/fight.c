@@ -571,8 +571,8 @@ varargs int attack_done(object me, object who, int hit_act, int add_ap, int hit_
 			me->set_hp(0);
 			me->set_die(1);
 		}
-		//if( is_god(me) ) tell_user( me, "R %s Tấn công-> %s, Độ chính xác: %d random %02d Thành Công - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, random, ap2, dp2, damage );
-		//if( is_god(who) ) tell_user( who, "R %s Tấn công-> %s, Độ chính xác: %d random %02d Thành Công - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, random, ap2, dp2, damage );
+		if( is_god(me) ) tell_user( me, "R %s Tấn công-> %s, Độ chính xác: %d random %02d Thành Công - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, random, ap2, dp2, damage );
+		if( is_god(who) ) tell_user( who, "R %s Tấn công-> %s, Độ chính xác: %d random %02d Thành Công - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, random, ap2, dp2, damage );
 
 		rate = me->get_double_rate();
 		random = random(10000);
@@ -1109,12 +1109,12 @@ varargs int attack_done(object me, object who, int hit_act, int add_ap, int hit_
 
 			if (who->is_npc())
 			{
-				damage = me->get_ap() * who->get("03173#") / 100;
+				damage = (me->get_ap()- who->get_dp()) * who->get("03173#") / 100;
 				owner = who->get_owner();
 			}
 			else
 			{
-				damage = me->get_ap() * who->get_save("03173#") / 100;
+				damage = (me->get_ap()- who->get_dp()) * who->get_save("03173#") / 100;
 				owner = who;
 			}
 			if (me->is_nianshou())
@@ -1144,8 +1144,8 @@ varargs int attack_done(object me, object who, int hit_act, int add_ap, int hit_
 	}
 	else
 	{
-		//if( is_god(me) ) tell_user( me, "R %s Tấn công-> %s, Độ chính xác: %d random %d Thất Bại", me->get_name(), who->get_name(), rate, random );
-		//if( is_god(who) ) tell_user( who, "R %s Tấn công-> %s, Độ chính xác: %d random %d Thất Bại", me->get_name(), who->get_name(), rate, random );
+		if( is_god(me) ) tell_user( me, "R %s Tấn công-> %s, Độ chính xác: %d random %d Thất Bại", me->get_name(), who->get_name(), rate, random );
+		if( is_god(who) ) tell_user( who, "R %s Tấn công-> %s, Độ chính xác: %d random %d Thất Bại", me->get_name(), who->get_name(), rate, random );
 		// 显示躲闪效果
 		id = getoid(who);
 		if (who->is_npc())
@@ -1380,8 +1380,8 @@ varargs int throwing_done(object me, object who, int hit_act, int add_ap, int hi
 			me->set_hp(0);
 			me->set_die(1);
 		}
-		//if( is_god(me) ) tell_user( me, "r %s Phóng ám khí-> %s , Độ chính xác: %d - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, ap2, dp2, damage );
-		//if( is_god(who) ) tell_user( who, "r %s Phóng ám khí-> %s , Độ chính xác: %d - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, ap2, dp2, damage );
+		if( is_god(me) ) tell_user( me, "r %s Phóng ám khí-> %s , Độ chính xác: %d - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, ap2, dp2, damage );
+		if( is_god(who) ) tell_user( who, "r %s Phóng ám khí-> %s , Độ chính xác: %d - AP: %d - DP: %d = Thương: %d ", me->get_name(), who->get_name(), rate, ap2, dp2, damage );
 
 		rate = me->get_double_rate();
 		random = random(10000);
@@ -1637,12 +1637,12 @@ varargs int throwing_done(object me, object who, int hit_act, int add_ap, int hi
 
 			if (who->is_npc())
 			{
-				damage = me->get_ap() * who->get("03173#") / 100;
+				damage = (me->get_ap()- who->get_dp()) * who->get("03173#") / 100;
 				owner = who->get_owner();
 			}
 			else
 			{
-				damage = me->get_ap() * who->get_save("03173#") / 100;
+				damage = (me->get_ap()- who->get_dp()) * who->get_save("03173#") / 100;
 				owner = who;
 			}
 			if (me->is_nianshou())
@@ -1664,8 +1664,8 @@ varargs int throwing_done(object me, object who, int hit_act, int add_ap, int hi
 	}
 	else
 	{
-		//if( is_god(me) ) tell_user( me, "r %s Phóng ám khí-> %s , Độ chính xác: %d Thất Bại", me->get_name(), who->get_name(), rate );
-		//if( is_god(who) ) tell_user( who, "r %s Phóng ám khí-> %s , Độ chính xác: %d Thất Bại", me->get_name(), who->get_name(), rate );
+		if( is_god(me) ) tell_user( me, "r %s Phóng ám khí-> %s , Độ chính xác: %d Thất Bại", me->get_name(), who->get_name(), rate );
+		if( is_god(who) ) tell_user( who, "r %s Phóng ám khí-> %s , Độ chính xác: %d Thất Bại", me->get_name(), who->get_name(), rate );
 		// 显示躲闪效果
 		id = getoid(who);
 		if (who->is_npc())
@@ -1877,8 +1877,8 @@ varargs int cast_done(object me, object who, int add_cp, int damage_rate, int su
 			me->set_hp(0);
 			me->set_die(1);
 		}
-		//if( is_god(me) ) tell_user( me, "r %s Tấn công từ xa-> %s , CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
-		//if( is_god(who) ) tell_user( who, "r %s Tấn công từ xa-> %s , CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
+		if( is_god(me) ) tell_user( me, "r %s Tấn công từ xa-> %s , CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
+		if( is_god(who) ) tell_user( who, "r %s Tấn công từ xa-> %s , CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
 
 		rate = me->get_double_rate_2();
 		random = random(10000);
@@ -2138,12 +2138,12 @@ varargs int cast_done(object me, object who, int add_cp, int damage_rate, int su
 
 			if (who->is_npc())
 			{
-				damage = me->get_ap() * who->get("03173#") / 100;
+				damage = (me->get_ap()- who->get_dp()) * who->get("03173#") / 100;
 				owner = who->get_owner();
 			}
 			else
 			{
-				damage = me->get_ap() * who->get_save("03173#") / 100;
+				damage = (me->get_ap()- who->get_dp()) * who->get_save("03173#") / 100;
 				owner = who;
 			} 
 			if (me->is_nianshou())
@@ -2165,8 +2165,8 @@ varargs int cast_done(object me, object who, int add_cp, int damage_rate, int su
 	}
 	else
 	{
-		//if( is_god(me) ) tell_user( me, "r %s Tấn công từ xa-> %s , Trúng pháp thuật: %d Thất Bại", me->get_name(), who->get_name(), rate );
-		//if( is_god(who) ) tell_user( who, "r %s Tấn công từ xa-> %s , Trúng pháp thuật: %d Thất Bại", me->get_name(), who->get_name(), rate );
+		if( is_god(me) ) tell_user( me, "r %s Tấn công từ xa-> %s , Trúng pháp thuật: %d Thất Bại", me->get_name(), who->get_name(), rate );
+		if( is_god(who) ) tell_user( who, "r %s Tấn công từ xa-> %s , Trúng pháp thuật: %d Thất Bại", me->get_name(), who->get_name(), rate );
 		// 显示躲闪效果
 		id = getoid(who);
 		if (who->is_npc())
@@ -2322,8 +2322,8 @@ varargs get_cast_damage(object me, object who, int cp, int cp0, int add_rate)
 			me->set_hp(0);
 			me->set_die(1);
 		}
-		//if( is_god(me) ) tell_user( me, "r %s Tấn công từ xa-> %s, CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
-		//if( is_god(who) ) tell_user( who, "r %s Tấn công từ xa-> %s, CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
+		if( is_god(me) ) tell_user( me, "r %s Tấn công từ xa-> %s, CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
+		if( is_god(who) ) tell_user( who, "r %s Tấn công từ xa-> %s, CP: %d - PP: %d = Thương: %d ", me->get_name(), who->get_name(), cp2, pp2, damage );
 
 		rate = me->get_double_rate_2();
 		random = random(10000);
