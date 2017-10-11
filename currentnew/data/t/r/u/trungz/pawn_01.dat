@@ -1,4 +1,4 @@
 #/inh/user/pawn.c
 Id 1
 Owner "trungz"
-Pawn ([])
+Pawn (["20":"/item/44/4404;1;[hieuls192a1]0,0","06":"/item/stuff/0312;2;[-]0,0","28":"/item/86/6060;0;5499;5499;cp:130,|cp:130,pp:81,|pp:81,hp:75,|hp:75,mp:187,|mp:187,bind:1,ADD:,hide:1,=:2,+:0,$:44000,B:0,;[hieuls192a1]0,0","21":"/item/91/9120;1;[trungz]0,0","13":"/item/manhghep/deplao;3;[hieuls192a1]0,0","14":"/item/manhghep/dauan;8;[hieuls192a1]0,0","07":"/item/08/0016;3;[-]0,0",])

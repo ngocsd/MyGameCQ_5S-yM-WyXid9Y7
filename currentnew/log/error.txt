@@ -57,3 +57,17 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-11 20:27:20 npc/pret/tonghop.c line 1523: parse error
+2017-10-11 20:27:20 npc/pret/tonghop.c line 1538: Illegal LHS
+2017-10-11 20:27:20 npc/pret/tonghop.c line 1538: parse error
+2017-10-11 20:27:20 npc/pret/tonghop.c line 1539: Illegal LHS
+2017-10-11 20:27:20 npc/pret/tonghop.c line 1539: parse error
+2017-10-11 20:27:20 npc/pret/tonghop.c line 1555: Illegal LHS
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。

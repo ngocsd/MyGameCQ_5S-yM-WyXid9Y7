@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"show_time":492,"no_fuse":1,"no_give":1,])
+SaveDatabase (["no_give":1,"shenshou":1,"show_time":492,"no_fuse":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 80
@@ -19,7 +19,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74218":(/1,0,/),"74217":(/1,0,/),"74225":(/1,0,/),"74220":(/1,0,/),"74219":(/1,0,/),])
+Skills (["74219":(/1,0,/),"74217":(/1,0,/),"74225":(/1,0,/),"74218":(/1,0,/),"74220":(/1,0,/),])
 WeaponCode 60
 Name "Gà"
 PicId 3016

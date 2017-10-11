@@ -228,3 +228,26 @@
 2017-10-11 20:02:33 : #25 (5) đã chuyển  2000000 lượng cho người chơi #25. có số id 14
 2017-10-11 20:03:00 : #25. (14) đã chuyển Truy Tâm Tiễn , Thần Hành Hạng Liên cho người chơi #25 có số id 5
 2017-10-11 20:25:13 : Luandubai (15) đã chuyển Phi Hành Phù cho người chơi dsadá có số id 25
+2017-10-11 21:00:28 : #25 (5) đã chuyển Truy Tâm Tiễn cho người chơi #25. có số id 14
+2017-10-11 21:23:31 : ❤Phủ (3) đã chuyển Phi Hành Phù cho người chơi ❣EmPlus có số id 4
+2017-10-11 21:23:45 : dsadá (25) đã chuyển Bách Luyện Đới , Tinh Quang Hạng Liên cho người chơi Luandubai có số id 15
+2017-10-11 21:30:26 : ❤Phủ (3) đã chuyển Giải , Lao , Động , Giải Phóng Lao Động , Phóng cho người chơi ❣EmPlus có số id 4
+2017-10-11 21:33:31 : Luandubai (15) đã chuyển  5000000 lượng , Bách Luyện Đới cho người chơi #25. có số id 14
+2017-10-11 21:34:54 : Luandubai (15) đã chuyển  5000000 lượng , Tinh Quang Hạng Liên cho người chơi dsadá có số id 25
+2017-10-11 21:38:14 : dsadá (25) đã chuyển  2870400 lượng , Tinh Quang Hạng Liên cho người chơi Luandubai có số id 15
+2017-10-11 21:38:56 : #25. (14) đã chuyển Bách Luyện Đới cho người chơi Luandubai có số id 15
+2017-10-11 21:49:34 : Luandubai (15) đã chuyển  3798728 lượng , Bách Luyện Đới cho người chơi dsadá có số id 25
+2017-10-11 21:52:57 : dsadá (25) đã chuyển  98728 lượng , Bách Luyện Đới cho người chơi Luandubai có số id 15
+2017-10-11 22:01:49 : #25 (5) đã chuyển Triệt Vân Hài Công thức  cho người chơi ❤Phủ có số id 3
+2017-10-11 22:04:17 : #25. (14) đã chuyển Truy Tâm Tiễn cho người chơi #25 có số id 5
+2017-10-11 22:10:45 : Luandubai (15) đã chuyển  50000 lượng cho người chơi Bumz có số id 26
+2017-10-11 22:14:53 : Fun (10) đã chuyển  1000000 lượng cho người chơi -Fun- có số id 11
+2017-10-11 22:18:59 : Fun (10) đã chuyển  500000 lượng cho người chơi -Fun- có số id 11
+2017-10-11 22:21:37 : Bumz (26) đã chuyển  9000 lượng cho người chơi Luandubai có số id 15
+2017-10-11 22:27:11 : dsadá (25) đã chuyển Cửu Long Thần Hỏa Trảo , Thần Thú - Thìn cho người chơi Bumz có số id 26
+2017-10-11 22:28:28 : Fun (10) đã chuyển Nhiếp Hồn Linh cho người chơi Bumz có số id 26
+2017-10-11 23:28:06 : Bon (6) đã chuyển Lao , Giải , Động , Phóng cho người chơi Bum có số id 7
+2017-10-11 23:28:10 : Bon (6) đã chuyển Giải Phóng Lao Động cho người chơi Bum có số id 7
+2017-10-11 23:31:28 : Bon (6) đã chuyển Giải Phóng Lao Động cho người chơi Bum có số id 7
+2017-10-11 23:31:49 : Bon (6) đã chuyển Nhập môn Lạc Tuyết Vô Ngân cho người chơi Bum có số id 7
+2017-10-11 23:32:05 : Bon (6) đã chuyển Giải , Giải , Động , Phóng , Giải Phóng Lao Động cho người chơi Bum có số id 7

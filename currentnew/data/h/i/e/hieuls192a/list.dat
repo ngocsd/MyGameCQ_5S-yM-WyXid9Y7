@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["2":(["back2c":0,"armor":11001,"hairc":0,"gold":144132,"hair":1001,"photo":1001,"back":1,"armorc":1107837448,"level":50,"name":"ffffff","weapon":63,"number":22,"backc":699050,"back2":0,"shape":11001,"family":"","weaponc2":0,"weaponc":0,]),"1":(["back2c":0,"armor":11001,"hairc":0,"hair":1001,"gold":1906940,"photo":1001,"back":0,"armorc":1107837448,"name":"#25.","level":0,"weapon":64,"number":14,"backc":0,"back2":0,"shape":11001,"family":"","weaponc2":0,"weaponc":0,]),])
+SaveDbase2 (["1":(["photo":1001,"back2":0,"backc":0,"number":14,"shape":11001,"hairc":0,"gold":26940,"armor":11001,"weaponc":0,"weaponc2":0,"weapon":64,"level":0,"name":"#25.","armorc":1107837448,"hair":1001,"family":"","back":0,"back2c":0,]),"2":(["photo":1001,"back2":0,"backc":699050,"number":22,"shape":11001,"hairc":0,"gold":144132,"armor":11001,"weaponc":0,"weaponc2":0,"weapon":63,"name":"ffffff","level":50,"armorc":1107837448,"hair":1001,"family":"","back":1,"back2c":0,]),])
 Owner "hieuls192a"
