@@ -1520,7 +1520,7 @@ void do_gift2( object me, string arg )
 				ESC HIY"[Nhận Cao Cấp Đoạn Thạch] - 18 điểm\ntalk %x# gift.126\n"
 				ESC HIY"[Nhận Bảo để Phù - Nâng cấp KD] - 20 điểm\ntalk %x# gift.127\n"
 				ESC HIY"[Kết dính 15%] - 35 điểm\ntalk %x# gift.128\n"
-				ESC"Rời khỏi",get_name(),who->get_save("diemnapknb"),id,id,id,id,id,id,id,id,id,,id));
+				ESC"Rời khỏi",get_name(),who->get_save("diemnapknb"),id,id,id,id,id,id,id,id,id,id));
 				/* Chọn quà */
 				break;
 		case 120:	
