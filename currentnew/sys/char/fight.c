@@ -1109,49 +1109,13 @@ varargs int attack_done(object me, object who, int hit_act, int add_ap, int hit_
 
 			if (who->is_npc())
 			{
-				if (me->is_user())
-				{
-					damage = me->get_ap() * who->get("03173#") / 130;
-					owner = who->get_owner();
-				}
-				else if (me->is_zombie())
-				{
-					damage = me->get_ap() * who->get("03173#") / 130;
-					owner = who->get_owner();
-				}
-				else if (me->is_pet())
-				{
-					damage = me->get_ap() * who->get("03173#") / 130;
-					owner = who->get_owner();
-				}
-				else
-				{
-					damage = 30;
-					owner = who->get_owner();
-				}
+				damage = me->get_ap() * who->get("03173#") / 100;
+				owner = who->get_owner();
 			}
 			else
 			{
-				if (me->is_user())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 130;
-					owner = who;
-				}
-				else if (me->is_zombie())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 130;
-					owner = who;
-				}
-				else if (me->is_pet())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 130;
-					owner = who;
-				}
-				else
-				{
-					damage = 30;
-					owner = who;
-				}
+				damage = me->get_ap() * who->get_save("03173#") / 100;
+				owner = who;
 			}
 			if (me->is_nianshou())
 				damage = 0;
@@ -1673,49 +1637,13 @@ varargs int throwing_done(object me, object who, int hit_act, int add_ap, int hi
 
 			if (who->is_npc())
 			{
-				if (me->is_user())
-				{
-					damage = me->get_ap() * who->get("03173#") / 120;
-					owner = who->get_owner();
-				}
-				else if (me->is_zombie())
-				{
-					damage = me->get_ap() * who->get("03173#") / 120;
-					owner = who->get_owner();
-				}
-				else if (me->is_pet())
-				{
-					damage = me->get_ap() * who->get("03173#") / 120;
-					owner = who->get_owner();
-				}
-				else
-				{
-					damage = 30;
-					owner = who->get_owner();
-				}
+				damage = me->get_ap() * who->get("03173#") / 100;
+				owner = who->get_owner();
 			}
 			else
 			{
-				if (me->is_user())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 120;
-					owner = who;
-				}
-				else if (me->is_zombie())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 120;
-					owner = who;
-				}
-				else if (me->is_pet())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 120;
-					owner = who;
-				}
-				else
-				{
-					damage = 30;
-					owner = who;
-				}
+				damage = me->get_ap() * who->get_save("03173#") / 100;
+				owner = who;
 			}
 			if (me->is_nianshou())
 				damage = 0;
@@ -2210,50 +2138,14 @@ varargs int cast_done(object me, object who, int add_cp, int damage_rate, int su
 
 			if (who->is_npc())
 			{
-				if (me->is_user())
-				{
-					damage = me->get_ap() * who->get("03173#") / 140;
-					owner = who->get_owner();
-				}
-				else if (me->is_zombie())
-				{
-					damage = me->get_ap() * who->get("03173#") / 140;
-					owner = who->get_owner();
-				}
-				else if (me->is_pet())
-				{
-					damage = me->get_ap() * who->get("03173#") / 140;
-					owner = who->get_owner();
-				}
-				else
-				{
-					damage = 30;
-					owner = who->get_owner();
-				}
+				damage = me->get_ap() * who->get("03173#") / 100;
+				owner = who->get_owner();
 			}
 			else
 			{
-				if (me->is_user())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 140;
-					owner = who;
-				}
-				else if (me->is_zombie())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 140;
-					owner = who;
-				}
-				else if (me->is_pet())
-				{
-					damage = me->get_ap() * who->get_save("03173#") / 140;
-					owner = who;
-				}
-				else
-				{
-					damage = 30;
-					owner = who;
-				}
-			}
+				damage = me->get_ap() * who->get_save("03173#") / 100;
+				owner = who;
+			} 
 			if (me->is_nianshou())
 				damage = 0;
 			if (owner)
