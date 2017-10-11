@@ -41,40 +41,40 @@ int get_use_effect_callout( object who,object gift)
 		}
 	rate = random(100);
 	
-	if ( rate < 10 )	//Bảo Để Phù
+	if ( rate < 1 )	//Bảo Để Phù
 	{
 		item = new("item/sell/0034");
 		if ( !item )
 			send_user(who,"%c%s",'!',"có gì đó sai sai <10");
 	}
-	else if ( rate < 20 )	//Cao Cấp đoạn thạch
+	else if ( rate < 5 )	//Cao Cấp đoạn thạch
 	{
 		// mặc định rate 1
 		item = new("item/sell/2032");
 		if ( !item )
 			send_user(who,"%c%s",'!',"có gì đó sai sai <20");
 	}
-	else if ( rate < 30 )	//Trung Cấp đoạn thạch
+	else if ( rate < 15 )	//Trung Cấp đoạn thạch
 	// mặc định rate 31
 	{		
 		item = new("item/sell/1032");
 		if ( !item )
 			send_user(who,"%c%s",'!',"có gì đó sai sai <30");
 	}
-	else if ( rate < 50 )	//Sơ Cấp đoạn thạch 
+	else if ( rate < 25 )	//Sơ Cấp đoạn thạch 
 	// mặc định rate 51
 	{
 		item = new("item/sell/0032");
 		if ( !item )
 			send_user(who,"%c%s",'!',"có gì đó sai sai <50");
 	}
-	else if ( rate < 90 )	//法力石
+	else if ( rate < 35 )	//法力石
 	{
 		int ran = 1+random(3);
 		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " Tiền xu");
 		who->add_save("tienxu",ran);
 	}
-	else if ( rate < 95 )	//法力石
+	else if ( rate < 45 )	//法力石
 	{
 		int ran = 2+random(20)*10;
 		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " KNB");

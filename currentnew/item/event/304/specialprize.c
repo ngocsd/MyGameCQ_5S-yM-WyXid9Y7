@@ -41,39 +41,39 @@ int get_use_effect_callout( object who,object gift)
 		}
 	rate = random(100);
 	
-	if ( rate < 10 )	//SC DT ép ko rớt
+	if ( rate < 1 )	//SC DT ép ko rớt
 	{
 		item = new("item/sell/4032");
 		if ( !item )
 			return 0;
 	}
-	else if ( rate < 20 )	//Cao Cấp đoạn thạch kd
+	else if ( rate < 3 )	//Cao Cấp đoạn thạch kd
 	{
 		// mặc định rate 1
 		item = new("item/sell/3032");
 		if ( !item )
 			return 0;
 	}
-	else if ( rate < 30 )	
+	else if ( rate < 10 )	
 	// mặc định rate 31
 	{		
 		item = new("item/tienxu/tuidoanthach");
 		if ( !item )
 			return 0;
 	}
-	else if ( rate < 50 )	
+	else if ( rate < 20 )	
 	// mặc định rate 51
 	{
-		item = new("item/sell/2032");
+		item = new("item/sell/2032"); // cao cap doan thach
 		if ( !item )
 			return 0;
 	}
-	else if ( rate < 90 )	//法力石
+	else if ( rate < 30 )	//法力石
 	{
 		who->add_save("tienxu",20+random(30));
 		send_user(who,"%c%s",'!',"Bạn nhận được Tiền Xu");
 	}
-	else if ( rate < 95 )	//法力石
+	else if ( rate < 40 )	//法力石
 	{
 		"sys/sys/test_db"->add_yuanbao(who,50+random(50)*10);
 		send_user(who,"%c%s",'!',"Bạn nhận KNB");

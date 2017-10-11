@@ -290,9 +290,9 @@ int mix1(object me,object *item)
 		}
 	}
 	bind = item[0]->get_bind();
-	if ( me->get_level()/10 < level+1 )
+	if ( level > 10)
 	{
-		notify( "Số sao trang bị chỉ rèn được × 10 cấp." );
+		notify( "Max 10* bạn ơi" );
 		return 0;
 	}
 	color = item[0]->get_item_color();
