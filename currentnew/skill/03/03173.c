@@ -13,7 +13,7 @@
 #define TIME_INTERVAL   45 - ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 15 * 3
 #define SUB_MP		0
 #define SUB_YUAN        1
-#define ADD_AP		8 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 15 * 3    // 警告:level 得准备好 // Mặc định 10+ ...*5
+#define ADD_AP			30 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 15 * 5    // 警告:level 得准备好 // Mặc định 10+ ...*5
 #define ADD_INTERVAL    20 + ( me->get_skill(THIS_SKILL)-SKILL_LEVEL) / 15 * 1
 
 // 函数:获取描述

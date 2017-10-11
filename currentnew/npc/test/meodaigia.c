@@ -69,13 +69,13 @@ void do_gift2( object me, string arg )
         who = this_player();
 		id = getoid(me);
         flag = to_int(arg);
-       who->set_time( "talk",  0);
+		who->set_time( "talk",  0);
 		rate = random(100);		 
 		
         switch(flag)
         {
 		case 1:
-		send_user(who,"%c%c%w%s",':',3,8291,sprintf("Mèo Đại Gia:\nTa được lệnh của Pret xuống đây để cho các ngươi tí tiền tiêu dùng...cọt cọt...\n Vào thời gian rảnh hãy tới đây nằm cạnh ta nhé...Chết mịa...Hết cót rồi...\n"
+		send_user(who,"%c%c%w%s",':',3,8291,sprintf("Mèo Đại Gia:\nTa được lệnh của anh đẹp trai Funny xuống đây để cho các ngươi tí tiền tiêu dùng...cọt cọt...\n Vào thời gian rảnh hãy tới đây nằm cạnh ta nhé...Chết mịa...Hết cót rồi...\n"
 		ESC"Rời khỏi",id));
 			break;
        case 2:

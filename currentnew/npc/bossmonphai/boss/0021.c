@@ -105,7 +105,7 @@ int can_be_fighted( object who )
 }
 void set_lowhp_status()
 {
-	add_ap(get_ap()/5);
+	add_ap(get_ap());
 	add_dp(get_dp()/5);
 	add_cp(get_cp()/5);
 	add_pp(get_pp()/5);
@@ -393,7 +393,7 @@ void win_bonus_callout( object me, object who )
         int level, level2, exp, exp2, pot, alllevel;
         int i, size, status, time, flag;
  
-	log_file("boss.txt",short_time()+" Sơn Đại Vương bị tiêu diệt\n");
+		log_file("boss.txt",short_time()+" Sơn Đại Vương bị tiêu diệt\n");
 	
         if( !objectp( who = me->get_enemy_4() ) ) return;
 
@@ -461,7 +461,43 @@ void drop_items( object me, object who )
         rate1 = me->correct_drop_rate( me->get_level() - who->get_level() ) * who->get_online_rate() / 100;
 	rate = random(100);
 //	if ( rate < rate1 )
+	
 	{
+					//kd5%
+	        
+	                if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) && rate < 15)
+	                {
+	                        item = new( "/item/sell/4032" );
+	                        //item->set_value( 10000 );
+	                        TEAM_D->drop_item(item,who);
+							item->set_user_id(owner);
+	                        item->add_to_scene(z, p / 1000, p % 1000);
+	                        item->set("winner", who);
+	                        item->set( "time", time() );
+	                }
+		
+					//kd15%
+	                if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) && rate < 10)
+	                {
+	                        item = new( "/item/sell/4032_2" );
+	                        //item->set_value( 10000 );
+	                        TEAM_D->drop_item(item,who);
+							item->set_user_id(owner);
+	                        item->add_to_scene(z, p / 1000, p % 1000);
+	                        item->set("winner", who);
+	                        item->set( "time", time() );
+	                }
+							//kd 25%
+					if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) && rate < 5)
+	                {
+	                        item = new( "/item/sell/4032_3" );
+	                        //item->set_value( 10000 );
+	                        TEAM_D->drop_item(item,who);
+							item->set_user_id(owner);
+	                        item->add_to_scene(z, p / 1000, p % 1000);
+	                        item->set("winner", who);
+	                        item->set( "time", time() );
+	                }
 		for(i=0;i<10;i++)	//10堆5000金
 	        {
 	                if( p = get_valid_xy(z, x, y, IS_ITEM_BLOCK) )
@@ -469,7 +505,7 @@ void drop_items( object me, object who )
 	                        item = new( "/item/std/0001" );
 	                        item->set_value( 10000 );
 	                        TEAM_D->drop_item(item,who);
-				item->set_user_id(owner);
+							item->set_user_id(owner);
 	                        item->add_to_scene(z, p / 1000, p % 1000);
 	                        item->set("winner", who);
 	                        item->set( "time", time() );
@@ -481,7 +517,7 @@ void drop_items( object me, object who )
 	                {
 	                        item = new( "/item/test2/AXP" );	                       
 	                        TEAM_D->drop_item(item,who);
-				item->set_user_id(owner);
+							item->set_user_id(owner);
 	                        item->add_to_scene(z, p / 1000, p % 1000);
 	                        item->set("winner", who);
 	                        item->set( "time", time() );

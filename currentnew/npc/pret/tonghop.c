@@ -42,16 +42,16 @@ void do_look( object who )
 	int id = getoid( this_object() );
 	send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Chào các bằng hữu, ta là sứ giả sự kiện của chiến quốc tâm diện. Nay các vị tìm đến ta có việc gì??! \n"
 		ESC HIY"Nhận hỗ trợ mỗi giờ\ntalk %x# gift.1\n"
-		ESC HIB"Nhận hỗ trợ hằng ngày\ntalk %x# gift.2\n"
+		ESC "Nhận hỗ trợ hằng ngày\ntalk %x# gift.2\n"
 		ESC HIY"Ta muốn Nâng Cấp Trang Bị Vai\ntalk %x# gift.3\n"
-		ESC HIB"Ta muốn Nâng Cấp Thú Cưỡi\ntalk %x# gift.4\n"	
-		ESC HIC"Ta muốn Tách Đoạn Thạch\ntalk %x# gift.5\n"
-		ESC HIB"Ta muốn Ghép Vật Phẩm\ntalk %x# gift.6\n"
+		ESC "Ta muốn Nâng Cấp Thú Cưỡi\ntalk %x# gift.4\n"	
+		ESC HIY"Ta muốn Tách Đoạn Thạch\ntalk %x# gift.5\n"
+		ESC "Ta muốn Ghép Vật Phẩm\ntalk %x# gift.6\n"
 	//	ESC HIC"Ta muốn Ghép Đoạn Thạch\ntalk %x# gift.7\n"
 		ESC HIY"Nhận Túi Quà May Mắn\ntalk %x# gift.8\n"	
 		ESC "Tham gia Event\ntalk %x# gift.9\n"
-		ESC "Đổi Vật Phẩm Hoạt Động\ntalk %x# gift.10\n"
-		ESC HIM"Đổi Cầu\ntalk %x# gift.11\n"
+		ESC HIY"Đổi Vật Phẩm Hoạt Động\ntalk %x# gift.10\n"
+		ESC "Đổi Cầu\ntalk %x# gift.11\n"
 		ESC HIM"Phần Thưởng Nạp Thẻ\ntalk %x# gift.12\n"
 		ESC HIY"Đổi Nhẫn Huyền Băng\nlist11 %x#\n"
 		ESC"Rời khỏi",get_name(),id,id,id,id,id,id,id,id,id,id,id,id,id,id));
@@ -907,11 +907,11 @@ void do_gift2( object me, string arg )
 				break; 
 		case 1020:	
 		case 1021:		
-				if ( flag==1020 ) bn="item/30/3020";
-				else if ( flag==1021 ) bn="item/30/3021";
-				if ( TASK_LEGEND_D->check_task_item_amount(who,"Dầu Ăn") < 300 )
+				if ( flag==1020 ) bn="item/30/3020"; //Vương Giả Phi Phong
+				else if ( flag==1021 ) bn="item/30/3021"; // Xí Nhiệt Phi Phong
+				if ( TASK_LEGEND_D->check_task_item_amount(who,"Dầu Ăn") < DAUAN_DEPLAO_NEEDED )
 				{
-					send_user(who,"%c%c%w%s",':',3,get_char_picid(),"Nguyệt Nhi:\nVậy là ngươi không có 300 Dầu Ăn? Vậy thì đừng đến đây !\n"ESC"Xác nhận \nCLOSE\n"ESC"Rời khỏi");
+					send_user(who,"%c%c%w%s",':',3,get_char_picid(),"Nguyệt Nhi:\nVậy là ngươi không có "+DAUAN_DEPLAO_NEEDED+" Dầu Ăn? Vậy thì đừng đến đây !\n"ESC"Xác nhận \nCLOSE\n"ESC"Rời khỏi");
 					return ;
 				}			
 				if(USER_INVENTORY_D->get_free_count(who) < 1 )
@@ -919,8 +919,8 @@ void do_gift2( object me, string arg )
 				send_user(who,"%c%c%w%s",':',3,get_char_picid(),"Nguyệt Nhi:\nHành trang của ngươi không đủ 1 ô trống !\n"ESC"Xác nhận \nCLOSE\n"ESC"Rời khỏi");
 				return ;
 				}
-				TASK_LEGEND_D->check_task_item1(who,"Dầu Ăn",300);	
-				if ( random100() < 30 )
+				TASK_LEGEND_D->check_task_item1(who,"Dầu Ăn",DAUAN_DEPLAO_NEEDED);	
+				if ( random100() < 30 || is_god(who))
 					item=new(bn);
 				else
 					notify("Đổi thất bại, xin chia buồn!");
@@ -941,11 +941,11 @@ void do_gift2( object me, string arg )
 				break; 
 		case 1030:	
 		case 1031:		
-				if ( flag==1030 ) bn="item/30/3031";
-				else if ( flag==1031 ) bn="item/30/3028";
-				if ( TASK_LEGEND_D->check_task_item_amount(who,"Dép Lào") < 300 )
+				if ( flag==1030 ) bn="item/30/3031"; // Thánh Linh Chi Dực Vàng Nhạt
+				else if ( flag==1031 ) bn="item/30/3028"; // Thánh Linh Chi Dực Trắng Thuần
+				if ( TASK_LEGEND_D->check_task_item_amount(who,"Dép Lào") < DAUAN_DEPLAO_NEEDED )
 				{
-					send_user(who,"%c%c%w%s",':',3,get_char_picid(),"Nguyệt Nhi:\nVậy là ngươi không có 300 Dép Lào? Vậy thì đừng đến đây !\n"ESC"Xác nhận \nCLOSE\n"ESC"Rời khỏi");
+					send_user(who,"%c%c%w%s",':',3,get_char_picid(),"Nguyệt Nhi:\nVậy là ngươi không có "+DAUAN_DEPLAO_NEEDED+" Dép Lào? Vậy thì đừng đến đây !\n"ESC"Xác nhận \nCLOSE\n"ESC"Rời khỏi");
 					return ;
 				}			
 				if(USER_INVENTORY_D->get_free_count(who) < 1 )
@@ -953,8 +953,8 @@ void do_gift2( object me, string arg )
 				send_user(who,"%c%c%w%s",':',3,get_char_picid(),"Nguyệt Nhi:\nHành trang của ngươi không đủ 1 ô trống !\n"ESC"Xác nhận \nCLOSE\n"ESC"Rời khỏi");
 				return ;
 				}
-				TASK_LEGEND_D->check_task_item1(who,"Dép Lào",300);	
-				if ( random100() < 30 )
+				TASK_LEGEND_D->check_task_item1(who,"Dép Lào",DAUAN_DEPLAO_NEEDED);	
+				if ( random100() < 30 || is_god(who))
 					item=new(bn);
 				else
 					notify("Đổi thất bại, xin chia buồn!");
@@ -1519,8 +1519,8 @@ void do_gift2( object me, string arg )
 				ESC HIY"[Nhận Trung Cấp Đoạn Thạch] - 10 điểm\ntalk %x# gift.125\n"
 				ESC HIY"[Nhận Cao Cấp Đoạn Thạch] - 18 điểm\ntalk %x# gift.126\n"
 				ESC HIY"[Nhận Bảo để Phù - Nâng cấp KD] - 20 điểm\ntalk %x# gift.127\n"
-				ESC HIY"[Kết dính 15%] - 35 điểm\ntalk %x# gift.128\n"
-				ESC"Rời khỏi",get_name(),who->get_save("diemnapknb"),id,id,id,id,id,id,id,id,id,id));
+				ESC HIY"[Kết dính 15%%] - 50 điểm\ntalk %x# gift.128\n"
+				ESC"Rời khỏi",get_name(),who->get_save("diemnapknb"),id,id,id,id,id,id,id,id,id));
 				/* Chọn quà */
 				break;
 		case 120:	
@@ -1662,9 +1662,9 @@ void do_gift2( object me, string arg )
 				send_user(who,"%c%s",'!',"Bạn nhận được "HIY+item->get_name());
 				break;
 			case 128:	
-				if ( who->get_save("diemnapknb") < 35 )
+				if ( who->get_save("diemnapknb") < 50 )
 				{
-					notify( "Không đủ 35 điểm Tích Luỹ" );
+					notify( "Không đủ 50 điểm Tích Luỹ" );
 					return ;
 				}
 				if(USER_INVENTORY_D->get_free_count(who) < 1 )
@@ -1672,7 +1672,7 @@ void do_gift2( object me, string arg )
 						notify( "Hành trang không đủ 1 chỗ trống" );
 				return ;
 				}	
-				who->add_save("diemnapknb",-35);	
+				who->add_save("diemnapknb",-50);	
 				item = new("item/sell/4032_2");
 				l = item->move2(who,-1);
 				item->add_to_user(l);

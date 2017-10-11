@@ -45,28 +45,28 @@ int get_use_effect_callout( object who,object gift)
 	{
 		item = new("item/sell/0034");
 		if ( !item )
-			send_user(who,"%c%s",'!',"có gì đó sai sai <10");
+			send_user(who,"%c%s",'!',"có gì đó sai sai <1");
 	}
 	else if ( rate < 5 )	//Cao Cấp đoạn thạch
 	{
 		// mặc định rate 1
 		item = new("item/sell/2032");
 		if ( !item )
-			send_user(who,"%c%s",'!',"có gì đó sai sai <20");
+			send_user(who,"%c%s",'!',"có gì đó sai sai <5");
 	}
 	else if ( rate < 15 )	//Trung Cấp đoạn thạch
 	// mặc định rate 31
 	{		
 		item = new("item/sell/1032");
 		if ( !item )
-			send_user(who,"%c%s",'!',"có gì đó sai sai <30");
+			send_user(who,"%c%s",'!',"có gì đó sai sai <15");
 	}
 	else if ( rate < 25 )	//Sơ Cấp đoạn thạch 
 	// mặc định rate 51
 	{
 		item = new("item/sell/0032");
 		if ( !item )
-			send_user(who,"%c%s",'!',"có gì đó sai sai <50");
+			send_user(who,"%c%s",'!',"có gì đó sai sai <25");
 	}
 	else if ( rate < 35 )	//法力石
 	{
@@ -76,8 +76,8 @@ int get_use_effect_callout( object who,object gift)
 	}
 	else if ( rate < 45 )	//法力石
 	{
-		int ran = 2+random(20)*10;
-		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " KNB");
+		int ran = 2 + random(20)*10;
+		send_user(who,"%c%s",'!',"Bạn nhận được " + ran + " Ngân bảo");
 		"sys/sys/test_db"->add_yuanbao(who,ran);	
 	}
 	else 			//乾坤袋

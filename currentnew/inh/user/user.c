@@ -1131,7 +1131,9 @@ log_file("deposit.dat", sprintf("%s %s(%d) nạp thành công %d Kim Nguyên B�
 			{			
 				if( sec % 5 == 0)
 				{
-					me->add_cash(5);				
+					me->add_cash(5);
+					"sys/sys/test_db"->add_yuanbao(me,5);
+					send_user(me,"%c%s",':',"Ngươi nhận được 5 đồng và 5 ngân bảo bố thí từ Mèo Đại Gia!");
 				}			
 			}
 		}
