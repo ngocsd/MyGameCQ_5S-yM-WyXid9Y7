@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_give":1,"show_time":26,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":489,"no_fuse":1,"shenshou":1,])
 SaveDbase2 ([])
 Con 77
 Spi 62
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74216":(/1,0,/),"74220":(/1,0,/),"74205":(/1,0,/),"74214":(/1,0,/),"74202":(/1,0,/),])
+Skills (["74214":(/1,0,/),"74202":(/1,0,/),"74216":(/1,0,/),"74205":(/1,0,/),"74220":(/1,0,/),])
 WeaponCode 60
 Name "Chuột"
 PicId 3007
@@ -35,8 +35,8 @@ FirstName "Chuột"
 OwnerName "❤Phủ"
 OwnerAccount "trungz"
 OwnerNumber 3
-lifetime 9718
-faith 75
+lifetime 9709
+faith 94
 blood 1
 Experience 21690
 GiftPoint 12

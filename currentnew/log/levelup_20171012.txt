@@ -1,0 +1,231 @@
+2017-10-12 12:35:26 11qe#2 24 Lượn 11 
+2017-10-12 12:35:37 11qe#2 24 Lượn 12 
+2017-10-12 12:35:44 11qe#2 24 Lượn 13 
+2017-10-12 12:35:45 11qe#2 24 Lượn 14 
+2017-10-12 12:35:45 11qe#2 24 Lượn 15 
+2017-10-12 12:35:45 11qe#2 24 Lượn 16 
+2017-10-12 12:36:05 11qe#2 24 Lượn 17 
+2017-10-12 12:36:05 11qe#2 24 Lượn 18 
+2017-10-12 12:36:30 11qe#2 24 Lượn 19 
+2017-10-12 12:36:55 11qe#2 24 Lượn 20 
+2017-10-12 12:38:34 11ad#2 23 Á-À 33 Mao Sơn
+2017-10-12 12:38:34 11ad#2 23 Á-À 34 Mao Sơn
+2017-10-12 12:38:34 11ad#2 23 Á-À 35 Mao Sơn
+2017-10-12 12:38:34 11ad#2 23 Á-À 36 Mao Sơn
+2017-10-12 12:38:34 11ad#2 23 Á-À 37 Mao Sơn
+2017-10-12 12:39:29 11ad#2 23 Á-À 38 Mao Sơn
+2017-10-12 12:39:30 11ad#2 23 Á-À 39 Mao Sơn
+2017-10-12 12:39:30 11ad#2 23 Á-À 40 Mao Sơn
+2017-10-12 12:39:37 11ad#2 23 Á-À 41 Mao Sơn
+2017-10-12 12:39:38 11ad#2 23 Á-À 42 Mao Sơn
+2017-10-12 12:39:38 11ad#2 23 Á-À 43 Mao Sơn
+2017-10-12 12:39:38 11ad#2 23 Á-À 44 Mao Sơn
+2017-10-12 12:39:47 11ad#2 23 Á-À 45 Mao Sơn
+2017-10-12 12:40:13 11ad#2 23 Á-À 46 Mao Sơn
+2017-10-12 12:40:13 11ad#2 23 Á-À 47 Mao Sơn
+2017-10-12 12:40:52 11ad#2 23 Á-À 48 Mao Sơn
+2017-10-12 12:40:52 11ad#2 23 Á-À 49 Mao Sơn
+2017-10-12 12:40:52 11ad#2 23 Á-À 50 Mao Sơn
+2017-10-12 12:41:53 11ad#2 23 Á-À 51 Mao Sơn
+2017-10-12 12:41:55 11ad#2 23 Á-À 52 Mao Sơn
+2017-10-12 12:41:55 11ad#2 23 Á-À 53 Mao Sơn
+2017-10-12 12:42:21 11ad#2 23 Á-À 54 Mao Sơn
+2017-10-12 12:42:22 11ad#2 23 Á-À 55 Mao Sơn
+2017-10-12 12:42:47 11ad#2 23 Á-À 56 Mao Sơn
+2017-10-12 12:43:20 11ad#2 23 Á-À 57 Mao Sơn
+2017-10-12 12:43:52 11ad#2 23 Á-À 58 Mao Sơn
+2017-10-12 12:44:07 11ad#2 23 Á-À 59 Mao Sơn
+2017-10-12 12:45:49 11ad#2 23 Á-À 60 Mao Sơn
+2017-10-12 13:42:33 hieuls192a 14 #25. 11 Đường Môn
+2017-10-12 13:42:35 hieuls192a 14 #25. 12 Đường Môn
+2017-10-12 13:42:35 hieuls192a 14 #25. 13 Đường Môn
+2017-10-12 13:42:36 hieuls192a 14 #25. 14 Đường Môn
+2017-10-12 13:43:09 hieuls192a 14 #25. 15 Đường Môn
+2017-10-12 13:43:09 hieuls192a 14 #25. 16 Đường Môn
+2017-10-12 13:43:43 hieuls192a 14 #25. 17 Đường Môn
+2017-10-12 13:44:38 hieuls192a 14 #25. 18 Đường Môn
+2017-10-12 13:47:38 hieuls192a 14 #25. 19 Đường Môn
+2017-10-12 13:48:54 hieuls192a 14 #25. 20 Đường Môn
+2017-10-12 13:48:54 hieuls192a 14 #25. 21 Đường Môn
+2017-10-12 13:55:21 hieuls192a 14 #25. 22 Đường Môn
+2017-10-12 13:55:24 hieuls192a 14 #25. 23 Đường Môn
+2017-10-12 13:55:24 hieuls192a 14 #25. 24 Đường Môn
+2017-10-12 13:55:24 hieuls192a 14 #25. 25 Đường Môn
+2017-10-12 13:55:24 hieuls192a 14 #25. 26 Đường Môn
+2017-10-12 13:56:52 hieuls192a 14 #25. 27 Đường Môn
+2017-10-12 13:56:52 hieuls192a 14 #25. 28 Đường Môn
+2017-10-12 13:56:52 hieuls192a 14 #25. 29 Đường Môn
+2017-10-12 13:56:52 hieuls192a 14 #25. 30 Đường Môn
+2017-10-12 13:56:53 hieuls192a 14 #25. 31 Đường Môn
+2017-10-12 13:56:53 hieuls192a 14 #25. 32 Đường Môn
+2017-10-12 13:57:43 hieuls192a 14 #25. 33 Đường Môn
+2017-10-12 13:58:06 hieuls192a 14 #25. 34 Đường Môn
+2017-10-12 13:58:17 hieuls192a 14 #25. 35 Đường Môn
+2017-10-12 13:59:13 hieuls192a 14 #25. 36 Đường Môn
+2017-10-12 13:59:21 hieuls192a 14 #25. 37 Đường Môn
+2017-10-12 13:59:57 hieuls192a 14 #25. 38 Đường Môn
+2017-10-12 14:01:11 hieuls192a 14 #25. 39 Đường Môn
+2017-10-12 14:01:54 hieuls192a 14 #25. 40 Đường Môn
+2017-10-12 14:03:34 hieuls192a 14 #25. 41 Đường Môn
+2017-10-12 14:03:35 hieuls192a 14 #25. 42 Đường Môn
+2017-10-12 16:08:20 hieuls192a 14 #25. 43 Đường Môn
+2017-10-12 16:08:20 hieuls192a 14 #25. 44 Đường Môn
+2017-10-12 16:08:23 hieuls192a 14 #25. 45 Đường Môn
+2017-10-12 16:09:17 hieuls192a 14 #25. 46 Đường Môn
+2017-10-12 16:09:18 hieuls192a 14 #25. 47 Đường Môn
+2017-10-12 16:09:22 hieuls192a 14 #25. 48 Đường Môn
+2017-10-12 16:09:49 hieuls192a 14 #25. 49 Đường Môn
+2017-10-12 16:10:57 hieuls192a 14 #25. 50 Đường Môn
+2017-10-12 16:32:04 hieuls192a 14 #25. 51 Đường Môn
+2017-10-12 16:32:04 hieuls192a 14 #25. 52 Đường Môn
+2017-10-12 17:59:53 nganthao89#2 30 MinhNhật 11 
+2017-10-12 18:05:05 nganthao89#2 30 MinhNhật 12 Cấm Vệ Quân
+2017-10-12 18:05:07 nganthao89#2 30 MinhNhật 13 Cấm Vệ Quân
+2017-10-12 18:05:08 nganthao89#2 30 MinhNhật 14 Cấm Vệ Quân
+2017-10-12 18:05:14 nganthao89#2 30 MinhNhật 15 Cấm Vệ Quân
+2017-10-12 18:06:41 nganthao89#2 30 MinhNhật 16 Cấm Vệ Quân
+2017-10-12 18:11:29 nganthao89#2 30 MinhNhật 17 Cấm Vệ Quân
+2017-10-12 18:15:54 nganthao89#2 30 MinhNhật 18 Cấm Vệ Quân
+2017-10-12 18:22:15 nganthao89#2 30 MinhNhật 19 Cấm Vệ Quân
+2017-10-12 18:22:39 nganthao89#2 30 MinhNhật 20 Cấm Vệ Quân
+2017-10-12 18:23:38 nganthao89#2 30 MinhNhật 21 Cấm Vệ Quân
+2017-10-12 18:27:23 nganthao89#2 30 MinhNhật 22 Cấm Vệ Quân
+2017-10-12 18:27:40 nganthao89#2 30 MinhNhật 23 Cấm Vệ Quân
+2017-10-12 18:28:30 nganthao89#2 30 MinhNhật 24 Cấm Vệ Quân
+2017-10-12 18:29:34 nganthao89#2 30 MinhNhật 25 Cấm Vệ Quân
+2017-10-12 18:30:16 nganthao89#2 30 MinhNhật 26 Cấm Vệ Quân
+2017-10-12 18:32:08 nganthao89#2 30 MinhNhật 27 Cấm Vệ Quân
+2017-10-12 18:34:05 nganthao89#2 30 MinhNhật 28 Cấm Vệ Quân
+2017-10-12 18:35:06 nganthao89#2 30 MinhNhật 29 Cấm Vệ Quân
+2017-10-12 18:36:55 nganthao89#2 30 MinhNhật 30 Cấm Vệ Quân
+2017-10-12 18:43:44 nganthao89#2 30 MinhNhật 31 Cấm Vệ Quân
+2017-10-12 18:43:44 nganthao89#2 30 MinhNhật 32 Cấm Vệ Quân
+2017-10-12 18:43:46 nganthao89#2 30 MinhNhật 33 Cấm Vệ Quân
+2017-10-12 18:44:39 nganthao89#2 30 MinhNhật 34 Cấm Vệ Quân
+2017-10-12 18:44:39 nganthao89#2 30 MinhNhật 35 Cấm Vệ Quân
+2017-10-12 18:44:39 nganthao89#2 30 MinhNhật 36 Cấm Vệ Quân
+2017-10-12 18:44:40 nganthao89#2 30 MinhNhật 37 Cấm Vệ Quân
+2017-10-12 18:44:40 nganthao89#2 30 MinhNhật 38 Cấm Vệ Quân
+2017-10-12 18:44:40 nganthao89#2 30 MinhNhật 39 Cấm Vệ Quân
+2017-10-12 18:44:53 vttx2 11 -Fun- 31 Vân Mộng Cốc
+2017-10-12 18:45:07 nganthao89#2 30 MinhNhật 40 Cấm Vệ Quân
+2017-10-12 18:45:07 nganthao89#2 30 MinhNhật 41 Cấm Vệ Quân
+2017-10-12 18:45:52 vttx2 11 -Fun- 32 Vân Mộng Cốc
+2017-10-12 18:45:52 nganthao89#2 30 MinhNhật 42 Cấm Vệ Quân
+2017-10-12 18:45:52 nganthao89#2 30 MinhNhật 43 Cấm Vệ Quân
+2017-10-12 18:45:53 nganthao89#2 30 MinhNhật 44 Cấm Vệ Quân
+2017-10-12 18:45:53 nganthao89#2 30 MinhNhật 45 Cấm Vệ Quân
+2017-10-12 18:46:26 vttx2 11 -Fun- 33 Vân Mộng Cốc
+2017-10-12 18:46:26 nganthao89#2 30 MinhNhật 46 Cấm Vệ Quân
+2017-10-12 18:46:27 nganthao89#2 30 MinhNhật 47 Cấm Vệ Quân
+2017-10-12 18:47:34 nganthao89#2 30 MinhNhật 48 Cấm Vệ Quân
+2017-10-12 18:47:35 nganthao89#2 30 MinhNhật 49 Cấm Vệ Quân
+2017-10-12 18:48:03 vttx2 11 -Fun- 34 Vân Mộng Cốc
+2017-10-12 18:48:40 vttx2 11 -Fun- 35 Vân Mộng Cốc
+2017-10-12 18:49:47 nganthao89#2 30 MinhNhật 50 Cấm Vệ Quân
+2017-10-12 18:49:47 nganthao89#2 30 MinhNhật 51 Cấm Vệ Quân
+2017-10-12 18:49:48 nganthao89#2 30 MinhNhật 52 Cấm Vệ Quân
+2017-10-12 18:49:48 nganthao89#2 30 MinhNhật 53 Cấm Vệ Quân
+2017-10-12 18:50:40 vttx2 11 -Fun- 36 Vân Mộng Cốc
+2017-10-12 18:51:35 vttx2 11 -Fun- 37 Vân Mộng Cốc
+2017-10-12 18:52:39 nganthao89#2 30 MinhNhật 54 Cấm Vệ Quân
+2017-10-12 18:52:39 nganthao89#2 30 MinhNhật 55 Cấm Vệ Quân
+2017-10-12 18:52:41 nganthao89#2 30 MinhNhật 56 Cấm Vệ Quân
+2017-10-12 18:52:41 nganthao89#2 30 MinhNhật 57 Cấm Vệ Quân
+2017-10-12 18:52:49 vttx2 11 -Fun- 38 Vân Mộng Cốc
+2017-10-12 18:53:28 nganthao89#2 30 MinhNhật 58 Cấm Vệ Quân
+2017-10-12 18:53:34 vttx2 11 -Fun- 39 Vân Mộng Cốc
+2017-10-12 19:02:23 nganthao89#2 30 MinhNhật 59 Cấm Vệ Quân
+2017-10-12 19:02:46 nganthao89#2 30 MinhNhật 60 Cấm Vệ Quân
+2017-10-12 19:46:22 nganthao90#2 31 MớiLớn 11 Mao Sơn
+2017-10-12 19:47:30 nganthao90#2 31 MớiLớn 12 Mao Sơn
+2017-10-12 19:48:03 nganthao90#2 31 MớiLớn 13 Mao Sơn
+2017-10-12 19:48:16 nganthao90#2 31 MớiLớn 14 Mao Sơn
+2017-10-12 19:48:51 nganthao90#2 31 MớiLớn 15 Mao Sơn
+2017-10-12 20:01:06 nganthao90#2 31 MớiLớn 16 Mao Sơn
+2017-10-12 20:01:30 nganthao90#2 31 MớiLớn 17 Mao Sơn
+2017-10-12 20:01:56 nganthao90#2 31 MớiLớn 18 Mao Sơn
+2017-10-12 20:02:21 nganthao90#2 31 MớiLớn 19 Mao Sơn
+2017-10-12 20:02:59 nganthao90#2 31 MớiLớn 20 Mao Sơn
+2017-10-12 20:07:44 nganthao90#2 31 MớiLớn 21 Mao Sơn
+2017-10-12 20:07:44 nganthao90#2 31 MớiLớn 22 Mao Sơn
+2017-10-12 20:07:45 nganthao90#2 31 MớiLớn 23 Mao Sơn
+2017-10-12 20:07:45 nganthao90#2 31 MớiLớn 24 Mao Sơn
+2017-10-12 20:07:45 nganthao90#2 31 MớiLớn 25 Mao Sơn
+2017-10-12 20:07:45 nganthao90#2 31 MớiLớn 26 Mao Sơn
+2017-10-12 20:08:03 nganthao90#2 31 MớiLớn 27 Mao Sơn
+2017-10-12 20:08:03 nganthao90#2 31 MớiLớn 28 Mao Sơn
+2017-10-12 20:08:03 nganthao90#2 31 MớiLớn 29 Mao Sơn
+2017-10-12 20:08:03 nganthao90#2 31 MớiLớn 30 Mao Sơn
+2017-10-12 20:08:04 nganthao90#2 31 MớiLớn 31 Mao Sơn
+2017-10-12 20:08:04 nganthao90#2 31 MớiLớn 32 Mao Sơn
+2017-10-12 20:08:41 nganthao90#2 31 MớiLớn 33 Mao Sơn
+2017-10-12 20:08:42 nganthao90#2 31 MớiLớn 34 Mao Sơn
+2017-10-12 20:08:42 nganthao90#2 31 MớiLớn 35 Mao Sơn
+2017-10-12 20:08:42 nganthao90#2 31 MớiLớn 36 Mao Sơn
+2017-10-12 20:08:42 nganthao90#2 31 MớiLớn 37 Mao Sơn
+2017-10-12 20:09:56 nganthao90#2 31 MớiLớn 38 Mao Sơn
+2017-10-12 20:10:02 nganthao90#2 31 MớiLớn 39 Mao Sơn
+2017-10-12 20:10:03 nganthao90#2 31 MớiLớn 40 Mao Sơn
+2017-10-12 20:10:03 nganthao90#2 31 MớiLớn 41 Mao Sơn
+2017-10-12 20:10:04 nganthao90#2 31 MớiLớn 42 Mao Sơn
+2017-10-12 20:10:52 nganthao90#2 31 MớiLớn 43 Mao Sơn
+2017-10-12 20:10:52 nganthao90#2 31 MớiLớn 44 Mao Sơn
+2017-10-12 20:10:52 nganthao90#2 31 MớiLớn 45 Mao Sơn
+2017-10-12 20:10:54 nganthao90#2 31 MớiLớn 46 Mao Sơn
+2017-10-12 20:11:24 nganthao90#2 31 MớiLớn 47 Mao Sơn
+2017-10-12 20:11:25 nganthao90#2 31 MớiLớn 48 Mao Sơn
+2017-10-12 20:12:52 nganthao90#2 31 MớiLớn 49 Mao Sơn
+2017-10-12 20:12:53 nganthao90#2 31 MớiLớn 50 Mao Sơn
+2017-10-12 20:12:53 nganthao90#2 31 MớiLớn 51 Mao Sơn
+2017-10-12 20:12:53 nganthao90#2 31 MớiLớn 52 Mao Sơn
+2017-10-12 20:12:53 nganthao90#2 31 MớiLớn 53 Mao Sơn
+2017-10-12 20:12:54 nganthao90#2 31 MớiLớn 54 Mao Sơn
+2017-10-12 20:15:06 nganthao90#2 31 MớiLớn 55 Mao Sơn
+2017-10-12 20:15:08 nganthao90#2 31 MớiLớn 56 Mao Sơn
+2017-10-12 20:15:08 nganthao90#2 31 MớiLớn 57 Mao Sơn
+2017-10-12 20:15:10 nganthao90#2 31 MớiLớn 58 Mao Sơn
+2017-10-12 20:15:39 nganthao90#2 31 MớiLớn 59 Mao Sơn
+2017-10-12 20:16:00 nganthao90#2 31 MớiLớn 60 Mao Sơn
+2017-10-12 20:27:15 hieuls192a 14 #25. 53 Đường Môn
+2017-10-12 20:27:16 hieuls192a 14 #25. 54 Đường Môn
+2017-10-12 20:27:17 hieuls192a 14 #25. 55 Đường Môn
+2017-10-12 20:27:17 hieuls192a 14 #25. 56 Đường Môn
+2017-10-12 20:29:23 hieuls192a 14 #25. 57 Đường Môn
+2017-10-12 20:29:26 hieuls192a 14 #25. 58 Đường Môn
+2017-10-12 20:32:37 hieuls192a 14 #25. 59 Đường Môn
+2017-10-12 20:33:16 hieuls192a 14 #25. 60 Đường Môn
+2017-10-12 23:23:15 famton1 7 Bum 52 Đường Môn
+2017-10-12 23:24:14 famton1 7 Bum 53 Đường Môn
+2017-10-12 23:28:10 hieuls192aa 34 fim.conHeo 11 Đào Hoa Nguyên
+2017-10-12 23:28:10 hieuls192aa 34 fim.conHeo 12 Đào Hoa Nguyên
+2017-10-12 23:30:03 hieuls192aa 34 fim.conHeo 13 Đào Hoa Nguyên
+2017-10-12 23:30:16 hieuls192aa 34 fim.conHeo 14 Đào Hoa Nguyên
+2017-10-12 23:30:46 hieuls192aa 34 fim.conHeo 15 Đào Hoa Nguyên
+2017-10-12 23:32:17 famton1 7 Bum 54 Đường Môn
+2017-10-12 23:32:19 famton1 7 Bum 55 Đường Môn
+2017-10-12 23:32:34 hieuls192aa 34 fim.conHeo 16 Đào Hoa Nguyên
+2017-10-12 23:33:14 hieuls192aa 34 fim.conHeo 17 Đào Hoa Nguyên
+2017-10-12 23:33:58 hieuls192aa 34 fim.conHeo 18 Đào Hoa Nguyên
+2017-10-12 23:36:18 hieuls192aa 34 fim.conHeo 19 Đào Hoa Nguyên
+2017-10-12 23:37:05 hieuls192aa 34 fim.conHeo 20 Đào Hoa Nguyên
+2017-10-12 23:50:03 hieuls192aa 34 fim.conHeo 21 Đào Hoa Nguyên
+2017-10-12 23:50:04 hieuls192aa 34 fim.conHeo 22 Đào Hoa Nguyên
+2017-10-12 23:50:07 hieuls192aa 34 fim.conHeo 23 Đào Hoa Nguyên
+2017-10-12 23:50:08 hieuls192aa 34 fim.conHeo 24 Đào Hoa Nguyên
+2017-10-12 23:50:08 hieuls192aa 34 fim.conHeo 25 Đào Hoa Nguyên
+2017-10-12 23:50:47 hieuls192aa 34 fim.conHeo 26 Đào Hoa Nguyên
+2017-10-12 23:50:49 hieuls192aa 34 fim.conHeo 27 Đào Hoa Nguyên
+2017-10-12 23:51:04 hieuls192aa 34 fim.conHeo 28 Đào Hoa Nguyên
+2017-10-12 23:51:37 hieuls192aa 34 fim.conHeo 29 Đào Hoa Nguyên
+2017-10-12 23:51:38 hieuls192aa 34 fim.conHeo 30 Đào Hoa Nguyên
+2017-10-12 23:52:18 hieuls192aa 34 fim.conHeo 31 Đào Hoa Nguyên
+2017-10-12 23:52:20 hieuls192aa 34 fim.conHeo 32 Đào Hoa Nguyên
+2017-10-12 23:52:49 hieuls192aa 34 fim.conHeo 33 Đào Hoa Nguyên
+2017-10-12 23:54:05 hieuls192aa 34 fim.conHeo 34 Đào Hoa Nguyên
+2017-10-12 23:54:05 hieuls192aa 34 fim.conHeo 35 Đào Hoa Nguyên
+2017-10-12 23:56:00 hieuls192aa 34 fim.conHeo 36 Đào Hoa Nguyên
+2017-10-12 23:56:01 hieuls192aa 34 fim.conHeo 37 Đào Hoa Nguyên
+2017-10-12 23:56:01 hieuls192aa 34 fim.conHeo 38 Đào Hoa Nguyên
+2017-10-12 23:57:04 hieuls192aa 34 fim.conHeo 39 Đào Hoa Nguyên
+2017-10-12 23:57:40 hieuls192aa 34 fim.conHeo 40 Đào Hoa Nguyên

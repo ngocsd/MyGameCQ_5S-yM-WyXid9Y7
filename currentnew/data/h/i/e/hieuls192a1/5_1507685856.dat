@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"shenshou":1,"show_time":358,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":431,"shenshou":1,"no_fuse":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 54
@@ -7,9 +7,9 @@ Spi 62
 Str 226
 Cps 66
 Dex 79
-HP (/1209,1238,/)
-MP (/334,334,/)
-HP_Cent 48
+HP (/619,1238,/)
+MP (/167,334,/)
+HP_Cent 25
 AP 1456
 DP 524
 CP 176
@@ -19,7 +19,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74217":(/1,0,/),"74219":(/1,0,/),"74218":(/1,0,/),"74214":(/1,0,/),"74205":(/1,0,/),])
+Skills (["74214":(/1,0,/),"74217":(/1,0,/),"74219":(/1,0,/),"74218":(/1,0,/),"74205":(/1,0,/),])
 WeaponCode 60
 Name "Ngưu"
 PicId 3008
@@ -36,10 +36,10 @@ FirstName "Ngưu Trâu"
 OwnerName "#25"
 OwnerAccount "hieuls192a1"
 OwnerNumber 5
-lifetime 9899
-faith 64
+lifetime 9744
+faith 99
 blood 1
-Experience 38190
+Experience 55010
 iPortrait 3008
 con_grow 1975
 str_grow 1379

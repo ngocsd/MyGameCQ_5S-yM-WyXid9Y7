@@ -1,11 +1,8 @@
 #/sys/sys/id.c
-Id 26
-ItemId 243
-UserCount 4
-CountTime 4
-MaxUser 1
-Buyer 1
-BuyCount 1
-BuyPoint 400
-QuitCount 3
+Id 34
+ItemId 335
+Buyer 10
+BuyCount 342
+BuyPoint 50062
+QuitCount 2
 TransId 10000
