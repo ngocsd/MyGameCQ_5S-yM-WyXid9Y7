@@ -251,3 +251,62 @@
 2017-10-11 23:31:28 : Bon (6) đã chuyển Giải Phóng Lao Động cho người chơi Bum có số id 7
 2017-10-11 23:31:49 : Bon (6) đã chuyển Nhập môn Lạc Tuyết Vô Ngân cho người chơi Bum có số id 7
 2017-10-11 23:32:05 : Bon (6) đã chuyển Giải , Giải , Động , Phóng , Giải Phóng Lao Động cho người chơi Bum có số id 7
+2017-10-12 07:14:05 : ❤Phủ (3) đã chuyển Phi Hành Phù cho người chơi ❣EmPlus có số id 4
+2017-10-12 07:32:21 : ❤Phủ (3) đã chuyển Giải Phóng Lao Động , Giải , Động , Lao , Phóng cho người chơi ❣EmPlus có số id 4
+2017-10-12 08:33:50 : ❣EmPlus (4) đã chuyển Công thức Thần Hành Chiến Khôi cho người chơi ❤Phủ có số id 3
+2017-10-12 09:33:20 : ❣EmPlus (4) đã chuyển Công thức Thần Hành Pháp Quán cho người chơi ❤Phủ có số id 3
+2017-10-12 09:33:38 : ❤Phủ (3) đã chuyển Phóng , Giải , Động , Giải Phóng Lao Động , Lao cho người chơi ❣EmPlus có số id 4
+2017-10-12 09:46:14 : ❤Phủ (3) đã chuyển Thần Hành Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-12 09:47:57 : ❣EmPlus (4) đã chuyển Thần Hành Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-12 09:49:48 : ❣EmPlus (4) đã chuyển Kim Tinh Thạch cấp 4  cho người chơi ❤Phủ có số id 3
+2017-10-12 10:11:16 : ❤Phủ (3) đã chuyển Mộc Tinh Thạch cấp 2  , Mộc Tinh Thạch cấp 2  cho người chơi ❣EmPlus có số id 4
+2017-10-12 10:12:58 : ❣EmPlus (4) đã chuyển Mộc Tinh Thạch cấp 3  , Mộc Tinh Thạch cấp 3  , Mộc Tinh Thạch cấp 5  , Mộc Tinh Thạch cấp 3  cho người chơi ❤Phủ có số id 3
+2017-10-12 11:18:28 : ❤Phủ (3) đã chuyển Hỏa Tinh Thạch cấp 5  cho người chơi ❣EmPlus có số id 4
+2017-10-12 12:37:05 : Á-À (23) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi Lượn có số id 24
+2017-10-12 12:37:10 : Á-À (23) đã chuyển Hoàng Sa Chi Tâm cho người chơi Lượn có số id 24
+2017-10-12 12:53:11 : #25 (5) đã chuyển Thần Hành Hạng Liên , Nhiếp Hồn Linh , Thần Phong Phi Phong , Truy Tâm Tiễn , Trang Phục Mùa Hè (Nữ) cho người chơi #25. có số id 14
+2017-10-12 12:54:20 : #25 (5) đã chuyển Truyền Tống Phù cho người chơi #25. có số id 14
+2017-10-12 13:54:04 : #25 (5) đã chuyển  2000000 lượng cho người chơi #25. có số id 14
+2017-10-12 18:07:06 : ❤Phủ (3) đã chuyển  10000000 lượng cho người chơi MinhNhật có số id 30
+2017-10-12 19:37:57 : Á-À (23) đã chuyển  10000000 lượng , Nhật Nguyệt Kiếm cho người chơi T.T có số id 32
+2017-10-12 19:51:02 : Á-À (23) đã chuyển  7000000 lượng cho người chơi T.T có số id 32
+2017-10-12 19:52:36 : T.T (32) đã chuyển Nhật Nguyệt Kiếm cho người chơi Á-À có số id 23
+2017-10-12 19:55:09 : MinhNhật (30) đã chuyển Chuông Hám Thiên cho người chơi MớiLớn có số id 31
+2017-10-12 19:55:45 : MinhNhật (30) đã chuyển  5000000 lượng cho người chơi MớiLớn có số id 31
+2017-10-12 20:12:06 : Fun (10) đã chuyển Đá Tương Uyên , Đá Càn Khôn cho người chơi Luandubai có số id 15
+2017-10-12 20:39:06 : -Xu- (13) đã chuyển Túi Thần Thú cho người chơi Fun có số id 10
+2017-10-12 20:42:52 : #25. (14) đã chuyển  3000000 lượng , Kim Ty Tố Quần cho người chơi taitao có số id 33
+2017-10-12 20:44:22 : #25. (14) đã chuyển Thẻ Giảm Giá cho người chơi taitao có số id 33
+2017-10-12 20:44:39 : MớiLớn (31) đã chuyển  3000000 lượng , Lỗ Ban Bảo Thạch cho người chơi MinhNhật có số id 30
+2017-10-12 20:46:39 : #25. (14) đã chuyển Thẻ Giảm Giá cho người chơi taitao có số id 33
+2017-10-12 20:49:22 : taitao (33) đã chuyển Kim Ty Tố Quần cho người chơi #25. có số id 14
+2017-10-12 20:51:39 : -Xu- (13) đã chuyển Hoả Phù cho người chơi Fun có số id 10
+2017-10-12 21:19:28 : MớiLớn (31) đã chuyển Bí Kíp Kim Nguyên Bảo(200) cho người chơi MinhNhật có số id 30
+2017-10-12 21:57:08 : Nghịch03 (2) đã chuyển Bí Kíp Mê Hồn Quyết cho người chơi VMC có số id 8
+2017-10-12 21:59:07 : Nghịch03 (2) đã chuyển  2000000 lượng cho người chơi VMC có số id 8
+2017-10-12 21:59:48 : MinhNhật (30) đã chuyển  6000000 lượng cho người chơi MớiLớn có số id 31
+2017-10-12 22:22:44 : VMC (8) đã chuyển Tử Kim Bảo Hộp cho người chơi Nghịch03 có số id 2
+2017-10-12 22:26:38 : VMC (8) đã chuyển Chìa Khóa Tử Kim , Chìa Khóa Tử Kim , Chìa Khóa Tử Kim , Dầu Ăn , Dép Lào , Chìa Khóa Tử Kim cho người chơi Nghịch03 có số id 2
+2017-10-12 22:26:42 : VMC (8) đã chuyển Dầu Ăn cho người chơi Nghịch03 có số id 2
+2017-10-12 22:42:46 : ❤Phủ (3) đã chuyển  5000000 lượng cho người chơi MớiLớn có số id 31
+2017-10-12 23:09:10 : #25 (5) đã chuyển  8000000 lượng , Túi Quà Vô Song cho người chơi fim.conHeo có số id 34
+2017-10-12 23:09:48 : #25 (5) đã chuyển Nhiếp Hồn Linh , Trang Phục Dạo Phố (Nam) , Vô Song Điểm Phiếu cho người chơi fim.conHeo có số id 34
+2017-10-12 23:16:31 : #25 (5) đã chuyển 12 con Giáp - Chuột , Trang Phục Mùa Hè (Nữ) , Vô Song Điểm Phiếu cho người chơi fim.conHeo có số id 34
+2017-10-12 23:17:02 : #25 (5) đã chuyển Thần Hành Lý cho người chơi fim.conHeo có số id 34
+2017-10-12 23:22:21 : #25 (5) đã chuyển Túi Quà Vô Song cho người chơi fim.conHeo có số id 34
+2017-10-12 23:26:10 : #25 (5) đã chuyển Vô Song Điểm Phiếu cho người chơi fim.conHeo có số id 34
+2017-10-12 23:32:28 : MinhNhật (30) đã chuyển Tinh Nguyên Đơn , Tinh Nguyên Đơn , Tinh Nguyên Đơn , Tinh Nguyên Đơn , Tinh Nguyên Đơn , Tinh Nguyên Đơn cho người chơi MớiLớn có số id 31
+2017-10-12 23:34:21 : MinhNhật (30) đã chuyển Tinh Nguyên Đơn , Tinh Nguyên Đơn cho người chơi MớiLớn có số id 31
+2017-10-12 23:37:15 : MinhNhật (30) đã chuyển Xích Y (Nữ) cho người chơi MớiLớn có số id 31
+2017-10-12 23:37:56 : MinhNhật (30) đã chuyển Đá Tương Uyên cho người chơi MớiLớn có số id 31
+2017-10-12 23:43:05 : MinhNhật (30) đã chuyển Đá Càn Khôn cho người chơi MớiLớn có số id 31
+2017-10-12 23:46:08 : Bon (6) đã chuyển Giải , Lao , Động cho người chơi Bum có số id 7
+2017-10-12 23:46:27 : Bum (7) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Bon có số id 6
+2017-10-12 23:47:20 : Bum (7) đã chuyển Trung Cấp Đoạn Thạch cho người chơi Bon có số id 6
+2017-10-12 23:50:34 : Bum (7) đã chuyển Trung Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch cho người chơi Bon có số id 6
+2017-10-12 23:51:30 : Bum (7) đã chuyển  10000000 lượng cho người chơi Bon có số id 6
+2017-10-12 23:52:53 : Nghịch03 (2) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi MinhNhật có số id 30
+2017-10-12 23:58:45 : Nghịch03 (2) đã chuyển Công thức Thần Hành Chiến Y cho người chơi MớiLớn có số id 31
+2017-10-13 00:03:37 : Nghịch03 (2) đã chuyển Cự Tượng Chi Ngoa cho người chơi MớiLớn có số id 31
+2017-10-13 00:04:08 : Nghịch03 (2) đã chuyển Bạch Lang Hạng Liên cho người chơi MớiLớn có số id 31
+2017-10-13 00:17:45 : Nghịch03 (2) đã chuyển Linh Hồ Hạng Liên , Linh Hồ Nhung Mão , Linh Hồ Bì Y cho người chơi VMC có số id 8

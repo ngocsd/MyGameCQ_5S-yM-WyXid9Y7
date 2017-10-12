@@ -86,3 +86,70 @@
 错误: /quest/tips.txt 第 177 行提示定义错。
 错误: /quest/tips.txt 第 349 行提示定义错。
 错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-12 05:44:45 map/map/151.c line 111: Undefined variable 'TIME_HOUR'
+2017-10-12 05:44:45 map/map/151.c line 112: Undefined variable 'TIME_MIN'
+2017-10-12 05:44:45 map/map/151.c line 115: Undefined variable 'p'
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-12 05:50:50 map/map/151.c line 116: Undefined variable 'p'
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+2017-10-12 06:07:19 map/map/151.c line 114: parse error
+2017-10-12 06:07:19 map/map/151.c line 115: Illegal LHS
+2017-10-12 06:07:19 map/map/151.c line 128: parse error
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
+错误: /quest/tips.txt 第 1 行提示定义错。
+错误: /quest/tips.txt 第 177 行提示定义错。
+错误: /quest/tips.txt 第 349 行提示定义错。
+错误: /quest/tips.txt 第 439 行提示定义错。
