@@ -3,7 +3,7 @@
 #include <effect.h>
 inherit ITEM;
 inherit USABLE;
-
+#define SO_SAO		6 
 int get_item_color() { return 2; }
 int get_item_value() {return 100 ;}
 int get_item_value_2() {return 100 ;}
@@ -11,7 +11,7 @@ int get_item_value_2() {return 100 ;}
 // 函数：构造处理
 void create()
 {
-        set_name("Túi Hoàng Kim 5* Cấp 60");
+        set_name("Túi Hoàng Kim "+SO_SAO+"* Cấp 60");
         set_picid_1(3107);
         set_picid_2(3107);
         set_value(5000);
@@ -20,7 +20,7 @@ void create()
 // 函数：获取描述
 string get_desc( object me ) 
 { 
-        return "Sau khi sử dụng có thể nhận được một bộ "HIR "Trang bị"HIY " Hoàng Kim"NOR " và "HIR " Vũ khí"NOR " 5 sao Cấp 60 \n "HIR "Lưu ý:"HIY " Phải gia nhập Phái"NOR ".";
+        return "Sau khi sử dụng có thể nhận được một bộ "HIR "Trang bị"HIY " Hoàng Kim"NOR " và "HIR " Vũ khí"NOR ""+SO_SAO+" sao Cấp 60 \n "HIR "Lưu ý:"HIY " Phải gia nhập Phái"NOR ".";
 }
 
 int get_use_effect( object me ) 

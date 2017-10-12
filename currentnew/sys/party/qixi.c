@@ -20,7 +20,7 @@ void SAVE_BINARY() { }
 void create()
 {
 	iStart_qixi = mktime(2007,8,19,7,50,0);	
-	iFinish_qixi = mktime(2020,8,19,22,0,0);
+	iFinish_qixi = mktime(2010,8,19,22,0,0);
 
 	call_out("check_time",3);
 }

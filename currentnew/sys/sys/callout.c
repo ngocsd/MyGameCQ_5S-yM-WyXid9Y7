@@ -54,7 +54,7 @@ void create()
 	"sys/party/sect_surprise"->check_time();
 	//	"sys/party/valentine"->check_time();
 	"sys/party/chunjie"->check_time(); // Tết
-									   //	"sys/party/qixi"->check_time();
+	//	"sys/party/qixi"->check_time();
 	"/sys/user/plant"->do_nothing();
 	"/sys/task/escort"->do_nothing();
 	//	"/sys/party/burst_equips"->do_activity();
@@ -68,7 +68,7 @@ void create()
 	"sys/party/CoTuong"->check_time();
 	"sys/party/event8thang3"->check_time();
 	//	"sys/party/tuyetdaicaothu"->check_time();
-	"sys/party/acquy"->check_time();
+	// "sys/party/acquy"->check_time();
 	//	"sys/party/kinhkha"->check_time();
 	"sys/party/tongbaoyeu"->check_time();
 	"sys/party/baothachtieuyeu"->check_time();

@@ -42,7 +42,7 @@ void do_look( object who )
 	int id = getoid( this_object() );
 	object me = this_object();
 	string result;
-		send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Meo...meo..Vâng lệnh của đại ca Pret, từ cấp 50 -> 105 sẽ nhận được 5 ngân lượng và 5 ngân bảo mỗi 5 giây nha..chết chết....lên cót hộ ta với!!! \n"
+		send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Meo...meo..Vâng lệnh của đẹp trai Funny, từ cấp 50 -> 105 sẽ nhận được 5 ngân lượng và 5 ngân bảo mỗi 5 giây nha..chết chết....lên cót hộ ta với!!! \n"
 		ESC "Xàm xàm chút\ntalk %x# gift.1\n"	
         ESC HIY"Chọn Loại Code Cần Nhập\ntalk %x# gift.2\n"		
 		ESC"Rời khỏi",get_name(),id,id,id,id,id));	

@@ -3,13 +3,13 @@
 #include <effect.h>
 inherit ITEM;
 inherit USABLE;
-
+#define SO_SAO		6 
 int get_item_color() { return 2; }
 
 // 函数：构造处理
 void create()
 {
-        set_name("Túi Hoàng Kim 5*(Hạng Liên) cấp 60");
+        set_name("Túi Hoàng Kim "+SO_SAO+"*(Hạng Liên) cấp 60");
         set_picid_1(3107);
         set_picid_2(3107);
         set_value(2);
@@ -18,7 +18,7 @@ void create()
 // 函数：获取描述
 string get_desc( object me ) 
 { 
-        return "Sau khi mở ra sẽ nhận được trang bị [Hạng Liên] \ncấp 60-5* theo môn phái.";
+        return "Sau khi mở ra sẽ nhận được trang bị [Hạng Liên] \ncấp 60-"+SO_SAO+"* theo môn phái.";
 }
 
 int get_use_effect( object me ) 
@@ -45,7 +45,7 @@ int get_use_effect_callout( object who, object gift )
 	{
 		item = new(cFile);
 		"/sys/item/equip"->init_equip_prop_3(item);
-		for (i = 0; i< 5; i++)
+		for (i = 0; i< SO_SAO; i++)
 		{
 			"/sys/item/equip"->init_equip_prop_5(item);
 			forge += "1";

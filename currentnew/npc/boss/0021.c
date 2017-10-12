@@ -562,7 +562,7 @@ void drop_items( object me, object who )
 	                        if ( !item ) 
 	                        	continue;
 	                        TEAM_D->drop_item(item,who);
-				item->set_user_id(owner);
+							item->set_user_id(owner);
 	                        item->add_to_scene(z, p / 1000, p % 1000);
 	                        item->set("winner", who);
 	                        item->set( "time", time() );

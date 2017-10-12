@@ -40,7 +40,7 @@ void create()
 void do_look( object who ) 
 {
 	int id = getoid( this_object() );
-	send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Chào các bằng hữu, ta là sứ giả sự kiện của chiến quốc tâm diện. Nay các vị tìm đến ta có việc gì??! \n"
+	send_user(who,"%c%c%w%s",':',3,get_char_picid(),sprintf(" %s :\n Chào các bằng hữu, ta là sứ giả sự kiện của Thất Quốc Tổng Quản. Nay các vị tìm đến ta có việc gì??! \n"
 		ESC HIY"Nhận hỗ trợ mỗi giờ\ntalk %x# gift.1\n"
 		ESC "Nhận hỗ trợ hằng ngày\ntalk %x# gift.2\n"
 		ESC HIY"Ta muốn Nâng Cấp Trang Bị Vai\ntalk %x# gift.3\n"

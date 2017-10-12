@@ -1132,8 +1132,8 @@ log_file("deposit.dat", sprintf("%s %s(%d) nạp thành công %d Kim Nguyên B�
 				if( sec % 5 == 0)
 				{
 					me->add_cash(5);
-					"sys/sys/test_db"->add_yuanbao(me,5);
-					send_user(me,"%c%s",':',"Ngươi nhận được 5 đồng và 5 ngân bảo bố thí từ Mèo Đại Gia!");
+					"sys/sys/test_db"->add_yuanbao(me,2);
+					write_user( me,	ECHO "Ngươi nhận được 5 đồng và 2 ngân bảo bố thí từ Admin đẹp trai!");
 				}			
 			}
 		}
@@ -1166,7 +1166,7 @@ log_file("deposit.dat", sprintf("%s %s(%d) nạp thành công %d Kim Nguyên B�
 		{
 			if( sec % 1 == 0)
 			{
-			me->add_save("phongbaolixi",-1);
+				me->add_save("phongbaolixi",-1);
 				if ( me->get_save("phongbaolixi")==0 )
 				{
 				MAILBOX->sys_mail(me->get_id(),me->get_number(),"Nhận Túi Quà May Mắn \ntại Chu Quốc ( 292, 150 )");
@@ -1955,7 +1955,6 @@ void apex_kickout( int action )
 
 int kicknguoichoi(object who, int giay)
 {
-	object map;
 	giay = giay - 1;
 	if( giay > 0 )
 	{
@@ -1963,8 +1962,7 @@ int kicknguoichoi(object who, int giay)
 	}
 	else
 	{
-		map = get_map_object(get_z(who));
-		if (map->get_id() == 910 || map->get_id() == 920){
+		if (get_z(who) == 910 || get_z(who) == 920){
 		send_user(who,"%c%s",'!',HIY"Đã hết thời gian trong bãi luyện tập.");
 		//me->add_to_scene(80, 292, 184);
 		if ( random(100) < 30 ) {
