@@ -41,7 +41,7 @@ void do_look(object who)
 		send_user(who, "%c%s", '!', "Bản sao chưa được mở ra");
 		return;
 	}
-	if (who->get_level() >= 60)
+	if (who->get_level() >= 50)
 		send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều là nơi mà bọn phản loạn nghịch tặc phản quốc ẩn nấu, ta đang chiêu mộ dũng sĩ để thu thập bọn nghịch tặc, ngươi muốn vào không ?\n" ESC "Thành Kiều quân doanh là gì ?\nnoichuyen %x# chaomung.100\n" ESC "Quy tắc Quân doanh?\nnoichuyen %x# chaomung.200\n" ESC "Sử dụng Hạt Mè Khai Môn tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, id, id));
 	else
 		send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều là nơi mà bọn phản loạn nghịch tặc phản quốc ẩn nấu, ta đang chiêu mộ dũng sĩ để thu thập bọn nghịch tặc, ngươi muốn vào không ?\n" ESC "Thành Kiều quân doanh là gì ?\nnoichuyen %x# chaomung.100\n" ESC "Quy tắc Quân doanh?\nnoichuyen %x# chaomung.200\n" ESC "Tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, id, id));
@@ -71,31 +71,31 @@ void do_welcome2(object me, string arg)
 	switch (flag)
 	{
 	case 100:
-		if (level >= 60)
+		if (level >= 50)
 			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều quân doanh hội tụ rất nhiều quái vật cao cấp, nghe nói trang bị rớt ra từ quái vật cũng là cao cấp !\n" ESC "Quy tắc Quân doanh?\nnoichuyen %x# chaomung.200\n" ESC "Sử dụng Hạt Mè Khai Môn tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, id, ));
 		else
 			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều quân doanh hội tụ rất nhiều quái vật cao cấp, nghe nói trang bị rớt ra từ quái vật cũng là cao cấp !\n" ESC "Quy tắc Quân doanh?\nnoichuyen %x# chaomung.200\n" ESC "Tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, id, ));
 		break;
 	case 200:
-		if (level >= 60)
-			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều chỉ cho phép tối đa 5 người trong 1 nhóm tiến vào, tất nhiên một nhóm sẽ vào Thành Kiều khác với nhóm khác, Thành Kiều yêu cầu nhân vật cấp 40 - 60 và Lệnh PretKuzl mới có thể vào !\n" ESC "Sử dụng Hạt Mè Khai Môn tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, ));
+		if (level >= 50)
+			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều chỉ cho phép tối đa 5 người trong 1 nhóm tiến vào, tất nhiên một nhóm sẽ vào Thành Kiều khác với nhóm khác, Thành Kiều yêu cầu nhân vật cấp 40 - 50 và Lệnh PretKuzl mới có thể vào !\n" ESC "Sử dụng Hạt Mè Khai Môn tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, ));
 		else
-			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều chỉ cho phép tối đa 5 người trong 1 nhóm tiến vào, tất nhiên một nhóm sẽ vào Thành Kiều khác với nhóm khác, Thành Kiều yêu cầu nhân vật cấp 40 - 60 và Lệnh PretKuzl mới có thể vào !\n" ESC "Tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, ));
+			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Thành Kiều chỉ cho phép tối đa 5 người trong 1 nhóm tiến vào, tất nhiên một nhóm sẽ vào Thành Kiều khác với nhóm khác, Thành Kiều yêu cầu nhân vật cấp 40 - 50 và Lệnh PretKuzl mới có thể vào !\n" ESC "Tiến vào Thành Kiều\nnoichuyen %x# chaomung.300\n" ESC "Rời khỏi", id, ));
 		break;
 	case 300:
-		if (level >= 60)
+		if (level >= 50)
 		{
 			item = present("Hạt Mè Khai Môn", who, 1, MAX_CARRY);
 		}
 
-		if (who->get_level() < 40 || (who->get_level() >= 60))
+		if (who->get_level() < 40 || (who->get_level() >= 50))
 		{
 			item2 = present("Lệnh PretKuzl", who, 1, MAX_CARRY);
 		}
 
-		if (who->get_level() < 40 && !item2 || (who->get_level() >= 60 && !item))
+		if (who->get_level() < 40 && !item2 || (who->get_level() >= 50 && !item))
 		{
-			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Nhân vật cấp 40 - 60 có thể tiến vào Thành Kiều. Nhưng nếu cấp bậc đã là 60 phải sử dụng Hạt Mè Khai Môn mới có thể tiến vào.\n"));
+			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Nhân vật cấp 40 - 50 có thể tiến vào Thành Kiều. Nhưng nếu cấp bậc đã là 50 phải sử dụng Hạt Mè Khai Môn mới có thể tiến vào.\n"));
 			return;
 		}
 		tId = who->get_team_id();
@@ -104,7 +104,7 @@ void do_welcome2(object me, string arg)
 			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Phải lập tổ đội mới được vào Thành Kiều.\n"));
 			return;
 		}
-		if (level >= 60 && item && item2)
+		if (level >= 50 && item && item2)
 		{
 			send_user(who, "%c%c%s", 0x59, 1, sprintf("Sử dụng " HIR "Hạt Mè Khai Môn" NOR " và " HIB "Lệnh PretKuzl" NOR " tiến vào Thành Kiều.\n" ESC "%c\n" ESC "noichuyen %x# chaomung.4\n", 1, getoid(me)));
 			return;
@@ -143,7 +143,7 @@ void do_welcome2(object me, string arg)
 		item = present("Hạt Mè Khai Môn", who, 1, MAX_CARRY);
 		if (!item)
 		{
-			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Nhân vật cấp 40 - 60 có thể tiến vào Thành Kiều. Nhưng nếu cấp bậc đã trên 60 phải sử dụng Hạt Mè Khai Môn mới có thể tiến vào.\n"));
+			send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Thảo Nghịch Tướng Quân：\n    Nhân vật cấp 40 - 50 có thể tiến vào Thành Kiều. Nhưng nếu cấp bậc đã trên 50 phải sử dụng Hạt Mè Khai Môn mới có thể tiến vào.\n"));
 			return;
 		}
 

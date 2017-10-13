@@ -34,7 +34,7 @@ string get_short()
 
 void init_fight_status()
 {
-	set_ap(2000);
+	set_ap(3000);
 	set_dp(2000);
 	set_cp(1300);
 	set_pp(400);
@@ -66,6 +66,8 @@ void create()
 	set_char_type(FIGHTER_TYPE_2);
 	set("birthday", time());
 	set_enmity_flag(1);
+
+	summon = 0;
 }
 
 int can_fight(object who)
@@ -209,9 +211,10 @@ int perform_action(object who)
 	RelaxTime = 0;
 	iRelax = 0;
 
-	if (lowhp == 0 && get_hp() * 100 / get_max_hp() < 30) //生命值为30％以下
+	if (lowhp == 0 && get_hp() * 100 / get_max_hp() < 50) //生命值为30％以下
 	{
 		lowhp = 1;
+		set_sp(2000);
 	}
 	rate = random(100);
 	if (!lowhp)
@@ -225,7 +228,7 @@ int perform_action(object who)
 				return 1;
 			}
 		}
-		if (gone_time(pTime1) > 60)
+		if (gone_time(pTime1) > 40)
 		{
 			pTime1 = time();
 			SAY_CMD->say(me, "Hãy xem vạn mã của ta");
@@ -244,7 +247,7 @@ int perform_action(object who)
 				return 1;
 			}
 		}
-		if (gone_time(pTime1) > 60)
+		if (gone_time(pTime1) > 20)
 		{
 			pTime1 = time();
 			SAY_CMD->say(me, "Hãy xem vạn mã của ta");
@@ -254,10 +257,10 @@ int perform_action(object who)
 		x = get_x(me);
 		y = get_y(me);
 		z = get_z(me);
-		if (summon == 0)
+		if (summon < 2)
 		{
-			summon = 1;
-			for (i = 0; i < 4; i++)
+			summon++;
+			for (i = 0; i < 6; i++)
 			{
 				if (objectp(me->get(sprintf("guard%d", i))))
 					continue;
@@ -558,6 +561,7 @@ object summon_guard(object who)
 
 	npc = new ("npc/boss/00081");
 	npc->set_char_picid(452);
+	npc->set_ap(3500);
 	npc->set_level(level);
 	npc->set_name("Phản Quân Mã Phu");
 	npc->set_owner(who);

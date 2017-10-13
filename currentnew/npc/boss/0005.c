@@ -32,8 +32,8 @@ string get_short()
 
 void init_fight_status()
 {
-	set_ap(2600);
-	set_dp(2600);
+	set_ap(3000);
+	set_dp(3600);
 	set_cp(2300);
 	set_pp(400);
 	set_sp(300);
@@ -209,13 +209,13 @@ int perform_action(object who)
 	RelaxTime = 0;
 	iRelax = 0;
 
-	if (gone_time(pTime) > 30) //瘟疫散布
+	if (gone_time(pTime) > 20) //瘟疫散布
 	{
 		pTime = time();
 		"skill/03/03637"->perform_action_npc(me, who);
 		return 1;
 	}
-	if (gone_time(pTime1) > 50)
+	if (gone_time(pTime1) > 30)
 	{
 		pTime1 = time();
 		char = get_scene_object_2(me, USER_TYPE) + get_scene_object_2(me, CHAR_TYPE) - ({me, 0});
@@ -230,6 +230,7 @@ int perform_action(object who)
 
 	if (rate < 20)
 	{
+		set_ap(get_ap() + 100);
 		SAY_CMD->say(me, "Ta khảm !! Ta trảm !!! Ta khảm ta trảm !!!");
 		CHAR_FIGHT_D->attack_action(me, who, 36);
 		send_user(get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%w%c%c%w%c%c%c", 0x6f, getoid(who),
