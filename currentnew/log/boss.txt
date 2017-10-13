@@ -44,3 +44,8 @@
 2017-10-12 21:32:41 Khuyển Thái Lang bị tiêu diệt
 2017-10-12 21:58:30 Uy Võ Đại Tướng Quân bị tiêu diệt
 2017-10-13 00:41:36 Sơn Đại Vương bị tiêu diệt
+2017-10-13 10:00:43 Sơn Đại Vương xuất hiện
+2017-10-13 11:00:43 Hổ Vương xuất hiện
+2017-10-13 11:00:43Âm Gian Bạn Đồ xuất hiện
+2017-10-13 11:00:43 Khuyển Thái Lang xuất hiện
+2017-10-13 11:00:43 Uy Võ Đại Tướng Quân xuất hiện
