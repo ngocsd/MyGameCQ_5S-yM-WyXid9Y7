@@ -1,7 +1,6 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"show_time":107,"shenshou":1,"no_fuse":1,])
+SaveDatabase (["show_time":205,"no_give":1,"no_fuse":1,"shenshou":1,])
 SaveDbase2 ([])
-NoFight 1
 Con 80
 Spi 97
 Str 69
@@ -19,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74219":(/1,0,/),"74218":(/1,0,/),"74217":(/1,0,/),"74225":(/1,0,/),"74220":(/1,0,/),])
+Skills (["74220":(/1,0,/),"74219":(/1,0,/),"74225":(/1,0,/),"74217":(/1,0,/),"74218":(/1,0,/),])
 WeaponCode 60
 Name "Gà"
 PicId 3016
@@ -36,8 +35,8 @@ FirstName "Gà"
 OwnerName "❣EmPlus"
 OwnerAccount "trungq"
 OwnerNumber 4
-lifetime 9708
-faith 82
+lifetime 9682
+faith 56
 blood 1
 Experience 159524
 GiftPoint 231

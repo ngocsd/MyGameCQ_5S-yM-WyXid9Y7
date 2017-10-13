@@ -310,3 +310,29 @@
 2017-10-13 00:03:37 : Nghịch03 (2) đã chuyển Cự Tượng Chi Ngoa cho người chơi MớiLớn có số id 31
 2017-10-13 00:04:08 : Nghịch03 (2) đã chuyển Bạch Lang Hạng Liên cho người chơi MớiLớn có số id 31
 2017-10-13 00:17:45 : Nghịch03 (2) đã chuyển Linh Hồ Hạng Liên , Linh Hồ Nhung Mão , Linh Hồ Bì Y cho người chơi VMC có số id 8
+2017-10-13 01:16:32 : Nghịch03 (2) đã chuyển Thiên Lý Hữu Tình , Chuông Hám Thiên cho người chơi aPhúKuBé có số id 19
+2017-10-13 01:17:48 : MinhNhật (30) đã chuyển Nhật Nguyệt Kiếm cho người chơi MớiLớn có số id 31
+2017-10-13 01:21:55 : MinhNhật (30) đã chuyển Hoàng Kim Giám Định Kính cho người chơi MớiLớn có số id 31
+2017-10-13 01:35:27 : Nghịch03 (2) đã chuyển Lệnh PretKuzl cho người chơi aPhúKuBé có số id 19
+2017-10-13 01:35:57 : aPhúKuBé (19) đã chuyển Bí Kíp Kim Nguyên Bảo(100) , Bí Kíp Kim Nguyên Bảo(50) cho người chơi Nghịch03 có số id 2
+2017-10-13 02:03:17 : Nghịch03 (2) đã chuyển Đại Huyết Thạch , Đại Pháp Lực Thạch cho người chơi VMC có số id 8
+2017-10-13 03:00:06 : VMC (8) đã chuyển Hôn Sa cho người chơi Nghịch03 có số id 2
+2017-10-13 03:16:41 : VMC (8) đã chuyển Trái Táo , Trái Lê , Gạo Kê , Chuối , Đào , Trái Quýt cho người chơi Nghịch03 có số id 2
+2017-10-13 03:21:23 : VMC (8) đã chuyển Khoai Lang cho người chơi Nghịch03 có số id 2
+2017-10-13 06:44:23 : ❤Phủ (3) đã chuyển Lệnh PretKuzl cho người chơi ❣EmPlus có số id 4
+2017-10-13 06:58:06 : ❤Phủ (3) đã chuyển Túi Hoàng Kim 6*(Hạng Liên) cấp 60 cho người chơi ❣EmPlus có số id 4
+2017-10-13 07:28:00 : ❤Phủ (3) đã chuyển Phi Hành Phù cho người chơi ❣EmPlus có số id 4
+2017-10-13 07:30:53 : ❤Phủ (3) đã chuyển Giải , Lao , Giải Phóng Lao Động , Động , Phóng cho người chơi ❣EmPlus có số id 4
+2017-10-13 07:57:04 : MớiLớn (31) đã chuyển  4300000 lượng , Chân Vũ Kiếm cho người chơi Amethyst có số id 29
+2017-10-13 07:58:22 : MớiLớn (31) đã chuyển Hoả Linh Thạch cấp 1  , Hoả Linh Thạch cấp 1  , Hoả Linh Thạch cấp 1  , Hoả Linh Thạch cấp 1  cho người chơi Amethyst có số id 29
+2017-10-13 08:56:16 : Á-À (23) đã chuyển Tề Minh Hạng Liên cho người chơi Lượn có số id 24
+2017-10-13 09:32:56 : Á-À (23) đã chuyển  5000000 lượng cho người chơi Lượn có số id 24
+2017-10-13 09:34:10 : Lượn (24) đã chuyển Bạch Ngân Giám Định Kính cho người chơi Á-À có số id 23
+2017-10-13 10:06:59 : MinhNhật (30) đã chuyển Cao Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch cho người chơi MớiLớn có số id 31
+2017-10-13 10:09:10 : MớiLớn (31) đã chuyển  12000000 lượng , Thần Hành Chiến Y cho người chơi Amethyst có số id 29
+2017-10-13 10:10:42 : MớiLớn (31) đã chuyển Thuý Ngọc Tố Quần , Thuý Ngọc Cân cho người chơi Amethyst có số id 29
+2017-10-13 10:11:59 : Amethyst (29) đã chuyển Thuý Ngọc Tố Quần , Thuý Ngọc Cân , Thần Hành Chiến Y cho người chơi MớiLớn có số id 31
+2017-10-13 10:14:32 : MinhNhật (30) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi MớiLớn có số id 31
+2017-10-13 10:14:57 : Á-À (23) đã chuyển Thần Phong Phi Phong , Nhiếp Hồn Linh cho người chơi Lượn có số id 24
+2017-10-13 10:14:57 : MinhNhật (30) đã chuyển Hạt Mè Khai Môn cho người chơi MớiLớn có số id 31
+2017-10-13 10:21:52 : Á-À (23) đã chuyển Câu Liêm Thương cho người chơi Lượn có số id 24

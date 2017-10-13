@@ -1,4 +1,4 @@
-Microsoft Windows 95, Thu Oct 12 06:21:45 2017
+Microsoft Windows 95, Fri Oct 13 00:47:06 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
@@ -20,16 +20,6 @@ Initializations complete.
 Open connection port: 8888 
 Bad argument 1 to get_z()
 Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966
-Bad argument 1 to move_object()
-Expected: object Got: 0.
-program: /skill/03/03633.c, object: /skill/03/03633, file: /skill/03/03633.c:155
-'   command_hook' in '      inh/char/cmd.c' (' inh/user/user#10425') /inh/char/cmd.c:76
-'           main' in '        cmd/std/pf.c' ('          cmd/std/pf') /cmd/std/pf.c:136
-'           main' in '    skill/03/03633.c' ('      skill/03/03633') /skill/03/03633.c:155
+program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1965
+'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1965
 closed external ports

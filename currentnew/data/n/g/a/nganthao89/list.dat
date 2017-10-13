@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["2":(["hair":1,"armorc":0,"gold":11324458,"backc":32,"back2c":0,"back2":0,"back":1,"shape":10004,"weaponc":0,"number":30,"weaponc2":20461,"name":"MinhNhật","photo":1,"family":"Cấm Vệ Quân","level":58,"armor":10004,"hairc":0,"weapon":3136,]),"1":(["hair":1,"armorc":1107837448,"backc":0,"back2c":0,"back2":0,"shape":10000,"back":0,"weaponc":0,"number":29,"name":"Amethyst","photo":1,"armor":10001,"hairc":0,"weapon":60,]),])
+SaveDbase2 (["1":(["gold":29000,"back2c":0,"weaponc2":0,"backc":0,"number":29,"armorc":1107837448,"back":0,"weaponc":0,"shape":10001,"level":0,"photo":1,"armor":10001,"back2":0,"name":"Amethyst","family":"","hair":1,"hairc":0,"weapon":61,]),"2":(["gold":710255,"back2c":0,"weaponc2":0,"backc":32,"number":30,"armorc":0,"back":1,"weaponc":0,"shape":10059,"level":60,"photo":1,"armor":10059,"back2":0,"name":"MinhNhật","family":"Cấm Vệ Quân","hair":1,"hairc":0,"weapon":1856,]),])
 Owner "nganthao89"

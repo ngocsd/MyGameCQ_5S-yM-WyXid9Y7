@@ -1,16 +1,16 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"show_time":561,"shenshou":1,"no_fuse":1,])
+SaveDatabase (["show_time":494,"no_give":1,"no_fuse":1,"shenshou":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 89
 Spi 46
-Str 88
+Str 195
 Cps 47
 Dex 47
 HP (/909,1819,/)
 MP (/265,531,/)
 HP_Cent 24
-AP 225
+AP 500
 DP 342
 CP 267
 PP 172
@@ -20,7 +20,7 @@ mpPerform (["74001":1507600165,])
 Family (/0,0,0,0,0,0,0,/)
 Org (/"ADĐụt",0,0,0,0,0,0,/)
 City (/"Sở Quốc",0,0,0,0,0,0,/)
-Skills (["74132":(/1,0,/),"74218":(/1,0,/),"74219":(/1,0,/),"74001":(/1,0,/),"74216":(/1,0,/),"74220":(/1,0,/),])
+Skills (["74220":(/1,0,/),"74001":(/1,0,/),"74219":(/1,0,/),"74216":(/1,0,/),"74132":(/1,0,/),"74218":(/1,0,/),])
 WeaponCode 60
 Name "Xử"
 PicId 3026
@@ -37,11 +37,10 @@ FirstName "Xử Nữ"
 OwnerName "Nghịch03"
 OwnerAccount "tienduchdv"
 OwnerNumber 2
-lifetime 9658
-faith 25
+lifetime 9535
+faith 27
 blood 1
 Experience 31400
-GiftPoint 107
 iPortrait 3026
 con_grow 1803
 str_grow 676

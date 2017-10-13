@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["1":(["photo":1001,"weapon":3135,"shape":11058,"number":2,"family":"Cấm Vệ Quân","back2":0,"weaponc":0,"gold":20362664,"back":1,"hairc":0,"backc":2550255,"armorc":0,"weaponc2":1232,"name":"Nghịch03","back2c":0,"level":60,"armor":11058,"hair":1001,]),])
+SaveDbase2 (["1":(["gold":47338043,"back2c":0,"weaponc2":24576,"backc":2550255,"number":2,"armorc":0,"back":1,"weaponc":0,"shape":11058,"level":60,"photo":1001,"armor":11058,"back2":0,"name":"Nghịch03","family":"Cấm Vệ Quân","hair":1001,"hairc":0,"weapon":3135,]),])
 Owner "tienduchdv"
