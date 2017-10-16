@@ -1963,7 +1963,7 @@ int kicknguoichoi(object who, int giay)
 	else
 	{
 		if (get_z(who) == 910 || get_z(who) == 920){
-		send_user(who,"%c%s",'!',HIY"Đã hết thời gian trong bãi luyện tập.");
+		notify("Đã hết thời gian trong bãi luyện tập.");
 		//me->add_to_scene(80, 292, 184);
 		if ( random(100) < 30 ) {
 		who->add_to_scene(80, 291, 189);

@@ -43,7 +43,7 @@ int get_weapon_code() { return UNARMED; }
 int perform_action( object who ) { return 0; }    // XXXXX->perform_action_npc( this_object(), who ); }
 
 // 函数：掉宝奖励
-void drop_items( object who ) { __FILE__ ->drop_items_callout( this_object(), who ); who->add_exp(who->get_level()*200+3000);}
+void drop_items( object who ) { __FILE__ ->drop_items_callout( this_object(), who ); who->add_exp(who->get_level()*40+6000);}
 
 // 函数：掉宝奖励(在线更新)
 void drop_items_callout( object me, object who )

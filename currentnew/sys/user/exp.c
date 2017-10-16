@@ -84,9 +84,9 @@ int get_level_exp( int life, int level )
 		exp = allexp[level];
         switch( life )
         {
-       case 0 : return  exp ;
-       case 1 : return exp  * 3 / 2;
-      default : return exp * 2;
+       case 0 : return  exp * 5;
+       case 1 : return exp *5 * 3 / 2;
+      default : return exp * 10;
         }
 }
 

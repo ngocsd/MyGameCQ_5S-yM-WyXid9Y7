@@ -51,40 +51,40 @@ int get_max_char_level()
 {
 //	if ( MAIN_D->get_host_type() == 4 || MAIN_D->get_host_type() == 6012 )
 //		return 120;
-        return 60; // Giới hạn cấp
+        return 85; // Giới hạn cấp
 }
-int max_cap_ben() { return 60;}// 
+int max_cap_ben() { return 85;}// 
 // 函数：获取最高人物等级
 int get_max_char_level_2()
 {
 //	if ( MAIN_D->get_host_type() == 4 || MAIN_D->get_host_type() == 6012 )
 //		return 120;
-        return 100; // Giới hạn cấp cai cc j day
+        return 85; // Giới hạn cấp cai cc j day
 }
 // 函数：获取最高技能等级
 int get_max_skill_level()
 {
 //	if ( MAIN_D->get_host_type() == 4 || MAIN_D->get_host_type() == 6012 )
 //		return 120;
-        return 100;
+        return 200;
 }
 
 // 函数：获取最高技能等级
-int get_max_skill_level_2() { return 100; }
+int get_max_skill_level_2() { return 200; }
 
 // 函数：获取最高技能等级
 int get_max_skill_level_3()
 {
-        return 100;
+        return 200;
 }
 
 // 函数：获取最高技能等级(基本)
-int get_max_basic_skill_level_2() { return 100; }
+int get_max_basic_skill_level_2() { return 200; }
 
 // 函数：获取最高技能等级(基本)
 int get_max_basic_skill_level_3()
 {
-        return 100;
+        return 200;
 }
 
 /* // 函数：获取出招加乘率
