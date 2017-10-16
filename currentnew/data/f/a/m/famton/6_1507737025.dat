@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"no_fuse":1,"shenshou":1,])
+SaveDatabase (["shenshou":1,"no_give":1,"no_fuse":1,])
 SaveDbase2 ([])
 Con 10
 Spi 11
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74126":(/1,0,/),"74001":(/1,0,/),"74211":(/1,0,/),"74229":(/1,0,/),"74206":(/1,0,/),])
+Skills (["74126":(/1,0,/),"74229":(/1,0,/),"74211":(/1,0,/),"74206":(/1,0,/),"74001":(/1,0,/),])
 WeaponCode 60
 Name "Mục Dương"
 PicId 3021
@@ -35,7 +35,7 @@ OwnerName "Bon"
 OwnerAccount "famton"
 OwnerNumber 6
 lifetime 10000
-faith 80
+faith 100
 blood 1
 iPortrait 3021
 con_grow 1803

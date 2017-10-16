@@ -1,14 +1,14 @@
 #/sys/sys/count.c
 Effect ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
 boxcount 1
-buycount 363
-IncomeName ({"get","sell","mastertask","org","orgtrader",})
+buycount 578
+IncomeName ({"get","sell","mastertask","org","orgtrader","thief",})
 UseName ({"learn","family_use","buy","travel","die","chat","Giám định","repair","rumor","org","org-strong","orgbuy","insurance","Kết Hôn",})
-CommandName ({"go","tips","desc","E","gift","look","quit","say","use","remove","drop","talk","learn","key","pf","buyitem","NY100","无效","truyentong","UL","gmdrop","get","kill","use2","无指令","recover","move","list5","buy","zgdict","list","sell","vipchat","org","act","pf2","mix3","pawn","openbox","pet","pf5","title","team","mail","friend","give","chat","tt","mix2","list12","time","repair","codetanthu","codenammoi","noichuyen","list11","list4","goto2","pf4","codeevent","who","clone","suathuoctinh","thongbao","sys","TD","S2","HM","kickall","goto","summon","savings","family","set","thongbao2","mix4","SCS","mix5","NY1000","NY2000","tell","KT","mix7","csmm","reboot","NY500","rumor","party","go2map","g","infoabc","black","mix6","congdiem","gmset","doitoc2","pf3","exchange","promote","possess","FP","IC","KH","NL2","saveall","goiboss","SD","chuyenknb","MM","store","ot","codepret",})
-FamilyCount (["Vân Mộng Cốc":7,"":34,"Thục Sơn":1,"Cấm Vệ Quân":9,"Mao Sơn":4,"Đường Môn":3,"Đào Hoa Nguyên":1,"Côn Luân":1,])
-EquipCount (["yellow":487,"blue":57,])
-SceneTask (["Thủ Thuật Nhỏ":3,"Vệ Đội Trưởng Hoàng Kim Thánh Y":6,"Sứ Mệnh Đưa Thư":14,"Sư môn":4,])
-Pet (["Hợp thành kĩ năngNội Kháng Phù Trợ":4,"Hợp thành kĩ năngNgoại Kháng Phù Trợ":4,"Hợp thành kĩ năngKhí Huyết Phù Trợ":6,"Hợp thành kĩ năngCao Cấp Nhược Điểm Công Kích":1,"Hợp thành kĩ năngNgoại Công Phù Trợ":4,"Hợp thành kĩ năngNội Công Phù Trợ":6,])
+CommandName ({"go","tips","desc","E","gift","look","quit","say","use","remove","drop","talk","learn","key","pf","buyitem","NY100","无效","truyentong","UL","gmdrop","get","kill","use2","无指令","recover","move","list5","buy","zgdict","list","sell","vipchat","org","act","pf2","mix3","pawn","openbox","pet","pf5","title","team","mail","friend","give","chat","tt","mix2","list12","time","repair","codetanthu","codenammoi","noichuyen","list11","list4","goto2","pf4","codeevent","who","clone","suathuoctinh","thongbao","sys","TD","S2","HM","kickall","goto","summon","savings","family","set","thongbao2","mix4","SCS","mix5","NY1000","NY2000","tell","KT","mix7","csmm","reboot","NY500","rumor","party","go2map","g","infoabc","black","mix6","congdiem","gmset","doitoc2","pf3","exchange","promote","possess","FP","IC","KH","NL2","saveall","goiboss","SD","chuyenknb","MM","store","ot","codepret","code8x","shutup","toc","codetrianncc","hanhtrang",})
+FamilyCount (["Đào Hoa Nguyên":3,"Vân Mộng Cốc":8,"Thục Sơn":3,"":50,"Côn Luân":4,"Đường Môn":5,"Cấm Vệ Quân":11,"Mao Sơn":5,])
+EquipCount (["blue":126,"yellow":750,])
+SceneTask (["Thủ Thuật Nhỏ":6,"Sư môn":10,"Vệ Đội Trưởng Hoàng Kim Thánh Y":9,"王捕头赚钱":2,"Sứ Mệnh Đưa Thư":25,])
+Pet (["Hợp thành kĩ năngCao Cấp Hộ Thân Thuẫn":1,"Hợp thành kĩ năngNgoại Công Phù Trợ":7,"Hợp thành kĩ năngCao Cấp Nhược Điểm Công Kích":1,"Hợp thành kĩ năngNgoại Kháng Phù Trợ":5,"Hợp thành kĩ năngKhí Huyết Phù Trợ":10,"Hợp thành kĩ năngNội Công Phù Trợ":6,"Hợp thành kĩ năngNội Kháng Phù Trợ":4,])
 iNewPerson 1
 hp1 ({32,120,72,84,72,84,72,60,})
 hp2 ({10,10,10,10,10,10,10,10,})

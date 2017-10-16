@@ -1,4 +1,4 @@
 #/inh/user/pawn.c
 Id 1
 Owner "nganthao90#2"
-Pawn (["34":"/item/dtkhoa/1032;1;[-]0,0","06":"/item/tienxu/fashion/nuhiep/trang;0;35099;35099;dp:150,|dp:150,pp:150,|pp:150,hp:200,|hp:200,bind:1,ADD:,=:2,+:0,$:500,B:0,;[-]0,0","05":"/item/std/0007;0;0;0;ADD:,=:2,+:0,$:500,B:0,;[#355#]1509071513,0","35":"/item/sell/2032;1;[-]0,0","14":"/item/tienxu/fashion/nuhiep/xanhla;0;35099;35099;dp:150,|dp:150,pp:150,|pp:150,hp:200,|hp:200,bind:2,ADD:,=:2,+:0,$:500,B:0,;[-]1508730124,0","27":"/item/sell/0032;1;[-]0,0","07":"/item/tienxu/fashion/nuhiep/hong;0;35099;35099;dp:150,|dp:150,pp:150,|pp:150,hp:200,|hp:200,bind:1,ADD:,=:2,+:0,$:500,B:0,;[-]0,0",])
+Pawn (["06":"/item/tienxu/fashion/nuhiep/trang;0;35099;35099;dp:150,|dp:150,pp:150,|pp:150,hp:200,|hp:200,bind:1,ADD:,=:2,+:0,$:500,B:0,;[-]0,0","07":"/item/tienxu/fashion/nuhiep/hong;0;35099;35099;dp:150,|dp:150,pp:150,|pp:150,hp:200,|hp:200,bind:1,ADD:,=:2,+:0,$:500,B:0,;[-]0,0","05":"/item/std/0007;0;0;0;ADD:,=:2,+:0,$:500,B:0,;[#355#]1509071513,0","14":"/item/tienxu/fashion/nuhiep/xanhla;0;35099;35099;dp:150,|dp:150,pp:150,|pp:150,hp:200,|hp:200,bind:2,ADD:,=:2,+:0,$:500,B:0,;[-]1508730124,0",])

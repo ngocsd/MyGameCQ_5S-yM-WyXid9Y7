@@ -27,3 +27,12 @@
 2017-10-12 23:33:42 MớiLớn(31) Tinh Nguyên Đơn Thỏ(Thỏ,31_1507825313) học Nội Công Phù Trợ 
 2017-10-12 23:35:10 MớiLớn(31) Tinh Nguyên Đơn Thỏ(Thỏ,31_1507825313) học Ngoại Kháng Phù Trợ mất đi Ngoại Công Phù Trợ
 2017-10-13 02:44:23 VMC(8) Tinh Nguyên Đơn Sư(Sư Tử,8_1507837415) học Nội Công Phù Trợ mất đi Miễn Nhiễm Trầm Mặc
+2017-10-13 20:45:23 Bon(6) Tinh Nguyên Đơn Xử(Xử Nữ,6_1507901042) học Ngoại Công Phù Trợ mất đi Cao Cấp Ngự Mệnh Thuật
+2017-10-13 20:46:13 Bon(6) Tinh Nguyên Đơn Xử(Xử Nữ,6_1507901042) học Khí Huyết Phù Trợ mất đi Biểu Diễn
+2017-10-13 20:46:23 Bon(6) Tinh Nguyên Đơn Xử(Xử Nữ,6_1507901042) học Cao Cấp Hộ Thân Thuẫn mất đi Ngoại Công Phù Trợ
+2017-10-13 20:47:06 Bon(6) Tinh Nguyên Đơn Xử(Xử Nữ,6_1507901042) học Ngoại Công Phù Trợ mất đi Khí Huyết Phù Trợ
+2017-10-13 20:47:39 Bon(6) Tinh Nguyên Đơn Xử(Xử Nữ,6_1507901042) học Khí Huyết Phù Trợ mất đi Cao Cấp Ngự Pháp
+2017-10-14 10:08:09 Lượn(24) Tinh Nguyên Đơn Rồng(Rồng,24_1507950464) học Ngoại Công Phù Trợ mất đi Cao Cấp Cường Công
+2017-10-14 21:24:08 Lượn(24) Tinh Nguyên Đơn Rồng(Rồng,24_1507950464) học Khí Huyết Phù Trợ mất đi Biểu Diễn
+2017-10-14 21:24:20 Lượn(24) Tinh Nguyên Đơn Rồng(Rồng,24_1507950464) học Ngoại Kháng Phù Trợ mất đi Khí Huyết Phù Trợ
+2017-10-14 21:24:29 Lượn(24) Tinh Nguyên Đơn Rồng(Rồng,24_1507950464) học Khí Huyết Phù Trợ mất đi Cao Cấp Phi Phong Ảnh

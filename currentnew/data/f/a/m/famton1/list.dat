@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["1":(["gold":1283165,"number":7,"back2c":0,"back2":0,"back":1,"weaponc2":20461,"hair":1003,"shape":11052,"level":55,"armorc":16711684,"hairc":0,"photo":1002,"armor":11052,"name":"Bum","weaponc":0,"family":"Đường Môn","weapon":3141,"backc":699050,]),])
+SaveDbase2 (["1":(["hair":1003,"family":"Đường Môn","back2c":0,"photo":1002,"armor":11052,"back2":0,"hairc":0,"name":"Bum","level":60,"shape":11052,"weapon":1605,"back":1,"weaponc2":0,"weaponc":0,"gold":30810518,"armorc":16711684,"backc":699050,"number":7,]),])
 Owner "famton1"

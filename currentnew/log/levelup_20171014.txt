@@ -1,0 +1,99 @@
+2017-10-14 00:13:20 famton1 7 Bum 56 Đường Môn
+2017-10-14 00:13:45 famton1 7 Bum 57 Đường Môn
+2017-10-14 00:14:19 famton1 7 Bum 58 Đường Môn
+2017-10-14 00:14:59 famton1 7 Bum 59 Đường Môn
+2017-10-14 00:16:07 famton1 7 Bum 60 Đường Môn
+2017-10-14 00:56:26 famton2 37 Cava 11 
+2017-10-14 00:56:26 famton2 37 Cava 12 
+2017-10-14 00:56:26 famton2 37 Cava 13 
+2017-10-14 00:57:58 famton2 37 Cava 14 
+2017-10-14 00:57:58 famton2 37 Cava 15 
+2017-10-14 00:58:25 famton2 37 Cava 16 
+2017-10-14 00:58:26 famton2 37 Cava 17 
+2017-10-14 00:58:26 famton2 37 Cava 18 
+2017-10-14 00:58:54 famton2 37 Cava 19 
+2017-10-14 00:58:54 famton2 37 Cava 20 
+2017-10-14 00:59:06 famton2 37 Cava 21 
+2017-10-14 01:00:25 famton2 37 Cava 22 
+2017-10-14 01:00:25 famton2 37 Cava 23 
+2017-10-14 01:00:36 famton2 37 Cava 24 
+2017-10-14 01:01:04 famton2 37 Cava 25 
+2017-10-14 01:01:05 famton2 37 Cava 26 
+2017-10-14 01:01:05 famton2 37 Cava 27 
+2017-10-14 01:01:27 famton2 37 Cava 28 
+2017-10-14 01:01:46 famton2 37 Cava 29 
+2017-10-14 01:01:53 famton2 37 Cava 30 
+2017-10-14 01:02:20 famton2 37 Cava 31 
+2017-10-14 01:02:38 famton2 37 Cava 32 
+2017-10-14 01:03:08 famton2 37 Cava 33 
+2017-10-14 01:03:59 famton2 37 Cava 34 
+2017-10-14 01:03:59 famton2 37 Cava 35 
+2017-10-14 01:05:39 famton2 37 Cava 36 
+2017-10-14 01:07:27 famton2 37 Cava 37 
+2017-10-14 01:08:59 famton2 37 Cava 38 
+2017-10-14 01:10:20 famton2 37 Cava 39 
+2017-10-14 01:11:28 famton2 37 Cava 40 
+2017-10-14 12:10:16 trungz1 35 Siêubúp#09 47 Vân Mộng Cốc
+2017-10-14 12:10:16 trungz1 35 Siêubúp#09 48 Vân Mộng Cốc
+2017-10-14 12:10:16 trungz1 35 Siêubúp#09 49 Vân Mộng Cốc
+2017-10-14 12:10:16 trungz1 35 Siêubúp#09 50 Vân Mộng Cốc
+2017-10-14 12:10:16 trungz1 35 Siêubúp#09 51 Vân Mộng Cốc
+2017-10-14 12:12:37 trungz1 35 Siêubúp#09 52 Vân Mộng Cốc
+2017-10-14 12:12:37 trungz1 35 Siêubúp#09 53 Vân Mộng Cốc
+2017-10-14 12:12:38 trungz1 35 Siêubúp#09 54 Vân Mộng Cốc
+2017-10-14 12:13:08 trungz1 35 Siêubúp#09 55 Vân Mộng Cốc
+2017-10-14 12:16:37 trungz1 35 Siêubúp#09 56 Vân Mộng Cốc
+2017-10-14 12:16:37 trungz1 35 Siêubúp#09 57 Vân Mộng Cốc
+2017-10-14 12:16:37 trungz1 35 Siêubúp#09 58 Vân Mộng Cốc
+2017-10-14 12:16:37 trungz1 35 Siêubúp#09 59 Vân Mộng Cốc
+2017-10-14 12:17:37 trungz1 35 Siêubúp#09 60 Vân Mộng Cốc
+2017-10-14 13:47:07 tienduchdv1#2 19 aPhúKuBé 41 
+2017-10-14 13:47:07 tienduchdv1#2 19 aPhúKuBé 42 
+2017-10-14 13:47:52 tienduchdv1#2 19 aPhúKuBé 43 
+2017-10-14 13:50:47 tienduchdv1#2 19 aPhúKuBé 44 
+2017-10-14 13:50:47 tienduchdv1#2 19 aPhúKuBé 45 
+2017-10-14 13:54:06 tienduchdv1#2 19 aPhúKuBé 46 
+2017-10-14 13:54:08 tienduchdv1#2 19 aPhúKuBé 47 
+2017-10-14 13:54:08 tienduchdv1#2 19 aPhúKuBé 48 
+2017-10-14 13:54:08 tienduchdv1#2 19 aPhúKuBé 49 
+2017-10-14 13:54:09 tienduchdv1#2 19 aPhúKuBé 50 
+2017-10-14 22:07:21 vttx3 39 FunFun 11 Đào Hoa Nguyên
+2017-10-14 22:07:22 vttx3 39 FunFun 12 Đào Hoa Nguyên
+2017-10-14 22:07:22 vttx3 39 FunFun 13 Đào Hoa Nguyên
+2017-10-14 22:07:22 vttx3 39 FunFun 14 Đào Hoa Nguyên
+2017-10-14 22:07:23 vttx3 39 FunFun 15 Đào Hoa Nguyên
+2017-10-14 22:07:56 vttx3 39 FunFun 16 Đào Hoa Nguyên
+2017-10-14 22:07:56 vttx3 39 FunFun 17 Đào Hoa Nguyên
+2017-10-14 22:10:12 vttx3 39 FunFun 18 Đào Hoa Nguyên
+2017-10-14 22:10:13 vttx3 39 FunFun 19 Đào Hoa Nguyên
+2017-10-14 22:10:13 vttx3 39 FunFun 20 Đào Hoa Nguyên
+2017-10-14 22:10:13 vttx3 39 FunFun 21 Đào Hoa Nguyên
+2017-10-14 22:10:13 vttx3 39 FunFun 22 Đào Hoa Nguyên
+2017-10-14 22:12:42 vttx3 39 FunFun 23 Đào Hoa Nguyên
+2017-10-14 22:12:45 vttx3 39 FunFun 24 Đào Hoa Nguyên
+2017-10-14 22:12:47 vttx3 39 FunFun 25 Đào Hoa Nguyên
+2017-10-14 22:14:26 vttx3 39 FunFun 26 Đào Hoa Nguyên
+2017-10-14 22:15:59 vttx3 39 FunFun 27 Đào Hoa Nguyên
+2017-10-14 22:15:59 vttx3 39 FunFun 28 Đào Hoa Nguyên
+2017-10-14 22:16:29 vttx3 39 FunFun 29 Đào Hoa Nguyên
+2017-10-14 22:16:49 vttx3 39 FunFun 30 Đào Hoa Nguyên
+2017-10-14 22:17:55 vttx3 39 FunFun 31 Đào Hoa Nguyên
+2017-10-14 23:19:01 vttx3 39 FunFun 32 Đào Hoa Nguyên
+2017-10-14 23:19:01 vttx3 39 FunFun 33 Đào Hoa Nguyên
+2017-10-14 23:19:03 vttx3 39 FunFun 34 Đào Hoa Nguyên
+2017-10-14 23:19:51 vttx3 39 FunFun 35 Đào Hoa Nguyên
+2017-10-14 23:20:56 vttx3 39 FunFun 36 Đào Hoa Nguyên
+2017-10-14 23:20:56 vttx3 39 FunFun 37 Đào Hoa Nguyên
+2017-10-14 23:20:56 vttx3 39 FunFun 38 Đào Hoa Nguyên
+2017-10-14 23:20:56 vttx3 39 FunFun 39 Đào Hoa Nguyên
+2017-10-14 23:21:40 vttx3 39 FunFun 40 Đào Hoa Nguyên
+2017-10-14 23:21:40 vttx3 39 FunFun 41 Đào Hoa Nguyên
+2017-10-14 23:22:20 vttx3 39 FunFun 42 Đào Hoa Nguyên
+2017-10-14 23:22:20 vttx3 39 FunFun 43 Đào Hoa Nguyên
+2017-10-14 23:22:57 vttx3 39 FunFun 44 Đào Hoa Nguyên
+2017-10-14 23:22:57 vttx3 39 FunFun 45 Đào Hoa Nguyên
+2017-10-14 23:23:39 vttx3 39 FunFun 46 Đào Hoa Nguyên
+2017-10-14 23:24:27 vttx3 39 FunFun 47 Đào Hoa Nguyên
+2017-10-14 23:24:27 vttx3 39 FunFun 48 Đào Hoa Nguyên
+2017-10-14 23:25:08 vttx3 39 FunFun 49 Đào Hoa Nguyên
+2017-10-14 23:25:31 vttx3 39 FunFun 50 Đào Hoa Nguyên

@@ -1,0 +1,3 @@
+2017-10-13 16:39:47 : VMC (8) giao dịch  Túi Quà Vô Song với người chơi Nghịch03 có số id 2
+2017-10-13 20:25:18 : ❤Phủ (3) giao dịch  với người chơi Bon có số id 6
+2017-10-13 20:37:34 : Bon (6) giao dịch  12 lượng với người chơi Bum có số id 7

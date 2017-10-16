@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"no_fuse":1,"shenshou":1,])
+SaveDatabase (["shenshou":1,"no_give":1,"no_fuse":1,])
 SaveDbase2 ([])
 Con 29
 Spi 10
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/0,0,0,0,0,0,0,/)
 City (/0,0,0,0,0,0,0,/)
-Skills (["74214":(/1,0,/),"74001":(/1,0,/),"74207":(/1,0,/),"74205":(/1,0,/),"74218":(/1,0,/),])
+Skills (["74214":(/1,0,/),"74218":(/1,0,/),"74207":(/1,0,/),"74001":(/1,0,/),"74205":(/1,0,/),])
 WeaponCode 60
 Name "Rắn"
 PicId 3012
