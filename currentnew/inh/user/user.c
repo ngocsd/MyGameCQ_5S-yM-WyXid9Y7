@@ -1958,34 +1958,35 @@ int kicknguoichoi(object who, int giay)
 	giay = giay - 1;
 	if( giay > 0 )
 	{
-		call_out("kicknguoichoi",giay,who,1);
+		if (get_z(who) == 910 || get_z(who) == 920)
+			call_out("kicknguoichoi",giay,who,1);
 	}
 	else
 	{
 		if (get_z(who) == 910 || get_z(who) == 920){
-		notify("Đã hết thời gian trong bãi luyện tập.");
-		//me->add_to_scene(80, 292, 184);
-		if ( random(100) < 30 ) {
-		who->add_to_scene(80, 291, 189);
-		}
-		else if ( random(100) < 40 ) {
-		who->add_to_scene(80, 295, 187);
-		}
-		else if ( random(100) < 50 ) {
-		who->add_to_scene(80, 298, 184);
-		}
-		else if ( random(100) < 60 ) {
-		who->add_to_scene(80, 296, 181);
-		}
-		else if ( random(100) < 70 ) {
-		who->add_to_scene(80, 292, 180);
-		}
-		else if ( random(100) < 80 ) {
-		who->add_to_scene(80, 289, 181);
-		}
-		else {
-		who->add_to_scene(80, 287, 184);
-		}
+			send_user(who, "%c%s", ';', HIY "Đã hết 10 phút trong bãi luyện tập");
+			//me->add_to_scene(80, 292, 184);
+			if ( random(100) < 30 ) {
+			who->add_to_scene(80, 291, 189);
+			}
+			else if ( random(100) < 40 ) {
+			who->add_to_scene(80, 295, 187);
+			}
+			else if ( random(100) < 50 ) {
+			who->add_to_scene(80, 298, 184);
+			}
+			else if ( random(100) < 60 ) {
+			who->add_to_scene(80, 296, 181);
+			}
+			else if ( random(100) < 70 ) {
+			who->add_to_scene(80, 292, 180);
+			}
+			else if ( random(100) < 80 ) {
+			who->add_to_scene(80, 289, 181);
+			}
+			else {
+			who->add_to_scene(80, 287, 184);
+			}
 		}
 	}
 }
