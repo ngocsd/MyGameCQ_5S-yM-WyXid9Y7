@@ -98,3 +98,5 @@
 2017-10-15 20:01:10 Sơn Đại Vương xuất hiện
 2017-10-15 20:11:34 Khu Thi Đạo Trưởng xuất hiện
 2017-10-16 14:10:24 Khu Thi Đạo Trưởng bị tiêu diệt
+2017-10-16 21:35:50 Khu Thi Đạo Trưởng xuất hiện
+2017-10-17 20:00:44 Sơn Đại Vương xuất hiện

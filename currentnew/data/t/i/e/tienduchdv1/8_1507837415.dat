@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_give":1,"show_time":475,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":182,"shenshou":1,"no_fuse":1,])
 SaveDbase2 ([])
 Con 37
 Spi 35
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/"ADĐụt",0,0,0,0,0,0,/)
 City (/"Sở Quốc",0,0,0,0,0,0,/)
-Skills (["74208":(/1,0,/),"74226":(/1,0,/),"74217":(/1,0,/),"74206":(/1,0,/),"74001":(/1,0,/),])
+Skills (["74001":(/1,0,/),"74206":(/1,0,/),"74226":(/1,0,/),"74208":(/1,0,/),"74217":(/1,0,/),])
 WeaponCode 60
 Name "Sư"
 PicId 3025
@@ -35,8 +35,8 @@ FirstName "Sư Tử"
 OwnerName "VMC"
 OwnerAccount "tienduchdv1"
 OwnerNumber 8
-lifetime 9888
-faith 18
+lifetime 9884
+faith 96
 blood 1
 Experience 7557
 GiftPoint 59
