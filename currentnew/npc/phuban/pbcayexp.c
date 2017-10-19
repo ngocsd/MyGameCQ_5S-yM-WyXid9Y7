@@ -80,7 +80,7 @@ void do_welcome2(object me, string arg)
 		/*xaphu = new("npc/phuban/xaphu");
 			xaphu->add_to_scene(910,52,46); */
 		who->add_to_scene(910, 54, 44);
-		"/inh/user/user"->kicknguoichoi(who, 20);
+		"/inh/user/user"->kicknguoichoi(who, 600);
 		send_user(who, "%c%s", ';', HIY "Tiến vào bãi luyện tập thành công! Bạn có 10 phút để luyện cấp! Chúc bạn may mắn! ");
 		break;
 	}
