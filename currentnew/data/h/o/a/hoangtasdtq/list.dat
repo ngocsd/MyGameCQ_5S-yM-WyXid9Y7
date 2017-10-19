@@ -1,5 +1,5 @@
 #/inh/user/list.c
 Effect ({})
 SaveDatabase ([])
-SaveDbase2 (["1":(["weaponc":0,"back":1,"weaponc2":20461,"hairc":0,"photo":2,"back2c":0,"family":"Đường Môn","armor":10005,"back2":0,"gold":8212,"name":"Iwato","hair":3,"level":27,"shape":10005,"number":40,"backc":32,"armorc":0,"weapon":3141,]),])
+SaveDbase2 (["1":(["level":27,"family":"Đường Môn","name":"Iwato","back":1,"number":40,"weaponc":0,"weaponc2":20461,"photo":2,"hair":3,"backc":32,"gold":8212,"armor":10005,"back2c":0,"armorc":0,"back2":0,"weapon":3141,"shape":10005,"hairc":0,]),"2":(["level":5,"family":"","name":"Kain","back":0,"number":53,"weaponc":0,"weaponc2":0,"photo":2,"hair":3,"backc":0,"gold":1000,"armor":10001,"back2c":0,"armorc":1107837448,"back2":0,"weapon":64,"shape":10001,"hairc":0,]),"4":(["level":11,"family":"Côn Luân","name":"Homura","back":0,"number":52,"weaponc":0,"weaponc2":0,"photo":2,"hair":3,"backc":0,"gold":5941,"armor":10006,"back2c":0,"armorc":1107837448,"back2":0,"weapon":574,"shape":10006,"hairc":0,]),"3":(["level":43,"family":"Mao Sơn","name":"zIwato","back":7,"number":55,"weaponc":0,"weaponc2":20461,"photo":2,"hair":3,"backc":96,"gold":43497872,"armor":10055,"back2c":96,"armorc":0,"back2":7,"weapon":3134,"shape":10055,"hairc":0,]),])
 Owner "hoangtasdtq"

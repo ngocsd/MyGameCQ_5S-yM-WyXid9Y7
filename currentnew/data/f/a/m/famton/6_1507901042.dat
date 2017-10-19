@@ -1,14 +1,14 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_give":1,"show_time":500,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":197,"no_fuse":1,"shenshou":1,])
 SaveDbase2 ([])
 Con 54
 Spi 100
 Str 55
 Cps 56
 Dex 55
-HP (/1016,1134,/)
-MP (/1193,1212,/)
-HP_Cent 44
+HP (/567,1134,/)
+MP (/606,1212,/)
+HP_Cent 25
 AP 144
 DP 521
 CP 596
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/"ADĐụt",0,0,0,0,0,0,/)
 City (/"Sở Quốc",0,0,0,0,0,0,/)
-Skills (["74201":(/1,0,/),"74220":(/1,0,/),"74216":(/1,0,/),"74105":(/1,0,/),"74132":(/1,0,/),])
+Skills (["74216":(/1,0,/),"74201":(/1,0,/),"74105":(/1,0,/),"74220":(/1,0,/),"74132":(/1,0,/),])
 WeaponCode 60
 Name "Xử"
 PicId 3026
@@ -35,8 +35,8 @@ FirstName "Xử Nữ"
 OwnerName "Bon"
 OwnerAccount "famton"
 OwnerNumber 6
-lifetime 9886
-faith 61
+lifetime 9776
+faith 1
 blood 1
 Experience 86332
 GiftPoint 176

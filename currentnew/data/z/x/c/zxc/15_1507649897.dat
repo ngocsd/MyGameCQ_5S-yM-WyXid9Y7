@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_give":1,"show_time":472,"no_fuse":1,"sungvatthach":0,])
+SaveDatabase (["no_give":1,"show_time":472,"sungvatthach":0,"shenshou":1,"no_fuse":1,])
 SaveDbase2 ([])
 Con 54
 Spi 230
@@ -14,11 +14,11 @@ DP 454
 CP 1646
 PP 894
 SP 255
-mpPerform (["74232":1507898557,"74001":1507697508,])
+mpPerform (["74001":1507697508,"74232":1507898557,])
 Family (/0,0,0,0,0,0,0,/)
 Org (/"ADĐụt",0,0,0,0,0,0,/)
 City (/"Sở Quốc",0,0,0,0,0,0,/)
-Skills (["74211":(/1,0,/),"74229":(/1,0,/),"74217":(/1,0,/),"74206":(/1,0,/),"74232":(/1,0,/),])
+Skills (["74211":(/1,0,/),"74229":(/1,0,/),"74217":(/1,0,/),"74232":(/1,0,/),"74206":(/1,0,/),])
 WeaponCode 60
 Name "Dubai"
 PicId 3029

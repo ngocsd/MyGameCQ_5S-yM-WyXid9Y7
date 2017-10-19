@@ -1,4 +1,4 @@
-Microsoft Windows 95, Fri Oct 13 11:08:32 2017
+Microsoft Windows 95, Thu Oct 19 19:07:48 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
@@ -18,40 +18,3 @@ Loading 44 preload files ...
 Initializations complete.
 
 Open connection port: 8888 
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1965
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1965
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1965
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1965
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1965
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1965
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1965
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1965
-Bad argument 1 to get_z()
-Expected: object Got: 0.
-program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1965
-'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1965
-Wrong permissions for opening file /../currentnew//log/item_20171016.dat for append.
-"Permission denied"
-program: /sys/main/efun.c, object: /sys/main/efun, file: /sys/main/efun.c:57
-'   command_hook' in '      inh/char/cmd.c' (' inh/user/user#261a2') /inh/char/cmd.c:76
-'           main' in '        cmd/std/pf.c' ('          cmd/std/pf') /cmd/std/pf.c:136
-'           main' in '    skill/02/02514.c' ('      skill/02/02514') /skill/02/02514.c:62
-'   perform_done' in '    skill/02/02514.c' ('      skill/02/02514') /skill/02/02514.c:82
-'    attack_done' in '    sys/char/fight.c' ('      sys/char/fight') /sys/char/fight.c:1101
-'   is_enemy_die' in '      sys/char/die.c' ('        sys/char/die') /sys/char/die.c:225
-'      win_bonus' in '       inh/npc/npc.c' ('npc/event/304/trebo#25518') /inh/npc/npc.c:379
-'      win_bonus' in '       sys/npc/npc.c' ('         sys/npc/npc') /sys/npc/npc.c:220
-'     drop_items' in 'npc/event/304/trebo.c' ('npc/event/304/trebo#25518') /npc/event/304/trebo.c:42
-'drop_items_callout' in 'npc/event/304/trebo.c' (' npc/event/304/trebo') /npc/event/304/trebo.c:55
-'       add_cash' in '     inh/user/prop.c' (' inh/user/user#261a2') /inh/user/prop.c:591
-'       log_item' in '      sys/user/cmd.c' ('        sys/user/cmd') /sys/user/cmd.c:178
-'       log_file' in '     sys/main/efun.c' ('       sys/main/efun') /sys/main/efun.c:57
-closed external ports

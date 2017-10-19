@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_give":1,"show_time":129,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":316,"shenshou":1,"no_fuse":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 29
@@ -7,19 +7,20 @@ Spi 17
 Str 25
 Cps 24
 Dex 15
-HP (/549,570,/)
-MP (/64,69,/)
-HP_Cent 50
+HP (/285,570,/)
+MP (/34,69,/)
+HP_Cent 25
 AP 119
 DP 174
 CP 44
 PP 44
 SP 41
+Poison 1
 mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/"ADĐụt",0,0,0,0,0,0,/)
 City (/"Sở Quốc",0,0,0,0,0,0,/)
-Skills (["74220":(/1,0,/),"74231":(/1,0,/),"74225":(/1,0,/),"74216":(/1,0,/),"74218":(/1,0,/),])
+Skills (["74225":(/1,0,/),"74216":(/1,0,/),"74218":(/1,0,/),"74231":(/1,0,/),"74220":(/1,0,/),])
 WeaponCode 60
 Name "Rồng"
 PicId 3011
@@ -36,8 +37,8 @@ FirstName "Rồng"
 OwnerName "Lượn"
 OwnerAccount "11qe#2"
 OwnerNumber 24
-lifetime 9667
-faith 20
+lifetime 9288
+faith 57
 blood 1
 Experience 110
 GiftPoint 8
