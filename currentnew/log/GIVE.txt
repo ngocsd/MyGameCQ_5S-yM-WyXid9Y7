@@ -733,3 +733,41 @@
 2017-10-19 00:28:15 : Nghịch03 (2) đã chuyển Công thức Lôi Thần Quán , Công thức Lôi Thần Chiến Khôi , Công thức Lôi Thần Pháp Bào , Công thức Phong Thần Hài , Công thức Lôi Thần Chiến Khôi , Công thức Lôi Thần Pháp Bào cho người chơi VMC có số id 8
 2017-10-19 00:33:41 : VMC (8) đã chuyển Lôi Thần Pháp Bào cho người chơi Nghịch03 có số id 2
 2017-10-19 00:44:40 : VMC (8) đã chuyển Hỗn Thiên Chiến Ngoa cho người chơi Nghịch03 có số id 2
+2017-10-19 06:51:59 : ❣EmPlus (4) đã chuyển Hồi Thành Phù cho người chơi ❤Phủ có số id 3
+2017-10-19 06:53:38 : ❤Phủ (3) đã chuyển Phi Hành Phù cho người chơi ❣EmPlus có số id 4
+2017-10-19 07:30:27 : iiiiiiiiii (21) đã chuyển Phóng , Động , Lao , Giải Phóng Lao Động , Giải cho người chơi ❣EmPlus có số id 4
+2017-10-19 07:34:07 : ❤Phủ (3) đã chuyển Hỗn Thiên Chiến Ngoa , Hỗn Thiên Chiến Ngoa cho người chơi VMC có số id 8
+2017-10-19 07:44:26 : ❣EmPlus (4) đã chuyển Lỗ Ban Bảo Thạch cho người chơi ❤Phủ có số id 3
+2017-10-19 07:48:01 : ❤Phủ (3) đã chuyển Thị Thiên Hài , Thị Thiên Hài cho người chơi ❣EmPlus có số id 4
+2017-10-19 07:55:15 : ❤Phủ (3) đã chuyển Hỗn Thiên Hài cho người chơi ❣EmPlus có số id 4
+2017-10-19 07:59:56 : ❣EmPlus (4) đã chuyển Hỗn Thiên Hài cho người chơi ❤Phủ có số id 3
+2017-10-19 08:01:31 : ❣EmPlus (4) đã chuyển Cường Hiệu Pháp Lực cho người chơi ❤Phủ có số id 3
+2017-10-19 08:24:45 : Lượn (24) đã chuyển Bí Kíp Kim Nguyên Bảo(200) cho người chơi Láo-À có số id 58
+2017-10-19 08:25:03 : Lượn (24) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi Láo-À có số id 58
+2017-10-19 08:44:06 : Lượn (24) đã chuyển  5000000 lượng cho người chơi Láo-À có số id 58
+2017-10-19 09:05:57 : Láo-À (58) đã chuyển Phi Hành Phù cho người chơi Lượn có số id 24
+2017-10-19 09:41:37 : Láo-À (58) đã chuyển Đá Tương Uyên , Đá Càn Khôn cho người chơi Lượn có số id 24
+2017-10-19 11:37:21 : Lượn (24) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Nghịch03 có số id 2
+2017-10-19 11:38:06 : Lượn (24) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Nghịch03 có số id 2
+2017-10-19 11:39:36 : Nghịch03 (2) đã chuyển Túi Tử Kim cấp 85 cho người chơi Lượn có số id 24
+2017-10-19 11:40:30 : Lượn (24) đã chuyển Túi Tử Kim cấp 85 cho người chơi Láo-À có số id 58
+2017-10-19 13:21:03 : SàiGòn (44) đã chuyển Đá Tương Uyên , Đá Càn Khôn , Vô Song Điểm Phiếu cho người chơi HàNội có số id 43
+2017-10-19 13:38:58 : Lượn (24) đã chuyển Lạp Báo Hạng Liên , Truy Tâm Tiễn , Bách Luyện Đới cho người chơi Hế có số id 51
+2017-10-19 13:39:34 : Á-À (23) đã chuyển Hạt Mè Khai Môn cho người chơi Hế có số id 51
+2017-10-19 13:40:57 : Hế (51) đã chuyển Truy Tâm Tiễn , Bách Luyện Đới , Lạp Báo Hạng Liên cho người chơi Bum có số id 7
+2017-10-19 13:41:37 : Hế (51) đã chuyển Hạt Mè Khai Môn cho người chơi Bum có số id 7
+2017-10-19 13:42:37 : Bum (7) đã chuyển Lệnh PretKuzl cho người chơi Hế có số id 51
+2017-10-19 13:51:36 : Bum (7) đã chuyển Truy Tâm Tiễn , Bách Luyện Đới cho người chơi Hế có số id 51
+2017-10-19 14:34:21 : Hế (51) đã chuyển Truy Tâm Tiễn , Bách Luyện Đới cho người chơi Lượn có số id 24
+2017-10-19 16:22:04 : Lượn (24) đã chuyển Nhiếp Hồn Linh cho người chơi Láo-À có số id 58
+2017-10-19 18:25:34 : Bon (6) đã chuyển Lao , Giải , Động , Phóng cho người chơi Bum có số id 7
+2017-10-19 18:26:46 : ❤Phủ (3) đã chuyển Thần Hành Chiến Khôi cho người chơi Bon có số id 6
+2017-10-19 18:30:02 : Lượn (24) đã chuyển Tích Lịch Đạn , Truy Tâm Tiễn , Bích Hỏa Hàn Nguyệt Hoàn , Kim Ty Hài cho người chơi Láo-À có số id 58
+2017-10-19 18:31:59 : Bon (6) đã chuyển Thần Hành Chiến Khôi cho người chơi Fato có số id 36
+2017-10-19 18:32:11 : Bon (6) đã chuyển  4000000 lượng cho người chơi Fato có số id 36
+2017-10-19 18:42:24 : Fato (36) đã chuyển  441000 lượng , Thần Hành Chiến Khôi cho người chơi T.T có số id 32
+2017-10-19 18:43:12 : Bum (7) đã chuyển  5000000 lượng cho người chơi T.T có số id 32
+2017-10-19 18:46:09 : Bon (6) đã chuyển Vô Song Điểm Phiếu cho người chơi Bum có số id 7
+2017-10-19 18:49:59 : Bum (7) đã chuyển Đấu Chiến Gấm Y (Nam) , Đấu Chiến Gấm Y (Nam) , Đấu Chiến Gấm Y (Nam) , Đấu Chiến Gấm Y (Nam) cho người chơi Lượn có số id 24
+2017-10-19 18:51:25 : T.T (32) đã chuyển Thần Hành Chiến Khôi cho người chơi Bon có số id 6
+2017-10-19 18:52:00 : Bum (7) đã chuyển Vô Song Điểm Phiếu cho người chơi Bon có số id 6

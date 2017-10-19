@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["no_give":1,"show_time":197,"shenshou":1,"no_fuse":1,])
+SaveDatabase (["no_give":1,"show_time":197,"no_fuse":1,"shenshou":1,])
 SaveDbase2 ([])
 Con 54
 Spi 100
@@ -18,7 +18,7 @@ mpPerform ([])
 Family (/0,0,0,0,0,0,0,/)
 Org (/"ADĐụt",0,0,0,0,0,0,/)
 City (/"Sở Quốc",0,0,0,0,0,0,/)
-Skills (["74105":(/1,0,/),"74220":(/1,0,/),"74132":(/1,0,/),"74201":(/1,0,/),"74216":(/1,0,/),])
+Skills (["74216":(/1,0,/),"74201":(/1,0,/),"74105":(/1,0,/),"74220":(/1,0,/),"74132":(/1,0,/),])
 WeaponCode 60
 Name "Xử"
 PicId 3026

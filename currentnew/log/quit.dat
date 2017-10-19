@@ -160,3 +160,17 @@ normal:5 reconnect:0 netdead=0 kickout=0
 normal:5 reconnect:1 netdead=0 kickout=0
 normal:1 reconnect:2 netdead=0 kickout=0
 normal:0 reconnect:1 netdead=0 kickout=0
+normal:2 reconnect:1 netdead=0 kickout=0
+normal:4 reconnect:0 netdead=0 kickout=0
+normal:1 reconnect:0 netdead=0 kickout=0
+normal:1 reconnect:0 netdead=0 kickout=0
+normal:5 reconnect:0 netdead=0 kickout=0
+normal:3 reconnect:0 netdead=0 kickout=0
+normal:7 reconnect:0 netdead=0 kickout=0
+normal:2 reconnect:0 netdead=0 kickout=0
+normal:5 reconnect:0 netdead=0 kickout=0
+normal:3 reconnect:0 netdead=0 kickout=0
+normal:1 reconnect:0 netdead=0 kickout=0
+normal:5 reconnect:0 netdead=0 kickout=0
+normal:1 reconnect:1 netdead=0 kickout=0
+normal:9 reconnect:1 netdead=0 kickout=0
