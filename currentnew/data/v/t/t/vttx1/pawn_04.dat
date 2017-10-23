@@ -1,4 +1,4 @@
 #/inh/user/pawn.c
 Id 4
 Owner "vttx1"
-Pawn (["43":"/item/stuff/0092;4;[-]0,0","47":"/item/stuff/0039;17;[-]0,0","32":"/item/event/304/lao;11;[-]0,0","40":"/item/soxo/soxo4;2;[vttx1]0,0","41":"/item/stuff/0059;4;[-]0,0","06":"/item/sell/0034;0;[-]0,0","07":"/item/sell/0034;0;[-]0,0","14":"/item/91/9167;2;[vttx1]0,0","44":"/item/stuff/0323;17;[-]0,0","39":"/item/soxo/soxo3;2;[vttx1]0,0","46":"/item/stuff/0060;18;[-]0,0","24":"/item/event/304/dong;8;[-]0,0","48":"/item/stuff/0038;4;[-]0,0","34":"/item/stuff/0093;18;[-]0,0","38":"/item/soxo/soxo2;2;[vttx1]0,0","45":"/item/08/0016;5;[-]0,0",])
+Pawn (["47":"/item/stuff/0039;17;[-]0,0","46":"/item/stuff/0060;18;[-]0,0","43":"/item/stuff/0092;4;[-]0,0","41":"/item/stuff/0059;4;[-]0,0","34":"/item/stuff/0093;18;[-]0,0","07":"/item/sell/0034;0;[-]0,0","44":"/item/stuff/0323;17;[-]0,0","06":"/item/sell/0034;0;[-]0,0","48":"/item/stuff/0038;4;[-]0,0",])

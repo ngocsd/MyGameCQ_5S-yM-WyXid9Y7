@@ -1,4 +1,4 @@
-Microsoft Windows 95, Thu Oct 19 19:07:48 2017
+Microsoft Windows 95, Thu Oct 19 19:18:14 2017
 
 CQ (GSE 1.0) using GSE.ini starting up ...
 
@@ -18,3 +18,23 @@ Loading 44 preload files ...
 Initializations complete.
 
 Open connection port: 8888 
+Bad argument 1 to get_z()
+Expected: object Got: 0.
+program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
+'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966
+Bad argument 1 to get_z()
+Expected: object Got: 0.
+program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
+'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966
+Bad argument 1 to get_z()
+Expected: object Got: 0.
+program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
+'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966
+Bad argument 1 to get_z()
+Expected: object Got: 0.
+program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
+'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966
+Bad argument 1 to get_z()
+Expected: object Got: 0.
+program: /inh/user/user.c, object: /inh/user/user, file: /inh/user/user.c:1966
+'  kicknguoichoi' in '     inh/user/user.c' ('       inh/user/user') /inh/user/user.c:1966

@@ -1,5 +1,5 @@
 #/npc/std/pet.c
-SaveDatabase (["shenshou":1,"no_give":1,"show_time":264,"no_fuse":1,])
+SaveDatabase (["show_time":102,"no_fuse":1,"shenshou":1,"no_give":1,])
 SaveDbase2 ([])
 NoFight 1
 Con 56
@@ -7,7 +7,7 @@ Spi 64
 Str 236
 Cps 68
 Dex 81
-HP (/1293,1043,/)
+HP (/1293,1293,/)
 MP (/349,349,/)
 HP_Cent 50
 AP 1521
@@ -36,8 +36,8 @@ FirstName "Ngưu Trâu"
 OwnerName "#25"
 OwnerAccount "hieuls192a1"
 OwnerNumber 5
-lifetime 9540
-faith 20
+lifetime 9512
+faith 92
 blood 1
 Experience 45676
 iPortrait 3008

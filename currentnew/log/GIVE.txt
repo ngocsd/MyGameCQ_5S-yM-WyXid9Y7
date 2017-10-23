@@ -771,3 +771,171 @@
 2017-10-19 18:49:59 : Bum (7) đã chuyển Đấu Chiến Gấm Y (Nam) , Đấu Chiến Gấm Y (Nam) , Đấu Chiến Gấm Y (Nam) , Đấu Chiến Gấm Y (Nam) cho người chơi Lượn có số id 24
 2017-10-19 18:51:25 : T.T (32) đã chuyển Thần Hành Chiến Khôi cho người chơi Bon có số id 6
 2017-10-19 18:52:00 : Bum (7) đã chuyển Vô Song Điểm Phiếu cho người chơi Bon có số id 6
+2017-10-19 20:08:14 : SàiGòn (44) đã chuyển Quả hoàng kim cho người chơi HàNội có số id 43
+2017-10-19 21:57:30 : affk (57) đã chuyển Ám Tinh Thạch cấp 5  , Ám Tinh Thạch cấp 4  , Kim Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 6  , Thổ Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 5  cho người chơi Nghịch03 có số id 2
+2017-10-19 21:57:32 : affk (57) đã chuyển Ám Tinh Thạch cấp 5  cho người chơi Nghịch03 có số id 2
+2017-10-19 23:31:22 : Bon (6) đã chuyển Động , Lao , Phóng , Giải Phóng Lao Động , Giải cho người chơi Bum có số id 7
+2017-10-19 23:33:07 : Bon (6) đã chuyển Thần Hành Chiến Khôi cho người chơi Bum có số id 7
+2017-10-19 23:38:35 : Bon (6) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Bum có số id 7
+2017-10-20 09:19:46 : ❤Phủ (3) đã chuyển Chiến Quốc Lệnh cho người chơi ❣EmPlus có số id 4
+2017-10-20 09:46:57 : Nghịch03 (2) đã chuyển Chiến Lang Bì Mão , Công thức Lôi Thần Quán cho người chơi ❣EmPlus có số id 4
+2017-10-20 09:47:44 : Nghịch03 (2) đã chuyển Toàn Phong Yêu Đới cho người chơi ❣EmPlus có số id 4
+2017-10-20 10:10:16 : Nghịch03 (2) đã chuyển Hoàng Kim Giám Định Kính , Công thức Phong Thần Lý cho người chơi VMC có số id 8
+2017-10-20 10:10:40 : Nghịch03 (2) đã chuyển Đá Tương Uyên cho người chơi VMC có số id 8
+2017-10-20 10:13:59 : Bum (7) đã chuyển Thần Hành Chiến Khôi cho người chơi Bon có số id 6
+2017-10-20 10:31:08 : Nghịch03 (2) đã chuyển  50000000 lượng cho người chơi VMC có số id 8
+2017-10-20 15:46:12 : fim.conHeo (34) đã chuyển Sơ Cấp Đoạn Thạch , Sơ Cấp Đoạn Thạch cho người chơi #25 có số id 5
+2017-10-20 18:19:25 : HàNội (43) đã chuyển Trang Phục Mùa Hè (Nữ) , Trang Phục Mùa Hè (Nữ) cho người chơi SàiGòn có số id 44
+2017-10-20 20:39:44 : Siêubúp#09 (35) đã chuyển Túi Linh Thạch cho người chơi ❤Phủ có số id 3
+2017-10-20 20:50:24 : ❤Phủ (3) đã chuyển Hỏa Tinh Thạch cấp 5  cho người chơi ❣EmPlus có số id 4
+2017-10-20 20:56:00 : ❣EmPlus (4) đã chuyển Công thức Lôi Thần Chiến Khôi , Công thức Lôi Thần Quán , Công thức Thần Uy Chiến Khôi cho người chơi ❤Phủ có số id 3
+2017-10-20 21:32:49 : iiiiiiiiii (21) đã chuyển Giải , Giải Phóng Lao Động , Động , Lao , Phóng cho người chơi ❣EmPlus có số id 4
+2017-10-20 21:33:48 : iiiiiiiiii (21) đã chuyển Kim Tinh Thạch cấp 3  cho người chơi ❣EmPlus có số id 4
+2017-10-20 21:36:03 : ❤Phủ (3) đã chuyển Lỗ Ban Bảo Thạch , Đá Tương Uyên cho người chơi ❣EmPlus có số id 4
+2017-10-20 21:36:42 : ❤Phủ (3) đã chuyển Hoàng Kim Giám Định Kính cho người chơi ❣EmPlus có số id 4
+2017-10-20 21:37:28 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Khôi cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:23:48 : ❤Phủ (3) đã chuyển Trảm Hầu Lý cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:31:34 : ❤Phủ (3) đã chuyển Cao Cấp Bảo Thú Thực Phẩm cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:38:56 : ❤Phủ (3) đã chuyển Công thức Lôi Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:43:10 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Ngoa cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:46:25 : ❤Phủ (3) đã chuyển Hoàng Kim Giám Định Kính cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:48:25 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Y , Lôi Thần Lý , Thị Thiên Yêu Đới cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:49:00 : ❣EmPlus (4) đã chuyển Thị Thiên Yêu Đới , Lôi Thần Chiến Y , Lôi Thần Lý cho người chơi 123tt có số id 9
+2017-10-21 08:49:09 : ❣EmPlus (4) đã chuyển  100000000 lượng cho người chơi 123tt có số id 9
+2017-10-21 08:51:04 : ❣EmPlus (4) đã chuyển Hoàng Kim Giám Định Kính cho người chơi 123tt có số id 9
+2017-10-21 08:55:50 : 123tt (9) đã chuyển Lôi Thần Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-21 08:58:20 : 123tt (9) đã chuyển Thị Thiên Yêu Đới cho người chơi ❤Phủ có số id 3
+2017-10-21 08:59:05 : ❣EmPlus (4) đã chuyển Lôi Thần Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-21 08:59:51 : ❤Phủ (3) đã chuyển Thị Thiên Yêu Đới cho người chơi ❣EmPlus có số id 4
+2017-10-21 09:00:38 : ❣EmPlus (4) đã chuyển  1000000 lượng cho người chơi ❤Phủ có số id 3
+2017-10-21 09:00:48 : ❣EmPlus (4) đã chuyển  10000000 lượng cho người chơi ❤Phủ có số id 3
+2017-10-21 09:06:26 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Y cho người chơi 123tt có số id 9
+2017-10-21 09:15:11 : 123tt (9) đã chuyển Lôi Thần Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-21 09:17:04 : ❣EmPlus (4) đã chuyển Kim Tinh Thạch cấp 3  , Kim Tinh Thạch cấp 2  cho người chơi ❤Phủ có số id 3
+2017-10-21 09:18:58 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-21 09:46:43 : ❤Phủ (3) đã chuyển Nhật Tinh Thạch cấp 4  , Nhật Tinh Thạch cấp 6  cho người chơi ❣EmPlus có số id 4
+2017-10-21 09:47:20 : ❤Phủ (3) đã chuyển Cường Hiệu Nội Kháng cho người chơi ❣EmPlus có số id 4
+2017-10-21 10:08:02 : ❣EmPlus (4) đã chuyển Lôi Thần Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-21 10:09:43 : ❤Phủ (3) đã chuyển Cường Hoá Kim Châm Độ Ách cho người chơi Siêubúp#09 có số id 35
+2017-10-21 10:35:16 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Y cho người chơi Siêubúp#09 có số id 35
+2017-10-21 10:37:13 : ❤Phủ (3) đã chuyển Đoạn Thạch Đặc Biệt Sơ Cấp cho người chơi Lượn có số id 24
+2017-10-21 10:38:16 : ❤Phủ (3) đã chuyển Túi Pháp Bảo cho người chơi Siêubúp#09 có số id 35
+2017-10-21 10:39:10 : Siêubúp#09 (35) đã chuyển Lôi Thần Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-21 10:39:11 : Láo-À (58) đã chuyển Bích Hỏa Hàn Nguyệt Hoàn cho người chơi Lượn có số id 24
+2017-10-21 10:39:24 : Lượn (24) đã chuyển Hỷ Đường cho người chơi Láo-À có số id 58
+2017-10-21 10:39:24 : ❤Phủ (3) đã chuyển Thần Hành Chiến Y cho người chơi Siêubúp#09 có số id 35
+2017-10-21 10:40:11 : Siêubúp#09 (35) đã chuyển Thần Hành Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-21 10:40:36 : ❤Phủ (3) đã chuyển Thần Hành Pháp Quán cho người chơi Láo-À có số id 58
+2017-10-21 10:40:49 : ❤Phủ (3) đã chuyển Túi Hoàng Kim 6*(Giày) cấp 60 cho người chơi Láo-À có số id 58
+2017-10-21 10:41:08 : ❤Phủ (3) đã chuyển Thần Hành Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-21 13:23:49 : SàiGòn (44) đã chuyển Cản Nhật Yêu Đới cho người chơi HàNội có số id 43
+2017-10-21 19:46:20 : SàiGòn (44) đã chuyển  5000000 lượng cho người chơi HàNội có số id 43
+2017-10-21 20:23:29 : ❤Phủ (3) đã chuyển Ám Hồn Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-21 20:30:23 : ❤Phủ (3) đã chuyển Công thức Lôi Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:31:38 : iiiiiiiiii (21) đã chuyển Giải Phóng Lao Động , Giải , Lao , Phóng , Động cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:37:39 : ❣EmPlus (4) đã chuyển Cao Cấp Đoạn Thạch Kết Dính cho người chơi ❤Phủ có số id 3
+2017-10-22 07:37:47 : ❤Phủ (3) đã chuyển Hỷ Đường cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:47:01 : ❤Phủ (3) đã chuyển Lôi Thần Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:51:17 : ❤Phủ (3) đã chuyển Túi Pháp Bảo cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:51:47 : ❣EmPlus (4) đã chuyển Túi Pháp Bảo cho người chơi iiiiiiiiii có số id 21
+2017-10-22 07:53:30 : ❣EmPlus (4) đã chuyển Cao Cấp Đoạn Thạch Kết Dính , Lôi Thần Chiến Y cho người chơi iiiiiiiiii có số id 21
+2017-10-22 07:54:09 : iiiiiiiiii (21) đã chuyển Trung Cấp Đoạn Thạch , Cao Cấp Đoạn Thạch , Lôi Thần Chiến Y cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:54:38 : ❣EmPlus (4) đã chuyển Lôi Thần Chiến Y cho người chơi ❤Phủ có số id 3
+2017-10-22 07:56:00 : ❤Phủ (3) đã chuyển Kim Tinh Thạch cấp 1  cho người chơi ❣EmPlus có số id 4
+2017-10-22 07:59:48 : ❣EmPlus (4) đã chuyển Thổ Tinh Thạch cấp 4  cho người chơi ❤Phủ có số id 3
+2017-10-22 08:11:24 : ❣EmPlus (4) đã chuyển Hạt Mè Khai Môn , Lệnh PretKuzl cho người chơi ❤Phủ có số id 3
+2017-10-22 08:11:36 : ❤Phủ (3) đã chuyển Hạt Mè Khai Môn cho người chơi ❣EmPlus có số id 4
+2017-10-22 08:50:21 : ❤Phủ (3) đã chuyển Công thức Phong Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-22 14:56:27 : ❣EmPlus (4) đã chuyển Ma Tinh Thạch cho người chơi ❤Phủ có số id 3
+2017-10-22 14:57:18 : ❤Phủ (3) đã chuyển Công thức Lôi Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-22 14:58:24 : ❤Phủ (3) đã chuyển Hoàng Kim Giám Định Kính cho người chơi ❣EmPlus có số id 4
+2017-10-22 20:10:47 : Fun (10) đã chuyển  9689972 lượng , Đại Pháp Lực Thạch , Đại Huyết Thạch cho người chơi -TT- có số id 61
+2017-10-22 20:11:03 : Fun (10) đã chuyển Chuông Hám Thiên , Anh Hùng Chiến Y - Vàng , Tử Sâm Đơn cho người chơi -TT- có số id 61
+2017-10-22 20:11:12 : Fun (10) đã chuyển Vô Song Điểm Phiếu , Đại Pháp Lực Thạch , Trung Cấp Đoạn Thạch cho người chơi -TT- có số id 61
+2017-10-22 20:13:38 : Fun (10) đã chuyển Truyền Tống Phù , Hoả Phù , Túi Hoàng Kim Tân Thủ cấp 40 , Lỗ Ban Bảo Thạch , Tiểu Huyết Thạch , Thiên Nguyên Đan cho người chơi -TT- có số id 61
+2017-10-22 20:13:51 : Fun (10) đã chuyển Túi Pháp Bảo , Bí Kíp Kim Nguyên Bảo(100) , Bí Kíp Kim Nguyên Bảo(200) , Phi Hành Phù , Hồng Cầu cho người chơi -TT- có số id 61
+2017-10-22 20:25:12 : HàNội (43) đã chuyển Sơ Cấp Đoạn Thạch cho người chơi SàiGòn có số id 44
+2017-10-22 20:25:20 : HàNội (43) đã chuyển Cao Cấp Đoạn Thạch cho người chơi SàiGòn có số id 44
+2017-10-22 20:29:02 : Fun (10) đã chuyển Nhiếp Hồn Linh cho người chơi -TT- có số id 61
+2017-10-22 20:39:43 : 123tt (9) đã chuyển  45252000 lượng cho người chơi ❤Phủ có số id 3
+2017-10-22 20:42:04 : Siêubúp#09 (35) đã chuyển  35943106 lượng cho người chơi ❤Phủ có số id 3
+2017-10-22 20:42:18 : ❤Phủ (3) đã chuyển Vân Long Yêu Đới cho người chơi Nghịch03 có số id 2
+2017-10-22 20:42:40 : Nghịch03 (2) đã chuyển Vân Long Yêu Đới cho người chơi ❤Phủ có số id 3
+2017-10-22 20:42:54 : ❤Phủ (3) đã chuyển Lôi Thần Quán , Vân Long Yêu Đới cho người chơi Nghịch03 có số id 2
+2017-10-22 20:44:06 : ❤Phủ (3) đã chuyển  80000000 lượng cho người chơi ❣EmPlus có số id 4
+2017-10-22 20:46:56 : ❤Phủ (3) đã chuyển Công thức Lôi Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-22 20:47:51 : ❣EmPlus (4) đã chuyển Công thức Lôi Thần Pháp Bào cho người chơi ❤Phủ có số id 3
+2017-10-22 21:16:40 : Nghịch03 (2) đã chuyển Phong Thần Hạng Liên , Công thức Lôi Thần Quán , Công thức Lôi Thần Chiến Khôi , Phong Thần Hạng Liên , Công thức Lôi Thần Pháp Bào cho người chơi ❤Phủ có số id 3
+2017-10-22 21:16:47 : Nghịch03 (2) đã chuyển Công thức Phi Vũ Quán cho người chơi VMC có số id 8
+2017-10-22 21:23:57 : ❤Phủ (3) đã chuyển Phong Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-22 21:26:37 : ❣EmPlus (4) đã chuyển Khuynh Lộ Hài cho người chơi VMC có số id 8
+2017-10-22 21:27:04 : ❤Phủ (3) đã chuyển Lôi Thần Pháp Bào , Lôi Thần Lý cho người chơi VMC có số id 8
+2017-10-22 21:32:36 : -TT- (61) đã chuyển Hoả Phù , Truyền Tống Phù , Chuông Hám Thiên cho người chơi -GV- có số id 62
+2017-10-22 21:32:44 : -TT- (61) đã chuyển  2000000 lượng cho người chơi -GV- có số id 62
+2017-10-22 21:39:17 : Nghịch03 (2) đã chuyển Dép Lào , Dầu Ăn cho người chơi VMC có số id 8
+2017-10-22 21:39:47 : VMC (8) đã chuyển Dép Lào , Chiếu Thư Thiên Tử , Dầu Ăn cho người chơi Nghịch03 có số id 2
+2017-10-22 22:01:25 : VMC (8) đã chuyển Đoạn Thạch Đặc Biệt Sơ Cấp cho người chơi Nghịch03 có số id 2
+2017-10-22 22:05:19 : Lượn (24) đã chuyển Hàn Thiết Đao cho người chơi Láo-À có số id 58
+2017-10-22 22:15:09 : Lượn (24) đã chuyển Hồn Sương Lý cho người chơi Láo-À có số id 58
+2017-10-22 22:15:29 : ❣EmPlus (4) đã chuyển Đoạn Thạch Đặc Biệt Sơ Cấp , Đoạn Thạch Đặc Biệt Trung Cấp cho người chơi Nghịch03 có số id 2
+2017-10-22 22:29:21 : Lượn (24) đã chuyển Phệ Huyết Côn cho người chơi Láo-À có số id 58
+2017-10-22 22:36:30 : Lượn (24) đã chuyển Nhiếp Hồn Kiếm cho người chơi Láo-À có số id 58
+2017-10-22 22:41:59 : -TT- (61) đã chuyển Lệnh PretKuzl cho người chơi -GV- có số id 62
+2017-10-22 22:42:21 : Lượn (24) đã chuyển Kim Cương Hộ Thủ cho người chơi Láo-À có số id 58
+2017-10-22 22:46:04 : -TT- (61) đã chuyển Đại Pháp Lực Thạch cho người chơi -GV- có số id 62
+2017-10-22 22:48:55 : Lượn (24) đã chuyển Tụ Tiễn cho người chơi Láo-À có số id 58
+2017-10-22 23:22:07 : Fun (10) đã chuyển Động , Lao , Giải , Sổ Xố Sơ cho người chơi -TT- có số id 61
+2017-10-22 23:23:46 : Fun (10) đã chuyển Đá Càn Khôn , Đá Tương Uyên , Động , Lao cho người chơi -TT- có số id 61
+2017-10-22 23:24:18 : Fun (10) đã chuyển Sổ Xố Trung , Sổ Xố Cao , Sổ Xố Cực , Vô Song Điểm Phiếu cho người chơi -TT- có số id 61
+2017-10-22 23:49:27 : -GV- (62) đã chuyển  4800000 lượng cho người chơi -TT- có số id 61
+2017-10-23 00:09:53 : -GV- (62) đã chuyển Quả thường cho người chơi -TT- có số id 61
+2017-10-23 07:35:32 : Lượn (24) đã chuyển Thanh Văn Côn cho người chơi T.T có số id 32
+2017-10-23 07:40:22 : T.T (32) đã chuyển Thanh Văn Côn cho người chơi Lượn có số id 24
+2017-10-23 08:10:47 : Lượn (24) đã chuyển Kỳ Lân Ngọc Bội cho người chơi Láo-À có số id 58
+2017-10-23 09:22:23 : Nghịch03 (2) đã chuyển Đại Pháp Lực Thạch cho người chơi ❣EmPlus có số id 4
+2017-10-23 09:33:31 : iiiiiiiiii (21) đã chuyển Lao , Phóng , Giải Phóng Lao Động , Giải , Động cho người chơi ❣EmPlus có số id 4
+2017-10-23 10:26:53 : Nghịch03 (2) đã chuyển Khu Ma Côn , Cuồng Sư Đầu Khôi , Tử Diễm Hạng Liên , Cuồng Sư Ngoa , Phá Địch Yêu Đới , Cuồng Sư Chiến Giáp cho người chơi ❣EmPlus có số id 4
+2017-10-23 10:27:43 : Nghịch03 (2) đã chuyển Hỏa Tinh Thạch cấp 5  , Hỏa Tinh Thạch cấp 5  cho người chơi ❣EmPlus có số id 4
+2017-10-23 10:28:37 : ❣EmPlus (4) đã chuyển  100000000 lượng , Phong Thần Hạng Liên cho người chơi 123tt có số id 9
+2017-10-23 10:28:47 : ❣EmPlus (4) đã chuyển Tử Diễm Hạng Liên , Cuồng Sư Đầu Khôi , Khu Ma Côn , Cuồng Sư Chiến Giáp , Phá Địch Yêu Đới , Cuồng Sư Ngoa cho người chơi 123tt có số id 9
+2017-10-23 10:39:23 : Nghịch03 (2) đã chuyển Ngọc Thần Bảo Kiếm cho người chơi VMC có số id 8
+2017-10-23 10:39:40 : ❤Phủ (3) đã chuyển Phong Thần Hạng Liên cho người chơi 123tt có số id 9
+2017-10-23 10:45:08 : Nghịch03 (2) đã chuyển Vân Long Yêu Đới cho người chơi 123tt có số id 9
+2017-10-23 10:47:10 : ❣EmPlus (4) đã chuyển Ám Hồn Hạng Liên cho người chơi 123tt có số id 9
+2017-10-23 10:48:00 : ❣EmPlus (4) đã chuyển  114082846 lượng cho người chơi 123tt có số id 9
+2017-10-23 10:54:24 : 123tt (9) đã chuyển Vân Long Yêu Đới cho người chơi Nghịch03 có số id 2
+2017-10-23 10:59:29 : 123tt (9) đã chuyển Phong Thần Hạng Liên , Ám Hồn Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-23 10:59:42 : 123tt (9) đã chuyển  142658846 lượng cho người chơi ❣EmPlus có số id 4
+2017-10-23 11:01:30 : ❣EmPlus (4) đã chuyển Thổ Linh Thạch cấp 4  , Phong Thần Hạng Liên cho người chơi ❤Phủ có số id 3
+2017-10-23 11:04:00 : ❤Phủ (3) đã chuyển Hỏa Tinh Thạch cấp 4  cho người chơi ❣EmPlus có số id 4
+2017-10-23 11:23:45 : ❤Phủ (3) đã chuyển Phong Thần Hạng Liên cho người chơi ❣EmPlus có số id 4
+2017-10-23 14:42:02 : Lượn (24) đã chuyển Phong Thần Hạng Liên cho người chơi T.T có số id 32
+2017-10-23 14:43:15 : Lượn (24) đã chuyển  10000000 lượng cho người chơi T.T có số id 32
+2017-10-23 14:47:55 : T.T (32) đã chuyển Phong Thần Hạng Liên cho người chơi Lượn có số id 24
+2017-10-23 16:14:23 : Bum (7) đã chuyển Đoạn Thạch Đặc Biệt Sơ Cấp cho người chơi Lượn có số id 24
+2017-10-23 16:14:33 : Bum (7) đã chuyển Cao Cấp Đoạn Thạch Kết Dính , Sơ Cấp Đoạn Thạch cho người chơi Lượn có số id 24
+2017-10-23 16:14:37 : Bum (7) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Lượn có số id 24
+2017-10-23 16:14:38 : Bum (7) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Lượn có số id 24
+2017-10-23 16:15:51 : Lượn (24) đã chuyển Thanh Văn Côn cho người chơi Bum có số id 7
+2017-10-23 16:15:56 : Bum (7) đã chuyển Thanh Văn Côn cho người chơi Lượn có số id 24
+2017-10-23 16:16:05 : Bum (7) đã chuyển Cao Cấp Đoạn Thạch cho người chơi Lượn có số id 24
+2017-10-23 16:18:15 : Bon (6) đã chuyển Túi Quà Đặc Biệt cho người chơi Lượn có số id 24
+2017-10-23 20:27:41 : ❤Phủ (3) đã chuyển Mảnh Ghép Đoạn Thạch cho người chơi ❣EmPlus có số id 4
+2017-10-23 20:29:59 : ❣EmPlus (4) đã chuyển Tiêu Dao Tán cho người chơi ❤Phủ có số id 3
+2017-10-23 21:22:19 : VMC (8) đã chuyển Chiếu Thư Thiên Tử , Đoạn Thạch Đặc Biệt Trung Cấp , Nhập môn Thân Thủ Vô Ảnh cho người chơi Nghịch03 có số id 2
+2017-10-23 21:24:55 : ❣EmPlus (4) đã chuyển Túi Linh Thạch cho người chơi 969 có số id 63
+2017-10-23 21:25:26 : 969 (63) đã chuyển Kim Tinh Thạch cấp 4  , Kim Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 2  , Kim Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 2  cho người chơi ❣EmPlus có số id 4
+2017-10-23 21:25:37 : 969 (63) đã chuyển Kim Tinh Thạch cấp 2  , Thổ Tinh Thạch cấp 4  , Kim Tinh Thạch cấp 3  cho người chơi ❣EmPlus có số id 4
+2017-10-23 21:25:53 : 969 (63) đã chuyển Phong Tinh Thạch cấp 5  cho người chơi ❣EmPlus có số id 4
+2017-10-23 21:26:09 : 969 (63) đã chuyển Phong Tinh Thạch cấp 5  cho người chơi ❣EmPlus có số id 4
+2017-10-23 21:27:08 : 969 (63) đã chuyển Túi Linh Thạch cho người chơi ❣EmPlus có số id 4
+2017-10-23 21:28:22 : Nghịch03 (2) đã chuyển Triệt Vân Quán cho người chơi VMC có số id 8
+2017-10-23 21:37:04 : Nghịch03 (2) đã chuyển Thổ Tinh Thạch cấp 5  cho người chơi ❤Phủ có số id 3
+2017-10-23 21:37:16 : ❣EmPlus (4) đã chuyển Ảnh Tinh Thạch cấp 6  cho người chơi ❤Phủ có số id 3
+2017-10-23 21:37:24 : ❤Phủ (3) đã chuyển Ảnh Tinh Thạch cấp 6  cho người chơi Nghịch03 có số id 2
+2017-10-23 21:44:38 : SàiGòn (44) đã chuyển Túi Hoàng Kim 6*(Hạng Liên) cấp 60 cho người chơi HàNội có số id 43
+2017-10-23 21:45:00 : HàNội (43) đã chuyển Cửu Long Thần Hỏa Trảo cho người chơi SàiGòn có số id 44
+2017-10-23 21:45:23 : ❣EmPlus (4) đã chuyển Mộc Tinh Thạch cấp 5  cho người chơi ❤Phủ có số id 3
+2017-10-23 21:53:53 : ❣EmPlus (4) đã chuyển Kim Tinh Thạch cấp 5  cho người chơi ❤Phủ có số id 3
+2017-10-23 22:00:15 : ❣EmPlus (4) đã chuyển Kim Tinh Thạch cấp 5  cho người chơi ❤Phủ có số id 3
+2017-10-23 22:03:33 : ❣EmPlus (4) đã chuyển Thổ Tinh Thạch cấp 5  , Thổ Tinh Thạch cấp 5  cho người chơi ❤Phủ có số id 3

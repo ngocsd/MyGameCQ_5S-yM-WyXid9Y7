@@ -1,9 +1,9 @@
 #/inh/user/user.c
-SaveDatabase (["ketacc":1,"tips_status":40,"tienxu":4,"yuanbao":15664,"pblx2":1,"nhandoict":0,"phongbaolixi2":1,"tipstatus":({469266174,27261923,}),"dbtime_s":283,"famrec":1,"stone_hp":0,"fly":32,"login_count":1,"phongbaolixi":0,"muavip":"1 0 1","pblx":5400,"nguhanh":3,"new_sj":5,"dplbxiaogw":3,"ndmkk":0,"can_get_prize":1,"ndmkhtk":0,"xitang":1508250756,"tipsstatus":25398,])
-SaveDbase2 (["sqcd1":(["score":0,]),"question":(["day":283,"totalfail":1,"number":10,"order":({8,7,11,27,57,46,24,37,19,13,}),]),"online_rank":(["level":3,"start":1508412366,"time":375461,]),"pt":(["h2":1,"de":1,"de1":1,"de2":1,"h1":1,"h3":1,]),"nhanba":(["time2":0,"time":0,"time3":0,"freeze":0,"week":2492,"time1":0,]),"shitu":(["exp":60000,]),"hd":(["de":(["level":51,"id":7,"name":"Bum","account":"famton1",]),"h":(["level":20,"id":24,"name":"Lượn","account":"11qe#2",]),]),"double_time":(["time2":1,"time":0,"time3":0,"freeze":0,"week":2492,"time1":1,]),"familyuse":1508394403,"diemtn":(["score":2,]),"check":(["score":1,]),"hotkey":(["54":"4131","47":"4132","8":"98","18":"72","58":"4143","17":"71","10":"51","59":"2712","43":"4175","46":"4172","55":"4148","41":"Phi Hành Phù","9":"61","44":"4136","7":"99","45":"4130","60":"2711","57":"4144","16":"70","56":"4145","53":"4174","52":"70","20":"74","19":"73",]),"task":(["story":2,]),"sll":(["score":9,]),"fride":(["day":289,"gio":10,]),"timepbexp":9,"timepbnl":15,"baishi":([]),"mastertask":(["day":290,"count":0,"fivebonus":0,]),"changping":(["killed":139,"totalscore":506,"rank":4,"score":506,"lose":12,]),"vita":(["640":({528512,1107296256,8,4195336,}),"620":({0,14942210,0,0,0,0,0,0,0,268435456,}),]),])
+SaveDatabase (["stone_hp":0,"pblx":5400,"yuanbao":15664,"new_sj":5,"ndmkk":0,"dbtime_s":283,"login_count":1,"tienxu":4,"pblx2":1,"tipsstatus":25398,"tips_status":40,"phongbaolixi2":1,"tipstatus":({469266174,27261923,}),"ketacc":1,"fly":32,"dplbxiaogw":3,"phongbaolixi":0,"can_get_prize":1,"muavip":"1 0 1","nhandoict":0,"ndmkhtk":0,"xitang":1508250756,"famrec":1,"nguhanh":3,])
+SaveDbase2 (["hd":(["h":(["level":20,"name":"Lượn","id":24,"account":"11qe#2",]),"de":(["level":51,"name":"Bum","id":7,"account":"famton1",]),]),"timepbexp":9,"pt":(["h2":1,"de1":1,"h3":1,"h1":1,"de":1,"de2":1,"h100":1,]),"changping":(["totalscore":506,"killed":139,"lose":12,"score":506,"rank":4,]),"timepbnl":15,"vita":(["620":({0,14942210,0,0,0,0,0,0,0,268435456,}),"640":({528512,1107296256,8,4195336,}),]),"double_time":(["freeze":0,"time":0,"time3":0,"time1":1,"time2":1,"week":2492,]),"fride":(["day":289,"gio":10,]),"hotkey":(["8":"98","43":"4175","46":"4172","57":"4144","17":"71","44":"4136","53":"4174","59":"2712","54":"4131","9":"61","60":"2711","52":"70","47":"4132","41":"Phi Hành Phù","18":"72","7":"99","45":"4130","20":"74","58":"4143","16":"70","56":"4145","10":"51","55":"4148","19":"73",]),"mastertask":(["day":290,"fivebonus":0,"count":0,]),"sll":(["score":9,]),"task":(["story":2,]),"baishi":([]),"familyuse":1508394403,"diemtn":(["score":2,]),"sqcd1":(["score":0,]),"online_rank":(["start":1508412366,"time":375461,"level":3,]),"shitu":(["exp":2627517,]),"question":(["number":10,"day":283,"totalfail":1,"order":({8,7,11,27,57,46,24,37,19,13,}),]),"nhanba":(["freeze":0,"time":0,"time3":0,"time1":0,"time2":0,"week":2492,]),"check":(["score":1,]),])
 Gender 1
 NoFight 1
-StartPlace "80:(323,113)3"
+StartPlace "0:(-4,-3)3"
 Gift1 (/30,25,25,25,25,/)
 Gift2 (/0,240,0,0,0,/)
 Hair 1
@@ -46,15 +46,15 @@ mpQuest ([])
 mpFly ([])
 mpMascot ([])
 mpChBlk ([])
-mpLOG (["$give2$L":1000000,"#npc":14403,"$give2$H":0,"&npc":10297038,"$give$L":45000000,"$pay$L":180453,"$give$H":0,"$get$L":26730374,"$get$H":0,"*npc":15781,"$learn$H":0,"$learn$L":3360434,"$sell$L":1507653,"$sell$H":0,"$buy$L":2905160,"$pay$H":0,"$buy$H":0,])
+mpLOG (["#npc":14403,"$buy$H":0,"$give$L":45000000,"$learn$H":0,"$give$H":0,"$get$L":26730374,"*npc":15781,"$get$H":0,"$give2$L":1000000,"$pay$L":180453,"$sell$H":0,"$pay$H":0,"$sell$L":1507653,"$buy$L":2905160,"&npc":10297038,"$learn$L":3360434,"$give2$H":0,])
 Strength 200
 Jobs ([])
-mpPerform (["04144":1508310181,"04145":1508310182,"04132":1508394048,"04148":1508209442,"04175":1508310184,"04131":1508209638,"04136":1507950656,"04172":1507950819,"02712":1508394270,"02711":1508393227,"04143":1508393255,"04174":1508394052,])
+mpPerform (["04132":1508394048,"04131":1508209638,"04143":1508393255,"02712":1508394270,"04136":1507950656,"04172":1507950819,"04174":1508394052,"04175":1508310184,"02711":1508393227,"04144":1508310181,"04145":1508310182,"04148":1508209442,])
 Family (/"Mao Sơn",0,4,0,"Linh Toán Tử",0,1507705100,/)
 Org (/"ADĐụt",1,0,"－－",0,0,1507859398,/)
 City (/"Sở Quốc",1,0,0,0,0,1507859398,/)
 FamilyType 5
-Skills (["0640":(/69,1,/),"0414":(/36,0,/),"0620":(/67,1,/),"0271":(/25,0,/),"0417":(/32,0,/),"0418":(/1,0,/),"0413":(/60,0,/),])
+Skills (["0417":(/32,0,/),"0418":(/1,0,/),"0620":(/67,1,/),"0271":(/25,0,/),"0413":(/60,0,/),"0640":(/69,1,/),"0414":(/36,0,/),])
 Skills_0 ([])
 Skills_1 ([])
 Skills_2 ([])
